@@ -1,0 +1,131 @@
+{
+  "symbol": "SHARDACROP.NS",
+  "name": "Sharda Cropchem Limited",
+  "sector": "Materials / Chemicals",
+  "industry": "Agrochemical formulations / generics (asset-light registration-led model, third-party sourced)",
+  "financials": {
+    "years": [2023, 2024, 2025, 2026],
+    "revenue": [4045.0, 3163.0, 4319.9, 5267.6],
+    "ebitda": [525.0, 160.0, 682.0, 1040.0],
+    "depreciation": [15.0, 18.0, 22.0, 28.0],
+    "interest_expense": [12.0, 15.0, 8.0, 5.0],
+    "pat": [342.0, 31.9, 304.4, 681.0],
+    "ocf": [400.0, 130.0, 520.0, 800.0],
+    "capex": [40.0, 45.0, 60.0, 120.0],
+    "net_fixed_assets": [120.0, 140.0, 180.0, 250.0],
+    "cwip": [10.0, 15.0, 20.0, 40.0],
+    "net_working_capital": [1050.0, 950.0, 1150.0, 1450.0],
+    "total_debt": [0.0, 0.0, 0.0, 0.0],
+    "cash_equiv": [350.0, 300.0, 450.0, 700.0],
+    "net_worth": [1745.0, 1696.0, 1920.0, 2500.57],
+    "dividend_paid": [90.0, 81.0, 81.0, 108.0],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 765.55,
+    "market_cap_cr": 6906.83,
+    "adtv_cr": 12.0,
+    "shares_outstanding": 9.022,
+    "diluted_shares_outstanding": 9.022,
+    "sector_median_pe": 26.0,
+    "sector_median_pb": 4.5,
+    "ten_year_gsec_yield": 0.0693,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": 277.16
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Sharda sells off-patent, generic formulations (fungicides/herbicides/insecticides) into price-competitive Europe/NAFTA/LATAM markets -- fundamentally a price-taker versus innovator agrochemical majors. FY25 gross margin did expand ~400bps to 29.8% and Q1 FY26 gross margin rose a further 630bps to 35.5% (search-cited, Tier 3 press/aggregator), which is a real, recent improvement, but it looks more like post-destocking price/mix normalization than durable pricing power, so held at AMBER/HOLDING rather than upgraded."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Sharda holds the regulatory dossier/registration for each product in its own name in tightly regulated markets, and distributors sourcing a registered generic through Sharda's 525+-distributor 'Factory-to-Farmer' network face some switching friction (a competitor would need its own registration for the same molecule/formulation in that jurisdiction). But the underlying active ingredient is a commodity (90-95% sourced from China/India per company disclosure) that a rival with an equivalent registration can substitute freely, so this is a moderate, not structural, switching cost."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Not applicable. A registration-led generic-agrochemical distribution model has no network-effect dynamic -- value to one distributor/farmer does not rise with the number of other customers on the platform. Structurally absent, not merely weak."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Sharda owns no manufacturing and sources ~90-95% of active ingredients from Chinese/Indian suppliers and outsources formulation to specialized European/US partners -- this gives capital-light flexibility and negotiating scale from aggregated purchasing across 80+ countries, but no proprietary process-chemistry or manufacturing cost edge of the kind a Divi's-style API maker has. Largely a management-narrative-level claim (scale sourcing) at this evidence tier, not independently benchmarked against peer unit costs."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "This is the company's most credible moat source: a portfolio of 2,994 product registrations plus 1,068 applications under review across 80+ countries, concentrated in tightly regulated, multi-year-approval-cycle markets (Europe, NAFTA, LATAM). Building and maintaining a registration dossier for a generic molecule in the EU or US typically takes years and meaningful capital, which is a genuine regulatory barrier to entry for smaller/newer generic players. The company is continuing to invest here (guided ~Rs400-450 Cr FY26 capex explicitly described by management/press as registration-linked, not manufacturing capex), so trajectory is honestly BUILDING. Caveat: the portfolio's economic value (how much of it is actively monetized vs dormant) was not independently verified in this search."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Sharda's 525+-distributor global network and 80+-country registration footprint give it real scale relative to small regional generic players, but the company (~Rs6,900 Cr market cap) is a mid-sized player relative to sector giants (UPL ~Rs48,000 Cr, PI Industries ~Rs40,600 Cr market cap, plus MNC majors like Bayer/Corteva/Syngenta), so its scale is a real but non-dominant advantage, not an efficient-scale moat that structurally deters entry at the top of the industry."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 6,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 7,
+    "management_stability": 7,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 5,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 74.8,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "The global generic-agrochemical industry went through a real, well-documented 2023-2024 inventory-destocking downturn (European/North American distributors worked down COVID-era excess stock; Sharda's own FY24 revenue fell 22% and PAT fell 91% as a direct result). As of mid-to-late 2026, multiple industry sources describe that destocking as largely complete, with demand recovering gradually and India specifically gaining generic-agrochemical export share as global buyers diversify away from Chinese technical-grade suppliers (India became the world's #2 agrochemical exporter by 2022 and exports are 'returning to growth in FY26-27' per trade sources). Sharda's own FY25 (EBITDA margin 15.8%) and FY26 (revenue +22% to Rs5,267.6 Cr, EBITDA margin 19.7%, ROCE a reported 30.4%) results track this recovery. Classified INFLECTION rather than MATURE because the destocking-trough-to-recovery transition is a real structural pivot point still playing out, not simply a fluctuation within a stable mature state -- though it could just as easily prove to be one more turn of a historically volatile commodity-adjacent cycle (FY23-FY26 PAT: Rs342 Cr -> Rs32 Cr -> Rs304 Cr -> Rs681 Cr), which is exactly the ambiguity this framework should not paper over.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 3.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 20.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.01,
+    "margin_delta_mechanism_note": "FY25->FY26 EBITDA margin genuinely expanded 15.8% -> 19.7% (Tier 3, reported) alongside gross-margin gains, attributed in press/management commentary to better mix and pricing discipline as the destocking overhang cleared and the registration portfolio widened the addressable product set. A modest 1%/yr further margin-delta CAGR is assumed here rather than extrapolating the FY24->FY26 recovery-magnitude improvement, because two data points following a severe trough do not yet establish a durable new margin floor -- this is exactly the kind of unproven margin delta Section 6A says should default toward zero rather than be taken at face value."
+  },
+  "variant_perception": {
+    "market_belief": "At Rs765.55/share (Rs6,906.83 Cr market cap) against FY26 PAT of Rs681 Cr, the stock trades around 10x trailing earnings -- roughly a 60% discount to the agrochemical sector median PE (~26x; peers PI Industries ~31x, Bayer CropScience ~27x, UPL ~21x). The market appears to be pricing Sharda as a cyclical, low-quality generic trader whose FY26 earnings spike is a mean-reverting bounce off the FY24 destocking trough (PAT: Rs342 Cr -> Rs32 Cr -> Rs304 Cr -> Rs681 Cr over four years) rather than a new, durable earnings level.",
+    "whats_wrong_with_belief": "There is a genuine, if not fully proven, case that this discount is too wide. The company is now debt-free with a reported 30.4% ROCE and expanding margins (15.8% -> 19.7% EBITDA margin FY25->FY26), and its core asset -- 2,994 product registrations plus 1,068 pending across 80+ countries in multi-year-approval-cycle markets (EU/NAFTA/LATAM) -- is a real regulatory-barrier intangible that a purely 'commodity trader' framing undervalues; recent capex (Rs400-450 Cr/yr) is explicitly registration-linked, i.e. compounding that asset, not consuming it. Sell-side coverage is thin (search surfaced only ~6 analysts) and institutional ownership is low (FII ~3.1% + DII ~9.2% =~12.3%, vs promoter 74.8%), consistent with genuine coverage neglect of a sub-Rs7,000 Cr-market-cap name. Against that, I could not rule out the opposite, more skeptical read: the FY23-FY26 record shows this business is genuinely, structurally volatile (a 91% PAT collapse in a single year is not a rounding error), 83-85% of revenue is concentrated in Europe/NAFTA, and ~90-95% of active-ingredient sourcing depends on China/India suppliers -- so a 10x multiple could simply be a fair price for a cyclical, thin-moat trading model rather than a neglected compounder. I am not confident enough in the evidence gathered here to call this a high-conviction mispricing; it is a plausible, evidenced case, not a proven one.",
+    "persistence_mechanism": "Small/mid-cap (~Rs6,900 Cr) with low institutional ownership (~12.3% combined FII+DII) and thin sell-side coverage (~6 analysts found), which is a real structural reason a genuine improvement could go unrepriced for longer than it would at a large, heavily-covered peer.",
+    "m3_edge": "coverage_neglect",
+    "gap_closing_event": "One or two more full fiscal years (FY27, FY28) confirming the FY26 EBITDA-margin level (~19-20%) and ROCE (~30%) hold rather than reverting toward the FY23-25 boom-bust pattern, plus clearer disclosure of the registration portfolio's revenue contribution, would be the concrete evidence needed to justify a sell-side re-rating -- this has not happened yet.",
+    "reverse_dcf_implied_growth": null,
+    "answered": true
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": true,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DATA QUALITY (read before trusting any number here). Live aggregator sites (Screener, Moneycontrol, Tijori, NSE/BSE filing archives) were unreachable from this environment; all figures below came from WebSearch snippets of press coverage, trade publications (Indian Chemical News, Agro Spectrum India, MarketsMojo, Free Press Journal, Whalesbook) and aggregator-summary text (Trendlyne, IndMoney, Simply Wall St), which is Tier 3 (aggregator) at best -- nothing here is Tier 1/2 audited-filing-sourced. REAL, SEARCH-CITED figures (Tier 3): FY23 revenue Rs4,045 Cr / PAT Rs342 Cr; FY24 revenue Rs3,163 Cr / PAT Rs31.9 Cr (the destocking-crash year); FY25 revenue Rs4,319.9 Cr / PAT Rs304.4 Cr / EBITDA Rs682 Cr (15.8% margin) / gross margin 29.8%; FY26 revenue Rs5,267.6 Cr / PAT Rs681 Cr / EBITDA Rs1,040 Cr (19.7% margin) / ROCE 30.4% / net worth Rs2,500.57 Cr / book value Rs277.16/share / cash+liquid investments ~Rs702 Cr / debt-free; current price Rs765.55 (13-Sep-2026) and market cap Rs6,906.83 Cr (11-Sep-2026); shares outstanding 90,220,500 (9.022 Cr, Rs10 face value, unchanged since the 2014 IPO); promoter holding 74.8% (Jun-2026), zero pledge, described as stable since 2023; registration portfolio of 2,994 registrations + 1,068 pending across 80+ countries; ~90-95% active-ingredient sourcing from China/India; 83-85% revenue from Europe/NAFTA; sector peer PEs (PI Industries ~31x, UPL ~21x, Bayer CropScience ~27x). RECONSTRUCTED/APPROXIMATE (Tier 5, flagged, do not treat as audited): FY23/FY24 EBITDA (Rs525 Cr / Rs160 Cr -- no cited figure found, backed out from typical margin assumptions and the known severity of the FY24 collapse); ALL of depreciation, interest expense, OCF, capex, net fixed assets, CWIP, net working capital, and net worth for FY23-FY25 (FY26 net worth Rs2,500.57 Cr is real; earlier years were walked backward from it using PAT and estimated dividends, and will not exactly reconcile with any single reported balance sheet); total debt shown as a flat 0 across all four years is a simplification of the repeatedly-documented 'debt-free' status, which may not capture small short-term working-capital borrowings if any existed; dividend-per-share figures (FY24/FY25 ~Rs9, FY26 ~Rs12) came from conflicting aggregator summaries (one source separately described a Rs9 'final dividend, 90% of face value' for FY26) and were not reconciled to a single authoritative number; ADTV (Rs12 Cr/day) and sector median PB (4.5x) are unsourced analyst-style estimates, not citations; the 10-year G-sec yield (6.93%, dated 11-Sep-2026) is an approximate current-market figure, not independently re-verified this session. IMPORTANT: because of the reconstructed balance-sheet series, this dossier's internally computed ROCE/leverage figures should be expected to diverge from the company's own reported 30.4% ROCE (a sanity check using the reconstructed net-worth/cash figures here implies a considerably higher ROCE, which is a reconstruction artifact, not a real result -- treat the company-reported 30.4% as the more credible number). m5_protocol_complete is honestly set to False (single-pass web-search reconstruction, not an adversarial multi-analyst review, and no primary filings were read). variant_perception.answered is set to True because a specific, evidenced (if not fully proven) coverage-neglect case could be constructed -- see the variant_perception fields for the full reasoning and its counter-evidence, which is real and non-trivial (structural earnings volatility, geographic and input-sourcing concentration)."
+}
