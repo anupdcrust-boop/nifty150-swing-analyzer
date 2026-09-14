@@ -1,0 +1,67 @@
+{
+  "Nifty 50": {
+    "covered": [
+      "NESTLEIND.NS",
+      "SBIN.NS"
+    ],
+    "history": [
+      {
+        "ticker": "NESTLEIND.NS",
+        "date": "2026-09-13"
+      },
+      {
+        "ticker": "SBIN.NS",
+        "date": "2026-09-14"
+      }
+    ]
+  },
+  "Nifty Midcap 100 (representative sample)": {
+    "covered": [
+      "DEEPAKNTR.NS",
+      "INDHOTEL.NS"
+    ],
+    "history": [
+      {
+        "ticker": "DEEPAKNTR.NS",
+        "date": "2026-09-13"
+      },
+      {
+        "ticker": "INDHOTEL.NS",
+        "date": "2026-09-14"
+      }
+    ]
+  },
+  "Nifty Smallcap 250 (representative sample)": {
+    "covered": [
+      "CAPLIPOINT.NS",
+      "CARBORUNIV.NS"
+    ],
+    "history": [
+      {
+        "ticker": "CARBORUNIV.NS",
+        "date": "2026-09-13"
+      },
+      {
+        "ticker": "CAPLIPOINT.NS",
+        "date": "2026-09-14"
+      }
+    ]
+  },
+  "Nifty Microcap 250 (representative sample)": {
+    "covered": [
+      "SHARDACROP.NS",
+      "SOUTHBANK.NS"
+    ],
+    "history": [
+      {
+        "ticker": "SOUTHBANK.NS",
+        "date": "2026-09-13"
+      },
+      {
+        "ticker": "SHARDACROP.NS",
+        "date": "2026-09-14"
+      }
+    ]
+  },
+  "_last_run_utc": "2026-09-14T02:34:50.262419+00:00"
+}

@@ -1,0 +1,222 @@
+{
+  "symbol": "BAJFINANCE.NS",
+  "name": "Bajaj Finance Limited",
+  "sector": "Financials",
+  "industry": "NBFC -- consumer, SME and commercial lending",
+  "financials": {
+    "years": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014
+    ],
+    "revenue": [
+      861.8530378972939,
+      1120.408949266482,
+      1456.531634046427,
+      1893.4911242603548,
+      2461.5384615384614,
+      3200.0
+    ],
+    "ebitda": [
+      474.0191708435117,
+      616.2249220965651,
+      801.0923987255348,
+      1041.4201183431953,
+      1353.8461538461538,
+      1760.0000000000002
+    ],
+    "depreciation": [
+      1.723706075794588,
+      2.2408178985329643,
+      2.913063268092854,
+      3.78698224852071,
+      4.923076923076923,
+      6.4
+    ],
+    "interest_expense": [
+      213.30862687958023,
+      277.3012149434543,
+      360.49157942649066,
+      468.6390532544378,
+      609.2307692307692,
+      792.0
+    ],
+    "pat": [
+      159.17348293665646,
+      206.92552781765335,
+      269.0031861629495,
+      349.70414201183434,
+      454.6153846153845,
+      591.0
+    ],
+    "ocf": [
+      379.21533667480935,
+      492.9799376772521,
+      640.8739189804279,
+      833.1360946745563,
+      1083.076923076923,
+      1408.0000000000002
+    ],
+    "capex": [
+      4.30926518948647,
+      5.60204474633241,
+      7.282658170232135,
+      9.467455621301774,
+      12.307692307692307,
+      16.0
+    ],
+    "net_fixed_assets": [
+      17.23706075794588,
+      22.40817898532964,
+      29.13063268092854,
+      37.869822485207095,
+      49.230769230769226,
+      64.0
+    ],
+    "cwip": [
+      43.0926518948647,
+      56.0204474633241,
+      72.82658170232135,
+      94.67455621301775,
+      123.07692307692308,
+      160.0
+    ],
+    "net_working_capital": [
+      43.0926518948647,
+      56.0204474633241,
+      72.82658170232135,
+      94.67455621301775,
+      123.07692307692308,
+      160.0
+    ],
+    "total_debt": [
+      2370.095854217558,
+      3081.1246104828256,
+      4005.461993627674,
+      5207.1005917159755,
+      6769.230769230769,
+      8800.0
+    ],
+    "cash_equiv": [
+      34.47412151589176,
+      44.81635797065928,
+      58.26126536185708,
+      75.73964497041419,
+      98.46153846153845,
+      128.0
+    ],
+    "net_worth": [
+      474.0191708435117,
+      616.2249220965651,
+      801.0923987255348,
+      1041.4201183431953,
+      1353.8461538461538,
+      1760.0000000000002
+    ],
+    "dividend_paid": [
+      23.876022440498467,
+      31.038829172648,
+      40.35047792444242,
+      52.455621301775146,
+      68.19230769230768,
+      88.64999999999999
+    ],
+    "tax_rate": [
+      0.33,
+      0.33,
+      0.33,
+      0.33,
+      0.33,
+      0.33
+    ]
+  },
+  "market": {
+    "price": 400.0,
+    "market_cap_cr": 9800.0,
+    "adtv_cr": 10.0,
+    "shares_outstanding": 24.5,
+    "diluted_shares_outstanding": 24.5,
+    "sector_median_pe": 18.0,
+    "sector_median_pb": 3.0,
+    "ten_year_gsec_yield": 0.087,
+    "gsec_date": "2014-03-31",
+    "forward_eps": null,
+    "book_value_per_share": null
+  },
+  "moat_sources": [
+    {
+      "name": "switching_costs",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Cross-sell into an expanding captive consumer-durables-finance customer base"
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Underwriting-analytics edge claimed by management, not yet Tier1-3 evidenced at this snapshot"
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Distribution scale (POS network) raising entrant cost of matching underwriting data density"
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 8,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 9,
+    "management_stability": 9,
+    "leverage_pledge_legal": 7,
+    "earnings_quality": 8,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 59.0,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "Consumer-durable and personal-loan formalized credit penetration inflecting upward in urban/semi-urban India",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 10.0,
+    "horizon_years": 10,
+    "assumed_exit_pe": 22.0,
+    "own_10y_75th_pctile_pe": 24.0,
+    "sector_10y_75th_pctile_pe": 23.0,
+    "annual_dilution_rate": 0.02,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": ""
+  },
+  "variant_perception": {
+    "market_belief": "Priced as a mid-tier NBFC subject to the sector's usual asset-quality cyclicality discount",
+    "whats_wrong_with_belief": "Underwriting-data and cross-sell advantages compound with scale in a way the market's cyclical NBFC framing does not capture -- book growth is compounding faster than credit cost, not despite it",
+    "persistence_mechanism": "Structural non-participation -- large-cap-track mandates were not yet chasing a name of this size in 2014",
+    "m3_edge": "coverage_neglect",
+    "gap_closing_event": "AUM crossing a scale threshold that forces large-cap fund coverage",
+    "reverse_dcf_implied_growth": null,
+    "answered": true
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": true,
+  "notes": "BFSI name -- see the G1 and Section 5e BFSI-gap notes in FRAMEWORK_v2.2.md. Section 6B profit-pool gate is not evaluated (no product-market TAM concept for a lender). Tier 5 reconstructed dossier; 'EBITDA' here is a rough NII+fee-income proxy, not comparable across sectors."
+}

@@ -1,0 +1,131 @@
+{
+  "symbol": "INDHOTEL.NS",
+  "name": "The Indian Hotels Company Limited",
+  "sector": "Consumer Discretionary",
+  "industry": "Branded hospitality — luxury/upscale/midscale hotels (Taj, Vivanta, Ginger), Tata Group",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025, 2026],
+    "revenue": [1575.16, 3056.22, 5949.0, 6952.0, 8565.0, 9971.0],
+    "ebitda": [-559.3, 162.9, 1945.4, 2343.0, 3000.0, 3477.0],
+    "depreciation": [141.8, 275.1, 535.4, 625.7, 770.9, 897.4],
+    "interest_expense": [94.5, 152.8, 178.5, 139.0, 128.5, 99.7],
+    "pat": [-795.63, -264.97, 1003.0, 1259.0, 1603.0, 2084.0],
+    "ocf": [-653.8, 10.1, 1538.4, 1884.7, 2373.9, 2981.4],
+    "capex": [157.5, 305.6, 594.9, 695.2, 856.5, 997.1],
+    "net_fixed_assets": [8000.0, 8300.0, 8700.0, 9200.0, 9800.0, 10500.0],
+    "cwip": [480.0, 498.0, 522.0, 552.0, 588.0, 630.0],
+    "net_working_capital": [78.8, 152.8, 297.5, 347.6, 428.3, 498.6],
+    "total_debt": [2500.0, 1912.15, 784.79, 450.0, 203.15, 180.0],
+    "cash_equiv": [1200.0, 1800.0, 2200.0, 2600.0, 3073.0, 4345.0],
+    "net_worth": [9000.0, 10200.0, 11500.0, 12800.0, 14200.0, 15683.0],
+    "dividend_paid": [0.0, 0.0, 100.0, 215.0, 320.0, 521.0],
+    "tax_rate": [0.0, 0.0, 0.186, 0.202, 0.237, 0.160]
+  },
+  "market": {
+    "price": 718.5,
+    "market_cap_cr": 102273.6,
+    "adtv_cr": 120.0,
+    "shares_outstanding": 142.35,
+    "diluted_shares_outstanding": 142.35,
+    "sector_median_pe": 45.0,
+    "sector_median_pb": 6.0,
+    "ten_year_gsec_yield": 0.068,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": 110.2
+  },
+  "moat_sources": [
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Taj/Vivanta brand equity: IHCL reports domestic same-store RevPAR at roughly a 60% premium to the industry (company investor-call disclosure, relayed via press/analyst coverage, Q1 FY2025-26) and 16 consecutive quarters of record results. Rated BUILDING because the brand is being actively extended into new geographies and price tiers (Ginger, Qmin, international Taj openings) rather than merely defended, but this is a management-reported metric, not independently audited, hence T4."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "IHCL is India's largest hotel company (~390+ hotels as of mid-2026, up from ~235-260 a few years ago, with 250 signings reported in FY26 alone), giving it distribution, corporate-account and vendor-negotiation scale smaller chains lack. Cross-confirmed across multiple independent press sources (Hotelier India, Safari India, Travel & Tour World). Rated AMBER not GREEN because Indian branded hospitality comfortably supports several large national/global chains side by side (EIH, ITC Hotels, Lemon Tree, Marriott, Accor) — scale is an advantage, not a hard barrier to entry."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "A large share of IHCL's marquee assets (Taj Mahal Palace Mumbai and other iconic owned properties) sit on owned real estate acquired decades ago at a cost basis competitors entering today cannot replicate, which supports margins versus lease-heavy entrants. Rated only AMBER/HOLDING, not GREEN/BUILDING, because owning real estate is also a genuine structural cost: it is exactly what keeps this business capital-intensive and cyclical (the FY2021 revenue collapse and net loss make that plain), and the company's own strategic direction (Ginger, management contracts, and Tata Sons' newly reported asset-light hotel-ownership platform) is a move AWAY from owning more real estate, not toward it — general industry knowledge, not a specific sourced figure."
+    },
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Consolidated EBITDA margin has expanded from the low-30s to ~35% over FY2023-FY2026 and ARRs/RevPAR have been rising industry-wide (ICRA: FY2026 occupancy 72-74%, ARR Rs8,200-8,500 vs FY2025's 70-72%/Rs8,000-8,200). Rated HOLDING rather than BUILDING because most of this is industry-wide post-COVID demand-supply tightness (a cyclical tailwind, evidenced by ICRA/industry data, not company-specific pricing power) rather than IHCL structurally raising prices faster than peers in a durable way."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "A hotel guest or corporate travel desk can switch to a competing chain for the next stay with no real friction — no contract, integration, or data lock-in. Taj InnerCircle loyalty points create mild habitual stickiness, but this is a genuinely weak leg of the moat, not an underrated one, and is honestly rated RED rather than inflated."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Not structurally applicable to a hotel operator — one guest staying at a Taj property does not make the product more valuable to another guest (unlike a marketplace or payment network). Structurally absent, not eroding."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 8,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 8,
+    "management_stability": 8,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 38.12,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "Post-COVID structural upcycle in Indian branded hospitality: ICRA projects FY2026 industry occupancy of 72-74% and ARR of Rs8,200-8,500 (vs 70-72%/Rs8,000-8,200 in FY2025), with industry revenue growth of 6-8% YoY; the branded-hotel supply pipeline stands at 114,000+ rooms (up 58% YoY, most completions 2026-2030), i.e. demand is currently running ahead of new branded supply. IHCL itself is compounding faster than this backdrop (16 consecutive quarters of record results, ~19% 3yr revenue CAGR) and is simultaneously shifting its growth mix toward capital-light management contracts and the Ginger brand, plus a newly reported Tata Sons asset-light hotel-ownership platform — a real structural shift in how the segment leader is expanding, not just a cyclical demand blip.",
+    "addressable_profit_pool_cr": 18000.0,
+    "current_profit_share_pct": 19.3,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": true
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.5,
+    "horizon_years": 7,
+    "assumed_exit_pe": 35.0,
+    "own_10y_75th_pctile_pe": 45.0,
+    "sector_10y_75th_pctile_pe": 40.0,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.015,
+    "margin_delta_mechanism_note": "Modest further margin gain from mix-shift toward capital-light management contracts/Ginger and continued premiumization, extrapolating the real EBITDA-margin expansion already seen FY2023(32.7%)->FY2026(34.9%), but assumed to decelerate sharply since most of the post-COVID operating-leverage recovery is now behind the company."
+  },
+  "variant_perception": {
+    "market_belief": "The market already treats IHCL as India's structural post-COVID hospitality winner: 16 consecutive quarters of record results, a deleveraging balance sheet (D/E down to ~0.01-0.03x), an asset-light Ginger/management-contract growth story, and a RevPAR premium to the industry, all priced at a rich ~49x trailing P/E that is well above the stock's own history.",
+    "whats_wrong_with_belief": "Honestly: I could not construct a credible, evidence-backed case that the market is currently UNDERpricing this business, which is what a real N7 answer requires. The recovery story is now mainstream and heavily covered (a Tata Group large-cap, not a neglected name); the ~49x trailing multiple already appears to price in continued strong growth; and this engine's own compounding-engine (5e) calculation — ROIIC inflated by comparing against a COVID-trough base, but a genuinely modest ~4% reinvestment-driven growth rate given the company's low incremental capex need — falls well short of even a modest (2.5x/7yr) return-bridge requirement once the rich entry multiple is accounted for. Hospitality also remains a structurally cyclical, capital-intensive, fragmented industry (confirmed by the FY2021 near-wipeout and the runway/profit-pool gate below), which cuts against a clean structural-compounder thesis. I am not inventing a bear case either: the underlying business genuinely is executing well and industry demand-supply is favourable near-term — I simply cannot evidence a mispricing in either direction with the data available in this session.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": true,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "DATA QUALITY — MIXED, MOSTLY RECONSTRUCTED: WELL-SOURCED (Tier 2/3, from IHCL's own quarterly/annual results press releases at ihcltata.com and cross-confirmed via multiple independent business-media reports — screener.in, moneycontrol, tijori and NSE/BSE archives were unreachable from this environment): consolidated revenue and PAT for FY2021 (Rs1,575.16 Cr / -Rs795.63 Cr, COVID trough), FY2022 (Rs3,056.22 Cr / -Rs264.97 Cr), FY2023 (Rs5,949 Cr / Rs1,003 Cr, EBITDA margin 32.7%), FY2024 (Rs6,952 Cr / Rs1,259 Cr, EBITDA margin 33.7%), FY2025 (Rs8,565 Cr / Rs1,603 Cr, EBITDA Rs3,000 Cr / 35% margin), and FY2026 (Rs9,971 Cr / Rs2,084 Cr, EBITDA Rs3,477 Cr / 34.9% margin, dividend at 25% of PAT before exceptional items); long-term debt anchors of Rs1,912.15 Cr (Mar-2022), Rs784.79 Cr (Mar-2023) and Rs203.15 Cr (Mar-2025); gross cash of Rs3,073 Cr (Mar-2025) and Rs4,345 Cr (Mar-2026); a reported latest D/E of ~0.03x and ROCE recently ~22.4% (up from a ~13.35% multi-year average); Tata Sons promoter holding of 38.12% as of June-2025; current price Rs718.50 and market cap ~Rs1,02,273.6 Cr as of 11-Sep-2026 (P/E ~49.85x, cross-consistent with the price/EPS computed here). RECONSTRUCTED/APPROXIMATE (Tier 5, flagged, not fit to clear a NAVY-binding gate on their own): EBITDA for FY2021/FY2022 (back-solved to be consistent with the real PAT anchors given reconstructed depreciation/interest assumptions, not independently sourced); depreciation, interest expense, OCF, capex, net fixed assets, CWIP, net working capital, and the total-debt/net-worth/cash figures for years without a direct anchor above are modelled from typical asset-heavy-hotelier capital-intensity ratios, not sourced line items; effective tax rate is a plug back-solved to match real PAT (0% in the two loss years, ~16-24% in the profitable years, plausibly reflecting COVID-era carried-forward losses shielding early-recovery profits from full tax, but not independently verified); shares outstanding (142.35 Cr) is back-derived from the verified market cap and price rather than a sourced share-count filing; sector median P/E (~45x)/P/B, ADTV (~Rs120 Cr/day), the addressable branded-hospitality profit pool (~Rs18,000 Cr) and the 10-year G-sec yield (6.8%, Sep-2026) are Tier 5 analyst estimates. KNOWN MODEL LIMITATION: because this snapshot spans a genuine COVID crash-and-recovery (FY2021 trough to FY2026 record year), the Section 5e ROIIC calculation compares against a near-zero/negative NOPAT base 3 years prior, mechanically producing an inflated ROIIC (~48-97%) that overstates the durable, repeatable return on incremental capital an analyst should actually underwrite going forward -- flagged explicitly rather than presented at face value, in the same spirit as this engine's own documented BFSI-gap caveat. variant_perception.answered is honestly set to False: the post-COVID recovery and asset-light pivot are real and well-covered but already reflected in a rich ~49x multiple and mainstream analyst coverage, so no credible market-is-underpricing-this (or overpricing-this) thesis could be evidenced here; per the engine's own N7/M3 rule this dossier should cap at WATCH regardless of its composite score."
+}

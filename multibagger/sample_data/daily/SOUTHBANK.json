@@ -1,0 +1,131 @@
+{
+  "symbol": "SOUTHBANK.NS",
+  "name": "South Indian Bank Limited",
+  "sector": "Financials",
+  "industry": "Old private-sector bank -- Kerala-based retail, SME, NRI and corporate banking",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [6586.54, 7869.5, 9401.7, 11231.4, 11855.99],
+    "ebitda": [3622.64, 3934.7, 4418.8, 5166.4, 5555.99],
+    "depreciation": [61.1, 73.0, 87.2, 104.2, 110.0],
+    "interest_expense": [2963.9, 3934.8, 4982.9, 6065.0, 6300.0],
+    "pat": [44.98, 775.0, 1070.0, 1302.88, 1455.14],
+    "ocf": [50.0, 850.0, 1150.0, 1400.0, 1550.0],
+    "capex": [100.0, 119.5, 142.7, 170.5, 180.0],
+    "net_fixed_assets": [416.6, 497.8, 594.7, 710.4, 750.0],
+    "cwip": [22.2, 26.6, 31.7, 37.9, 40.0],
+    "net_working_capital": [22.2, 26.6, 31.7, 37.9, 40.0],
+    "total_debt": [4720.5, 5641.1, 6740.1, 8052.4, 8500.0],
+    "cash_equiv": [3610.2, 4314.5, 5153.5, 6157.5, 6500.0],
+    "net_worth": [7482.88, 8257.88, 9249.38, 10460.66, 11798.0],
+    "dividend_paid": [0.0, 0.0, 78.5, 91.6, 117.8],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 47.67,
+    "market_cap_cr": 12480.32,
+    "adtv_cr": 25.0,
+    "shares_outstanding": 261.8,
+    "diluted_shares_outstanding": 261.8,
+    "sector_median_pe": 12.0,
+    "sector_median_pb": 1.3,
+    "ten_year_gsec_yield": 0.0685,
+    "gsec_date": "2026-09-12",
+    "forward_eps": null,
+    "book_value_per_share": 45.06
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "A sub-scale old private bank is structurally a price-taker on both sides of the balance sheet -- it generally has to pay UP for deposits (weaker brand/trust than HDFC/ICICI/Axis/Kotak) and cannot command a loan-pricing premium. SIB's reported net interest margin has historically run below large private-bank peers. No evidence of gross-margin/NIM expansion through cycles that would support GREEN or even AMBER here; general industry-structure inference, not a line-by-line NIM comparison pulled from filings this session."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "A century-old (est. 1929), Kerala-headquartered bank with a genuinely large NRI/Gulf-remittance customer franchise and long-standing salary/relationship accounts does carry some real retail stickiness. But UPI, e-KYC-based account opening and positive-pay/porting have structurally lowered switching costs across Indian retail banking generally, and this is not a company-specific, strengthening advantage -- rated AMBER/HOLDING, not GREEN/BUILDING, deliberately to avoid overstating a soft, generic regional-trust effect as a hard moat source."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No platform/network dynamic -- traditional deposit-taking and lending does not get more valuable to one customer as more customers join. Structurally absent for this business model."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "SIB's cost-to-income ratio (implied here at roughly 55-60% from FY26 operating-profit disclosures: NII+other income ~Rs5,556 Cr vs disclosed operating profit ~Rs2,373 Cr) sits well above best-in-class private banks (HDFC/Kotak historically ~40-45%). A sub-scale branch network and legacy staff-cost structure common to older private banks is a cost DISADVANTAGE relative to larger, more digitised peers, not an advantage -- explicitly not scale-only-capped-AMBER, this is a genuine RED."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No documented pricing premium, patent, or licence uniqueness. Regional brand recognition in Kerala/among the NRI diaspora is real but is a soft trust factor, not a monetised intangible-asset premium versus peers -- no Tier 1-3 evidence of a price premium was found."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "India's scarce universal-banking licences do create an industry-wide entry barrier that benefits incumbents generally, but SIB itself is one of the smaller, less efficient incumbents (ROE ~12.75%, cost-to-income high) rather than a beneficiary capturing disproportionate rents from that barrier -- larger private banks and, increasingly, well-capitalised NBFCs/fintechs are taking share in SIB's core retail/SME segments. Rated RED: the barrier does not appear to be protecting THIS company's returns specifically."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 6,
+    "ownership_transparency": 7,
+    "capital_allocation_discipline": 6,
+    "management_stability": 5,
+    "leverage_pledge_legal": 7,
+    "earnings_quality": 6,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 0.0,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Indian private-sector retail/SME/corporate banking is a large, mature, competitively saturated industry (system credit growth running ~12-15%/yr, not an emergent or inflecting market structurally). SIB's own FY26 deposit growth (14.71% YoY, per company disclosure) is roughly in line with, not clearly above, typical system-wide growth, and the bank has been in a multi-year balance-sheet-repair/de-risking phase (slower, more cautious loan growth) rather than a share-gaining phase; it has structurally lost relative standing versus HDFC/ICICI/Axis/Kotak/IDFC First over the past decade. Classified MATURE + share-flat (not a documented 3-year share-gainer), which caps at Steady Compounder under Section 6A and fails the consolidated industry-phase gate as currently coded.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": false
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 10.0,
+    "own_10y_75th_pctile_pe": 12.0,
+    "sector_10y_75th_pctile_pe": 14.0,
+    "annual_dilution_rate": 0.02,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": ""
+  },
+  "variant_perception": {
+    "market_belief": "The market appears to price South Indian Bank as a legacy, chronically sub-scale old private bank carrying a structural asset-quality/cyclicality discount -- it trades close to book value (P/B ~1.06x) despite ROE having normalized to a low-teens ~12.75% and despite a genuinely sharp, real improvement in asset quality (gross NPA down from ~4.5% to ~1.43% and net NPA down from ~1.44% to ~0.29% over roughly the past two years, per company disclosures), alongside four consecutive years of 'highest ever' record annual net profit (FY23 through FY26).",
+    "whats_wrong_with_belief": "I could not construct a credible, well-evidenced case that this specific improvement is being systematically MISPRICED rather than already substantially reflected. The stock has already re-rated several-fold off its 2020-21 lows alongside the NPA cleanup, and the 'highest ever profit' result has been repeated, widely-covered financial-press news in nearly every quarter of FY26 -- the opposite of a quietly-improving, uncovered situation. The bank also remains structurally sub-scale, has no promoter (removing one lever for capital discipline/strategic commitment), carries a weaker cost-to-income ratio than large private peers, and has a real history of management-stability friction (multiple MD/CEO transitions over the past decade). A modest re-rating toward peer-average small-bank multiples is a plausible ordinary-analyst observation, but that is different from a genuine, evidenced N7 variant-perception case with a nameable persistence mechanism and a dated catalyst distinct from what consensus already appears to be pricing.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence -- see whats_wrong_with_belief. If a real thesis exists it would need to show the NPA-driven ROE improvement sustaining for several more quarters without the market re-rating the multiple proportionally, which is not demonstrated by the (partial, search-only) evidence gathered here.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "other",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": false,
+  "notes": "BFSI name -- is_regulated_utility_or_bfsi=True per the G1/Section 5e/6B BFSI carve-outs in FRAMEWORK_v2.2.md; industry_context.addressable_profit_pool_cr is left null since a lender has no product-market TAM concept, per the v2.2 6B implementation note. 'EBITDA' in the financials series is a rough NII + non-interest/fee-income proxy (revenue minus interest_expense), not comparable to a non-financial company's EBITDA -- same convention used for the BAJFINANCE.json reference dossier in this repo. DATA QUALITY: PAT (FY22 Rs44.98 Cr, FY23 Rs775 Cr, FY24 Rs1,070 Cr, FY25 Rs1,302.88 Cr, FY26 Rs1,455.14 Cr -- all reported as 'highest ever'/record results in press coverage), gross/net NPA trend (GNPA ~4.50%->3.15%->1.43%, NNPA ~1.44%->0.68%->0.29%), capital adequacy (~19.48%->19.66%), total deposits (~Rs1,23,346 Cr, +14.71% YoY FY26), total advances (~Rs1,00,274 Cr), CASA ratio (~31% as of Dec-2024), current price (Rs47.67), market cap (~Rs12,480 Cr), book value per share (Rs45.06), ROE (~12.75%), P/B (~1.06x), P/E (~8.27x) and promoter holding (0% -- SIB has had no promoter/promoter-group for years) are Tier 3 (aggregator/press, cross-corroborated across multiple independent search results, but NOT independently pulled from a primary exchange filing or audited annual report in this session -- Screener/BSE/NSE/company-filing PDFs were not directly fetched). FII/DII/institutional-holding percentages were materially INCONSISTENT across sources found (ranges cited: FII 17-25%, DII 1-14%, retail as high as 63%) and are NOT used as a hard gate input for that reason -- reported here only qualitatively as 'meaningful institutional participation, non-trivial FII interest'. Total income for FY22 (Rs6,586.54 Cr) and FY26 (Rs11,855.99 Cr) are the only two search-anchored revenue points; FY23/FY24/FY25 revenue, and the ENTIRE non-interest balance-sheet series (depreciation, interest expense split, net fixed assets, CWIP, 'net working capital', total debt/borrowings, cash, capex, OCF) are Tier 5 RECONSTRUCTIONS built by geometric interpolation between anchors plus bank-typical ratio assumptions, then walked to be internally consistent (net worth roll-forward from FY26's book-value-implied net worth of ~Rs11,798 Cr back through FY22 using PAT-less-dividends). Sector median P/E (12x) and P/B (1.3x), the 10-year G-sec yield (6.85%), ADTV (Rs25 Cr/day) and all bridge_assumptions are Tier 5 analyst estimates, not sourced. IMPORTANT CAVEAT (structural, not a data-quality issue): Section 5e's ROIIC/reinvestment-rate formula (net fixed assets + CWIP + net working capital as 'invested capital') does not describe a bank's economics at all -- a bank's real growth capital is its loan book funded by deposits/borrowings, not fixed assets. Because SIB's fixed-asset base is tiny relative to its earnings, this dossier's computed ROIIC comes out implausibly high (an artifact of a near-zero denominator, not genuine capital efficiency) while the reinvestment rate comes out very low (real bank capex is small), and the resulting product-of-the-two 'engine growth g' should NOT be read as a real measure of this bank's compounding capacity in either direction -- the composite.py evaluation layer's own auto-generated note makes the same point. A genuine BFSI-specific Section 5e variant (incremental spread income / incremental risk-weighted assets, book-value-per-share CAGR, credit-cost-adjusted ROE) does not yet exist in this framework (per the v2.2 denominator ledger: 'proposed, not yet specified, n=0'). Moat sources were rated skeptically and deliberately: 0 GREEN, 1 AMBER (switching_costs), 5 RED -- consistent with the framework's own expectation that most small/old private banks have weak moats. variant_perception.answered is honestly set to False: I can describe a plausible, ordinary 'asset-quality recovery not yet fully re-rated' observation, but could not construct a rigorous, evidence-backed N7 case with a nameable, persistent M3 edge and a dated gap-closing catalyst distinct from what already appears to be reflected in the stock's multi-year re-rating off 2020-21 lows and in repeated 'record profit' financial-press coverage throughout FY26. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction, not a completed adversarial (M5) review with a logged hostile source and cooling period."
+}
