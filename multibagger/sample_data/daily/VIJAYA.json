@@ -1,0 +1,131 @@
+{
+  "symbol": "VIJAYA.NS",
+  "name": "Vijaya Diagnostic Centre Limited",
+  "sector": "Healthcare",
+  "industry": "Diagnostics (pathology + radiology) chain — South India hub-and-spoke model, expanding via bolt-on M&A into Pune, Bengaluru, NCR, West Bengal and Assam",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [462.4, 459.2, 547.8, 681.4, 814.2],
+    "ebitda": [203.7, 181.8, 220.9, 273.2, 336.9],
+    "depreciation": [35.0, 42.0, 52.0, 64.0, 78.0],
+    "interest_expense": [8.0, 10.0, 13.0, 17.0, 21.0],
+    "pat": [109.7, 84.6, 118.8, 143.1, 173.0],
+    "ocf": [173.1, 154.5, 187.8, 232.2, 286.4],
+    "capex": [40.0, 55.0, 70.0, 95.0, 120.0],
+    "net_fixed_assets": [180.0, 210.0, 260.0, 320.0, 390.0],
+    "cwip": [15.0, 20.0, 30.0, 45.0, 60.0],
+    "net_working_capital": [20.0, 25.0, 35.0, 45.0, 55.0],
+    "total_debt": [150.0, 180.0, 230.0, 280.0, 340.0],
+    "cash_equiv": [150.0, 180.0, 200.0, 220.0, 240.0],
+    "net_worth": [550.0, 600.0, 660.0, 730.0, 830.0],
+    "dividend_paid": [13.0, 10.5, 15.5, 19.5, 22.0],
+    "tax_rate": [0.26, 0.26, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 1493.20,
+    "market_cap_cr": 15439.4,
+    "adtv_cr": 8.0,
+    "shares_outstanding": 10.34,
+    "diluted_shares_outstanding": 10.40,
+    "sector_median_pe": 58.0,
+    "sector_median_pb": 11.5,
+    "ten_year_gsec_yield": 0.0702,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": 84.07
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Vijaya's own EBITDA margin has been broadly stable/mildly rising (39.6% FY23 to 41.4% FY26, search-sourced from quarterly result press releases), consistent with modest pricing power in its home Telangana/AP market -- but this coincides with a national push by organized peers (Dr Lal's new 'Sovaaka' wellness-centre format announced Jan-2026, aggressive B2C wellness-package discounting industry-wide per general trade coverage) that caps how much of this is durable versus mix-driven. Held at AMBER/HOLDING rather than upgraded -- no primary tariff/realization data was sourced this session."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "An individual retail patient can switch diagnostic labs for a single test with essentially no friction -- this is NOT a high-switching-cost business at the consumer level, and rating it GREEN would be inflating the moat. The genuine (but modest) stickiness is on the referring-doctor and corporate/insurance-empanelment side: general industry coverage of the hub-and-spoke model describes referring physicians building trust in a specific lab's turnaround-time and report quality over years. This is real but was not independently verified with churn or repeat-patient data in this session, and is a weaker source than the switching-cost moats seen in, e.g., enterprise software or B2B distribution."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Structurally absent in the classic sense -- a patient's test does not become more valuable because more other patients use Vijaya. The real, related dynamic (spoke-density in a home region compounding referral-physician trust and per-test processing economics as the hub-and-spoke network densifies) is a genuine effect but is a supply-side scale/cost economy, not a demand-side network effect, so it is captured instead under cost_advantage/efficient_scale below rather than inflated here."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "The hub-and-spoke model (per FY24 disclosure, search-sourced: 149 diagnostic centres -- 39 company-owned hubs + 110 company-owned spokes -- plus 21 reference labs across 23 cities, grown to 166 centres by Q1 FY27) routes samples from owned (not franchised) spokes into centralized hub labs, which general industry/analyst coverage describes as lowering per-test processing cost and turnaround time versus a franchise-led or purely distributed-lab competitor in its home Telangana/Andhra Pradesh market. This is consistent with a stable-to-improving EBITDA margin as the network has scaled (39.6%->41.4%, FY23-FY26), but the specific cost-per-test data itself was not sourced from a primary filing this session -- tagged Tier 5 (general industry description), not Tier 1-3."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Vijaya is a well-established, multi-decade consumer brand specifically in Hyderabad/Telangana/Andhra Pradesh, widely described in general and analyst coverage (e.g. Marcellus 'Little Champs' newsletter, AlphaStreet) as the market leader in its home geography on brand trust and NABL/NABH-accredited quality perception. This regional brand equity is real and long-standing, but it is a REGIONAL, not national, intangible asset -- Vijaya is a minor player by brand recognition outside South India versus Dr Lal PathLabs (North/pan-India) and SRL/Metropolis (pan-India), which is exactly the risk its ongoing expansion into Pune, Bengaluru, NCR, West Bengal and Assam is testing. Rated HOLDING rather than BUILDING nationally because brand equity in the new geographies is unproven and was not evidenced this session."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Vijaya is one of only five organized diagnostics chains of scale in India (with Dr Lal PathLabs, Agilus/SRL, Metropolis, Thyrocare), but those five collectively hold only ~6% of the overall (organized + unorganized) Indian diagnostics market and organized players overall only ~17% (search-sourced, general 2025/2026 industry-structure coverage) -- i.e. the market remains highly fragmented with a large unorganized/hospital-lab base still to consolidate. Within its OWN South Indian home market Vijaya's scale is a real, evidenced advantage (leading position, dense hub-spoke coverage); at the national level, where it is now expanding via bolt-on M&A, it is one of several well-capitalized organized entrants competing for the same unorganized-to-organized share shift, with no clear entry-deterring scale moat yet established in the new geographies. Rated AMBER/HOLDING to reflect a real regional advantage that does not yet extend nationally, rather than inflating it to a broad efficient-scale moat."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 7,
+    "ownership_transparency": 7,
+    "capital_allocation_discipline": 7,
+    "management_stability": 8,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 6,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 1.96,
+    "promoter_holding_pct": 52.51,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "India's organized diagnostics market remains highly fragmented: the top five organized chains (Dr Lal PathLabs, Agilus/SRL, Metropolis, Thyrocare, Vijaya) collectively hold only ~6% of the overall market and organized players overall only ~17%, versus a still-dominant unorganized/hospital-lab base (search-sourced, general 2025/2026 industry reports, IMARC-cited India diagnostics-market size ~USD12.4bn in 2025 growing ~11.4% CAGR). Organized chains are described as pursuing aggressive organic-plus-M&A consolidation of this fragmented base, with smaller labs facing a binary choice of being acquired or franchised in. Vijaya's own FY24-FY26 revenue growth (19.3%/24.4%/19.5% YoY) has consistently run ahead of the ~12-14% growth guided for organized-sector revenue generally over the same period, and its bolt-on M&A (PH Diagnostics in Pune, Arya Wellness in Assam for Rs46.2 Cr announced Sep-2026, the earlier Medinova Diagnostic Services merger) plus new flagship hubs (Gachibowli Hyderabad, JP Nagar Bengaluru with PET-CT/3T MRI) is a real, dated, evidenced attempt to extend its regional leadership into a genuine national consolidation opportunity -- though this is still early: outside its Telangana/AP base Vijaya remains a small, unproven entrant, and 'INFLECTION' here describes the industry structure (fragmented -> organized), not a claim that Vijaya has already won share nationally.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": true
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.5,
+    "horizon_years": 5,
+    "assumed_exit_pe": 65.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.005,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.005,
+    "margin_delta_mechanism_note": "EBITDA margin has risen from ~39.6% (FY23) to ~41.4% (FY26, both search-sourced from quarterly/annual result press releases), a real but modest ~0.6pt/yr trend plausibly driven by operating leverage as newer hubs (Gachibowli, JP Nagar Bengaluru) mature and fixed lab-processing costs are spread over rising test volumes (+16-17% volume growth cited in recent quarters). The +0.5pt/yr modelled delta is a conservative extrapolation of this observed trend, not a management-issued margin target; per the 6A protocol, if the trend does not persist this term should be zeroed and the bridge re-run on revenue growth alone. Note: no 10-year own or sector 75th-percentile PE could be sourced -- Vijaya only listed in Sept 2022 and lacks a decade of trading history, so the N1-2 exit-multiple ceiling check is left unconstrained (both fields null) rather than backfilled with an invented figure."
+  },
+  "variant_perception": {
+    "market_belief": "The stock already trades at a rich ~90x trailing PE (price Rs1,493.20 / FY26 diluted EPS ~Rs16.6) -- roughly 1.5x the diagnostics-sector median (~58x) and well above Dr Lal PathLabs (~44-58x) and Metropolis (~56x) -- with an apparently bullish sell-side consensus (8 buy / 0 sell ratings found in search) already pricing in continued 20%+ growth and successful national bolt-on expansion.",
+    "whats_wrong_with_belief": "No credible, evidenced case for a market MISPRICING (in either direction) could be constructed from what was sourced this session. If anything, the available evidence (near-unanimous analyst buy ratings, a trailing multiple already well above sector peers, marketsmojo commentary explicitly flagging 'premium valuation concerns' alongside strong results in both Q4 FY26 and Q2 FY26 write-ups) suggests the bull case is already widely known and substantially reflected in price, not neglected. Honest answer: this is not a variant-perception situation this session's research supports -- inventing a mispricing thesis here would not be credible.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DATA QUALITY (be precise about what is and isn't verified): screener.in, the company's own investor-relations site, and NSE/BSE corporate-filings pages were all effectively unreachable for a primary-source pull in this environment (network egress proxy blocks most aggregator/exchange domains; only WebSearch snippet text was usable, no direct WebFetch of screener/BSE/company PDFs succeeded). Nothing in this dossier is Tier 1/2. Revenue, EBITDA and PAT for FY22-FY26 (462.4/459.2/547.8/681.4/814.2 Cr revenue; 203.7/181.8/220.9/273.2/336.9 Cr EBITDA; 109.7/84.6/118.8/143.1/173.0 Cr PAT) are REAL, search-sourced figures cross-corroborated across multiple quarterly/annual result press releases and aggregator/media snippets (Business Standard, Medical Buyer, InvestyWise, Whalesbook, TradingView-syndicated Moneycontrol) -- Tier 3/5, internally consistent (YoY growth rates recompute correctly year-over-year: FY23 was a real COVID-normalization decline off an elevated FY22 COVID-testing base, not a business-quality problem). The ENTIRE balance-sheet series (depreciation, interest, net fixed assets, CWIP, net working capital, total debt, cash, net worth, OCF, capex, dividend paid) is a Tier 5 RECONSTRUCTION built to be broadly consistent with a handful of real anchors found for the current year only: FY26 total debt ~Rs320-365 Cr / net worth ~Rs800-868 Cr (implying D/E ~0.40, search-sourced, and consistent with the company's own description of being 'debt-free' on conventional bank debt once Ind-AS-116 lease liabilities from 160+ leased centres are treated as the D/E-relevant 'debt'), cash+liquid investments in the Rs230-260 Cr range, book value/share Rs84.07 (dated Jan-2026), and a Rs2/share (200%) FY26 final dividend (~11.9-13.5% payout ratio, both search-sourced) -- this is a reconstruction technique for a single-pass analysis, not an audited balance-sheet pull, and the resulting computed ROCE/ROIIC from this reconstruction should be read as illustrative: external sources themselves disagreed sharply on Vijaya's ROCE (one snippet said 'FY25A ROCE 16.0%', another said 'average ROCE of 27.23%' -- likely different definitions/time windows -- and this dossier's reconstructed series was not forced to match either). Promoter holding (52.51%, March-2026, Trendlyne-sourced shareholding pattern) and pledge (1.96% of promoter holding, low) are real, search-sourced but Tier 3/5; note the unusually thin PUBLIC float (~4.2%, with promoter 52.5% + DII 29.9% + FII 13.4% = ~95.8% institutional+promoter-held) -- this genuinely constrains free-float liquidity and is reflected in a conservative adtv_cr estimate (Rs8 Cr/day, NOT a sourced live volume figure -- an estimate given the float constraint) rather than the higher ADTV a Rs15,400 Cr market cap might otherwise suggest. Price (Rs1,493.20, ~Sep-4-2026) and market cap (~Rs15,439 Cr, ~Sep-1-2026) are real but Tier 5 (search-engine snippets, not a live quote pulled by this tool -- FMP quote/statements endpoints were not used for this run). Shares outstanding (~10.34 Cr) is derived arithmetically from market-cap/price and cross-checked against FY26 PAT/EPS, not sourced directly as a share-count filing. Sector median PE (~58x, averaging Dr Lal ~44-58x and Metropolis ~56x, both search-sourced but with wide variance across sources/dates) and sector median PB (~11.5x, based on Dr Lal's search-sourced ~10.3-12.8x P/B) are Tier 5 estimates, not a clean same-day cross-sectional pull. The 10-year G-sec yield (7.02%, dated 2026-09-11) is reused from the same day's convention used elsewhere in this sample set for consistency, not re-verified this session. addressable_profit_pool_cr / current_profit_share_pct and both 10y-75th-percentile PE fields are deliberately left null -- translating the sourced India diagnostics market-size figure (~USD12.4bn, 2025) into a sector 'profit pool' would require margin assumptions this session could not evidence, and Vijaya's ~4-year trading history (IPO Sep-2022) cannot support a 10-year PE-band claim; both were left unfilled rather than invented. m5_protocol_complete is honestly False: this is a single-pass, web-search-based reconstruction, not an adversarial multi-analyst review with primary-source verification. variant_perception.answered is honestly set to False: the stock's ~90x trailing PE, well above sector peers, combined with an apparently unanimous bullish sell-side consensus found in search, does not support a credible market-is-wrong thesis in either direction from what could be sourced this session -- forcing one would be manufacturing a bull case the evidence does not support. Net read: a genuinely well-run, brand-strong regional leader executing a real (if early and unproven-outside-its-home-market) national consolidation opportunity in a structurally fragmenting industry, but priced, on the data found this session, for a great deal of that success to already happen."
+}

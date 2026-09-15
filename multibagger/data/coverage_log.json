@@ -2,6 +2,7 @@
   "Nifty 50": {
     "covered": [
       "NESTLEIND.NS",
+      "NTPC.NS",
       "SBIN.NS"
     ],
     "history": [
@@ -12,13 +13,18 @@
       {
         "ticker": "SBIN.NS",
         "date": "2026-09-14"
+      },
+      {
+        "ticker": "NTPC.NS",
+        "date": "2026-09-15"
       }
     ]
   },
   "Nifty Midcap 100 (representative sample)": {
     "covered": [
       "DEEPAKNTR.NS",
-      "INDHOTEL.NS"
+      "INDHOTEL.NS",
+      "SUPREMEIND.NS"
     ],
     "history": [
       {
@@ -28,13 +34,18 @@
       {
         "ticker": "INDHOTEL.NS",
         "date": "2026-09-14"
+      },
+      {
+        "ticker": "SUPREMEIND.NS",
+        "date": "2026-09-15"
       }
     ]
   },
   "Nifty Smallcap 250 (representative sample)": {
     "covered": [
       "CAPLIPOINT.NS",
-      "CARBORUNIV.NS"
+      "CARBORUNIV.NS",
+      "VIJAYA.NS"
     ],
     "history": [
       {
@@ -44,13 +55,18 @@
       {
         "ticker": "CAPLIPOINT.NS",
         "date": "2026-09-14"
+      },
+      {
+        "ticker": "VIJAYA.NS",
+        "date": "2026-09-15"
       }
     ]
   },
   "Nifty Microcap 250 (representative sample)": {
     "covered": [
       "SHARDACROP.NS",
-      "SOUTHBANK.NS"
+      "SOUTHBANK.NS",
+      "UJJIVANSFB.NS"
     ],
     "history": [
       {
@@ -60,8 +76,12 @@
       {
         "ticker": "SHARDACROP.NS",
         "date": "2026-09-14"
+      },
+      {
+        "ticker": "UJJIVANSFB.NS",
+        "date": "2026-09-15"
       }
     ]
   },
-  "_last_run_utc": "2026-09-14T02:34:50.262419+00:00"
+  "_last_run_utc": "2026-09-15T02:35:55.362252+00:00"
 }

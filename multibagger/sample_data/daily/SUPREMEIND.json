@@ -1,0 +1,229 @@
+{
+  "symbol": "SUPREMEIND.NS",
+  "name": "Supreme Industries Limited",
+  "sector": "Industrials",
+  "industry": "Plastic piping / packaging / consumer & industrial plastic products",
+  "financials": {
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      6657.336998160909,
+      7389.644067958611,
+      8202.50491543406,
+      9104.780456131806,
+      10106.306306306305,
+      11218.0
+    ],
+    "ebitda": [
+      898.7404947517228,
+      997.6019491744125,
+      1107.338163583598,
+      1229.145361577794,
+      1364.3513513513512,
+      1514.43
+    ],
+    "depreciation": [
+      199.72010994482727,
+      221.68932203875832,
+      246.07514746302178,
+      273.1434136839542,
+      303.18918918918916,
+      336.53999999999996
+    ],
+    "interest_expense": [
+      14.979008245862046,
+      16.626699152906873,
+      18.455636059726633,
+      20.485756026296563,
+      22.739189189189187,
+      25.240499999999997
+    ],
+    "pat": [
+      540.6341598613468,
+      600.1039174460952,
+      666.1153483651657,
+      739.388036685334,
+      820.7207207207207,
+      911.0
+    ],
+    "ocf": [
+      718.9923958013783,
+      798.08155933953,
+      885.8705308668785,
+      983.3162892622352,
+      1091.4810810810811,
+      1211.544
+    ],
+    "capex": [
+      399.44021988965454,
+      443.37864407751664,
+      492.15029492604356,
+      546.2868273679084,
+      606.3783783783783,
+      673.0799999999999
+    ],
+    "net_fixed_assets": [
+      1997.2010994482728,
+      2216.8932203875834,
+      2460.7514746302177,
+      2731.4341368395417,
+      3031.8918918918916,
+      3365.4
+    ],
+    "cwip": [
+      332.8668499080455,
+      369.48220339793056,
+      410.125245771703,
+      455.23902280659036,
+      505.3153153153153,
+      560.9
+    ],
+    "net_working_capital": [
+      1331.467399632182,
+      1477.9288135917222,
+      1640.500983086812,
+      1820.9560912263614,
+      2021.261261261261,
+      2243.6
+    ],
+    "total_debt": [
+      166.43342495402274,
+      184.74110169896528,
+      205.0626228858515,
+      227.61951140329518,
+      252.65765765765764,
+      280.45
+    ],
+    "cash_equiv": [
+      266.29347992643636,
+      295.5857627183445,
+      328.10019661736237,
+      364.19121824527224,
+      404.2522522522522,
+      448.72
+    ],
+    "net_worth": [
+      3661.5353489885006,
+      4064.3042373772364,
+      4511.3777034887335,
+      5007.629250872494,
+      5558.468468468468,
+      6169.900000000001
+    ],
+    "dividend_paid": [
+      183.81561435285792,
+      204.0353319316724,
+      226.47921844415634,
+      251.39193247301358,
+      279.0450450450451,
+      309.74
+    ],
+    "tax_rate": [
+      0.25,
+      0.25,
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ]
+  },
+  "market": {
+    "price": 3920.0,
+    "market_cap_cr": 44968.0,
+    "adtv_cr": 35.0,
+    "shares_outstanding": 11.47,
+    "diluted_shares_outstanding": 11.47,
+    "sector_median_pe": 45.0,
+    "sector_median_pb": 6.0,
+    "ten_year_gsec_yield": 0.0702,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": null
+  },
+  "moat_sources": [
+    {
+      "name": "efficient_scale",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Largest Indian plastic-piping-and-products manufacturer by volume, 25+ plants nationally, capacity expansion to 1.5mn MT targeted by FY28 -- a real distribution/manufacturing-footprint scale lead over all but Astral/Finolex"
+    },
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "PVC resin is a pass-through input but the pass-through is imperfect and lagged: recent quarter plastic-pipe realizations corrected ~4.1% YoY on resin-price swings, destocking and 'competitive pricing' language from company commentary; intense competition from both organized (Astral, Finolex, Prince, Ashirvad) and unorganized players caps durable pricing power -- this is a genuine weakness, not a strength, and should not be read as a moat"
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Multi-decade dealer/plumber distribution network typical of the organized pipe majors -- real but moderate, and shared with Astral/Finolex rather than unique to Supreme"
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Scale-driven procurement and manufacturing efficiency support a >20% ROCE, but the underlying input (PVC/polypropylene) is a shared commodity so the cost edge over Astral/Finolex is one of degree, not kind"
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7.0,
+    "board_audit_independence": 7.0,
+    "ownership_transparency": 8.0,
+    "capital_allocation_discipline": 8.0,
+    "management_stability": 8.0,
+    "leverage_pledge_legal": 9.0,
+    "earnings_quality": 6.0,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 48.9,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Organized Indian plastic-piping/products industry is now large and multi-player (Supreme, Astral, Finolex, Prince, Ashirvad and others) rather than an early formalization story; recent growth has decelerated (FY25->FY26 revenue +7.4%) and margins are pressured by PVC-price volatility and competitive/unorganized pricing -- consistent with a maturing, cyclical-industrial phase rather than a fresh inflection. The FY2025 anti-dumping duty on PVC imports is a real but incremental tailwind for organized domestic producers, not evidence of a structural re-rating inflection on its own.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 42.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "Management guides FY27 EBITDA margin of 14-14.5% vs FY25's 13.7%, but this is a single forward-quarter guidance range set against a history of margin volatility driven by PVC resin swings -- not evidenced enough at Tier 3 to book as a durable margin-delta CAGR per the 6A discipline. Bridge is therefore run on volume/revenue growth only, with the exit multiple held flat rather than assuming re-rating."
+  },
+  "variant_perception": {
+    "market_belief": "Priced by the market as India's largest, highest-quality, most diversified organized plastic-products compounder -- debt-free, scale-leading, and therefore deserving of a premium (~42-50x trailing) multiple.",
+    "whats_wrong_with_belief": "",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "Tier 3/5 dossier built from WebSearch result snippets only -- screener.in, moneycontrol and other primary aggregators returned EGRESS_BLOCKED when fetched directly in this environment, so nothing here rises above Tier 3 (search-surfaced secondary/aggregator commentary), and the full 2021-2026 balance-sheet series is a Tier 5 backcast anchored only on FY25/FY26 revenue and PAT. Per M6, none of these figures should be allowed to single-handedly clear a NAVY gate; treat this as a screening-stage read, not investment-grade research. Key honest judgment calls: pricing_power moat rated RED/ERODING (real evidence of resin-driven realization correction and competitive-pricing pressure, not a strength); industry phase called MATURE rather than INFLECTION given multi-player competitive intensity and decelerating growth; variant_perception left answered=False because no credible mispricing case (bull or bear) could be substantiated from available data -- the stock's premium multiple looks like the market already pricing in its quality/scale leadership; m5_protocol_complete=False because this was a single research pass, not the full adversarial protocol."
+}
