@@ -1,0 +1,131 @@
+{
+  "symbol": "GRSE.NS",
+  "name": "Garden Reach Shipbuilders & Engineers Limited",
+  "sector": "Capital Goods / Defence",
+  "industry": "Government-owned (Miniratna Category-I DPSU under Ministry of Defence) warship and naval-auxiliary shipbuilder -- primary customers are the Indian Navy and Indian Coast Guard under negotiated/tendered contracts (not market-priced), with a small and growing export/commercial-shipbuilding book; revenue is order-book-backed and largely funded through customer stage-payment advances rather than the company's own working capital, which is the normal, non-red-flag economics of this business model, not a normal industrial's",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [1758.0, 2562.0, 3593.0, 5076.0, 7002.16],
+    "ebitda": [141.0, 149.0, 234.0, 421.0, 1069.0],
+    "depreciation": [21.0, 31.0, 43.0, 61.0, 84.0],
+    "interest_expense": [2.0, 2.0, 3.0, 3.0, 4.0],
+    "pat": [190.0, 228.0, 357.0, 527.0, 747.93],
+    "ocf": [106.0, 112.0, 176.0, 316.0, 802.0],
+    "capex": [70.0, 102.0, 144.0, 203.0, 280.0],
+    "net_fixed_assets": [211.0, 307.0, 431.0, 609.0, 840.0],
+    "cwip": [88.0, 128.0, 180.0, 254.0, 350.0],
+    "net_working_capital": [-300.0, -400.0, -550.0, -700.0, -900.0],
+    "total_debt": [10.0, 10.0, 10.0, 9.67, 12.0],
+    "cash_equiv": [1291.0, 1884.0, 2642.0, 3732.0, 5148.0],
+    "net_worth": [1321.0, 1481.0, 1731.0, 2100.0, 2624.0],
+    "dividend_paid": [57.0, 68.0, 107.0, 158.0, 224.5],
+    "tax_rate": [0.25, 0.25, 0.258, 0.25, 0.25]
+  },
+  "market": {
+    "price": 2427.50,
+    "market_cap_cr": 27803.0,
+    "adtv_cr": 90.0,
+    "shares_outstanding": 11.454,
+    "diluted_shares_outstanding": 11.454,
+    "sector_median_pe": 40.0,
+    "sector_median_pb": 9.0,
+    "ten_year_gsec_yield": 0.0702,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": 229.0
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "GRSE does not set prices in any market sense: it is a single-customer-dominated (Indian Navy/Coast Guard) supplier whose contracts are won through competitive tendering or, for some specialised classes, negotiated/nomination-basis awards, with pricing shaped by government procurement procedure (DAP/DPP) rather than by GRSE's own bargaining power over a price-taking buyer. Rated AMBER rather than RED because on a handful of specialised platforms (e.g. Anti-Submarine Warfare Shallow Water Craft, Survey Vessels) GRSE has effectively been the incumbent/preferred domestic builder with limited qualified alternatives, giving it some real negotiating leverage on those specific programmes -- but this is narrower and less evidenced than a normal company's pricing power, and no independently quantified price-realisation premium was found this session (management-narrative/media level only, hence T4)."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Once a shipyard is selected as lead yard for a vessel class, the Navy/Coast Guard overwhelmingly keeps follow-on units, refits, and decades of life-cycle spares/support with the original builder -- switching a warship programme to a new yard mid-class is operationally and security-clearance-prohibitive. GRSE has delivered 118 ships to the Navy/Coast Guard historically and delivered a record 8 warships in FY26 alone under existing class contracts (P-17A frigates, Survey Vessel Large, ASW-SWC), evidencing real multi-year lock-in. Rated HOLDING, not BUILDING: this lock-in structure is a standard feature of the entire DPSU/approved-shipyard industry (Mazagon Dock and Cochin Shipyard have the analogous relationship with their own vessel classes), not something GRSE is uniquely widening versus peers."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Structurally absent. Building warships for the Navy does not become more valuable to one customer as more customers are added -- there is effectively one dominant domestic customer (Government of India) by design."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "GRSE's decades of accumulated warship-specific fabrication know-how, an existing security-cleared and defence-vetted workforce, and established government-approved-vendor/MSME-supplier ecosystem (Project 17A alone engaged 200+ MSMEs) give it a real cost/speed edge over a hypothetical fresh entrant, who would need years to build an equivalent cleared workforce and vendor base. This reads as a scale/incumbency-driven efficiency advantage shared with the other 2-3 established DPSU/approved private yards (Mazagon Dock, Cochin Shipyard, L&T's defence yard) rather than a documented, GRSE-specific process or unit-cost edge over those peers, so capped at AMBER per the framework's scale-only rule; no independently benchmarked unit-cost comparison versus peer yards was found."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "This is the most credible moat source for a defence shipbuilder and the one the task brief specifically flags: security clearances for personnel and premises, MoD-approved-vendor/DPSU status, and class-specific warship design and engineering IP (GRSE has its own in-house design capability used for ASW-SWC, OPVs and now the bid design for the ~Rs33,000-40,000 Cr Next Generation Corvette programme) are genuine, hard-to-replicate regulatory and know-how barriers -- a new entrant cannot simply decide to build warships for the Navy. Trajectory is honestly BUILDING: GRSE is actively extending this capability into next-generation, larger and more complex platforms (NGC bid) and into export design work (Sagar Sankalp diplomacy narrative), not merely defending a static position. Evidence, however, is company/media narrative (press coverage, government policy documents) rather than an independently quantified IP valuation or win-rate analysis pulled this session, hence capped at T4/T5 tier rather than T1-3."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "GRSE is genuinely expanding throughput -- FY26's 8-warship delivery record (one every ~45 days) and a rapidly growing revenue base (FY22-FY26 revenue roughly 4x) reflect real capacity and execution-efficiency build-out, and it is one of only a handful of yards India's Navy considers qualified for its most complex platforms. But GRSE remains smaller and less diversified than Mazagon Dock (~Rs57,000 Cr market cap, ~Rs35,000 Cr order book vs GRSE's much smaller book) and commands a materially lower P/E than Cochin Shipyard -- it is expanding scale within a multi-player DPSU cohort, not dominating the top of the industry, so rated AMBER/BUILDING rather than GREEN."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 6,
+    "ownership_transparency": 9,
+    "capital_allocation_discipline": 7,
+    "management_stability": 6,
+    "leverage_pledge_legal": 10,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 74.5,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "India's naval shipbuilding sector is in a real, multi-year, policy-driven capex upswing under Atmanirbhar Bharat/defence-indigenisation: as of 2026, 64 of 66 ships and submarines on order for the Indian Navy are being built domestically, with the Navy commissioning a new warship or submarine roughly every six weeks and 15 vessels planned for induction in 2026 alone -- an unprecedented delivery pace versus the prior decade. The Indian Naval Indigenisation Plan (launched 2015) has pushed hull-system indigenisation above 90% and propulsion-system indigenisation to ~60%. A ~Rs33,000-40,000 Cr Next Generation Corvette programme (GRSE reported as lowest bidder for 5 of 8 hulls) is pending final Cabinet Committee on Security approval, and the Ministry of Ports, Shipping and Waterways is separately developing a new shipbuilding financial-assistance scheme running to 2035, with a stated national goal of reaching the top-10 global shipbuilding nations by 2030 and top-5 by 2047 (partly aimed at commercial/export shipbuilding, not just naval). This is a genuine, evidenced structural shift in order-book depth and delivery cadence for the sector, not merely a cyclical order lump -- but it is allocated substantially by government planning and tendering across a small cohort of qualified yards (GRSE, Mazagon Dock, Cochin Shipyard, and select private yards) rather than won through open product-market competition, which is why addressable_profit_pool_cr/current_profit_share_pct are left null below (no conventional product-market TAM concept applies to government-allocated warship construction, analogous to the utility/BFSI carve-outs used elsewhere in this repo's dossiers).",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.2,
+    "horizon_years": 5,
+    "assumed_exit_pe": 32.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.015,
+    "margin_delta_mechanism_note": "EBITDA margin genuinely expanded through FY26 (Q4 FY26 margin 16.77% vs Q4 FY25's 13.46%, a real, reported 331bp YoY gain; full-year FY26 EBITDA margin estimated ~15% vs an implied ~8% in FY25 on the figures gathered this session -- see notes on internal inconsistency in these EBITDA numbers), attributed by company/press commentary to improved execution efficiency and a rising share of higher-margin serial-production and export work. A modest further 1.5%/yr margin-delta CAGR is assumed (well below the FY25->FY26 pace of improvement) rather than extrapolating that jump forward, both because two years of a sharp recovery do not establish a durable new margin floor, and because the pending Next Generation Corvette award, if it materialises, would likely carry lower first-of-class margins that could offset further gains -- an unproven margin delta should default toward a conservative, not an extrapolated, assumption per Section 6A."
+  },
+  "variant_perception": {
+    "market_belief": "The market already prices GRSE as a fast-growing, direct beneficiary of India's defence-indigenisation/Atmanirbhar Bharat naval build-out: the stock trades around ~37x trailing FY26 EPS (₹747.93 Cr PAT / 11.454 Cr shares = ~₹65.29 EPS at a ~₹2,427.50 price), broadly in line with sector peers Mazagon Dock (~33-40x) and at a discount only to Cochin Shipyard (~46x, sector PE ~40-41x per aggregator data), roughly 10.6x book value, and near the top of its 52-week range (₹1,963.70-₹3,339.00). Sell-side coverage is active (ICICI Direct publishes regular update notes) with a consensus 12-month target of roughly ₹3,069 (~26% upside), i.e. continued order execution and margin gains are already the base case being underwritten, not a surprise.",
+    "whats_wrong_with_belief": "I could not construct a credible, evidenced mispricing case, and per the task's own instruction I am not going to manufacture one. PSU defence stocks broadly, and shipbuilders specifically, have been one of the most extensively covered and already-re-rated themes in Indian equities since roughly 2022 -- this is not a neglected corner of the market: GRSE, Mazagon Dock and Cochin Shipyard all carry active sell-side coverage, high (implied, given the >25-30x multiples) institutional/retail attention, and a well-publicised policy narrative (Atmanirbhar Bharat, the NGC award, the 2030/2047 shipbuilding-nation targets) that is already the explicit subject of brokerage notes and financial media. The pending ~Rs33,000-40,000 Cr NGC award -- probably the single biggest near-term re-rating catalyst -- is itself already widely reported and, by several accounts, already reflected in analyst price targets and the stock's proximity to its 52-week high, rather than being an undiscovered fact. Data quality also cuts against a high-conviction quantitative case: this session's EBITDA figures show an internal inconsistency (implied FY25 EBITDA margin ~8% vs FY26 ~15%, a near-doubling that is larger than the Q4-to-Q4 margin move would suggest), and GRSE's own reported ROCE is distorted deeply negative by an unusually cash-heavy, low-net-worth balance sheet (a structural feature of advance-funded shipbuilding, not capital destruction, but one that makes normal return-on-capital screening unreliable here). A reasonable, less exciting reading is that GRSE is a genuinely improving, well-covered PSU compounder trading at a fair-to-full multiple for what is already known about it, not a hidden gem.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence -- see whats_wrong_with_belief. The two most obvious dated catalysts (final CCS approval/signing of the Next Generation Corvette contract; confirmation that the FY26 EBITDA-margin level holds rather than reverting) are both already widely anticipated and at least partially reflected in sell-side targets and the current multiple, so neither qualifies as a market-has-it-wrong gap-closing event on the evidence gathered this session.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DATA QUALITY (read before trusting any number here). Live aggregator sites (Screener, Moneycontrol, Tijori, stockanalysis.com) were unreachable from this environment (egress-blocked); all figures came from WebSearch snippets of company press releases, brokerage notes (ICICI Direct), trade/defence press (India Strategic, The Week, PSUConnect, Raksha Anirveda), a CareEdge Ratings credit-rating PDF, and aggregator-summary text (Trendlyne, Simply Wall St, stockinvest.us, scanx.trade) -- Tier 3/4/5 at best; nothing here is Tier 1/2 audited-filing- or exchange-filing-sourced directly. WELL-SOURCED / CROSS-CORROBORATED (Tier 3, cited, multiple independent hits): FY22-FY26 revenue (Rs1,758 / 2,562 / 3,593 / 5,076 / 7,002.16 Cr) and PAT (Rs190 / 228 / 357 / 527 / 747.93 Cr), the FY22-25 CAGR (~42%) explicitly stated in one source; FY26 results context (38% revenue growth, 42% PAT growth, record 8-warship delivery, EPS ~Rs65.29, Q4 FY26 PAT Rs303.19 Cr +24% YoY, Q4 FY26 EBITDA margin 16.77% vs Q4 FY25's 13.46%); FY26 total dividend Rs19.60/share (interim Rs12.90 + second interim Rs7.15, implying the Rs6.70 final tranche is a scraper/dating artifact not fully reconciled -- treat the Rs19.60 total as the more reliable figure); current price ~Rs2,427.50 (12-Sep-2026) against a 52-week range of Rs1,963.70-3,339.00; promoter (President of India via Ministry of Defence) holding 74.5%, stable across the last 8 reported quarters, zero pledge; GRSE has no term debt or working-capital borrowings beyond Rs9.67 Cr of lease liabilities as of 31-Mar-2025 (CareEdge Ratings), against cash and bank balances of Rs3,732 Cr the same date -- a genuinely net-cash, negative-net-debt balance sheet; net worth Rs2,198.80 Cr (Jun-2025, Q1FY26) rising to Rs2,799.66 Cr (Jun-2026, Q1FY27); order book reported inconsistently across sources as ~Rs13,596 Cr (30-Jun-2026, 11 shipbuilding projects/44 platforms) and ~Rs15,324 Cr (39 platforms) in other recent pieces -- this spread is flagged rather than silently resolved, likely reflecting different as-of dates/scope (shipbuilding-only vs total); a pending Next Generation Corvette award cited at both ~Rs33,000 Cr and ~Rs40,000 Cr across sources, awaiting final CCS approval, would be transformative to the order book if and when signed but is NOT included in any order-book figure above; export revenue reported at Rs270.70 Cr in FY26, +268% YoY, still a small share of total revenue; sector context -- Mazagon Dock PE ~33-40x depending on date/source, Cochin Shipyard PE ~46x against a stated sectoral PE ~40-41x. RECONSTRUCTED/APPROXIMATE (Tier 5, flagged, NOT independently pulled from a primary filing this session): EBITDA for all five years (Rs141/149/234/421/1,069 Cr) -- these came from two different search passes that were NOT internally consistent (one implied FY25 EBITDA margin of ~8.3% on Rs5,076 Cr revenue, a separate pass implied a ~15.3% FY26 margin off a full-year EBITDA figure that itself appeared in a clearly garbled unit format in one source and was reconciled here by assuming a Rs-crore rather than a mis-scaled-billion reading); depreciation, interest expense, OCF, capex, net fixed assets, CWIP, net working capital and total debt for all years, and net worth for FY22-24, are entirely modelled (ratio-based backcast/roll-forward against the real PAT and the two known net-worth anchor points), not filing-sourced -- treat these with the same caution as the BAJFINANCE.json/NTPC.json/SHARDACROP.json reference dossiers in this repo. market.adtv_cr (Rs90 Cr/day), sector_median_pb (9.0x) and book_value_per_share (Rs229, back-solved from a stated '10.6x book' multiple) are unsourced or loosely-sourced analyst-style estimates, not direct citations. shares_outstanding (11.454 Cr) is back-calculated from stated EPS/PAT, not a directly filed share count. STRUCTURAL CAVEAT (not a data-quality issue, and consistent with a separate web-search finding this session that GRSE's reported average ROCE is a nonsensical -67.10%): because GRSE holds a very large cash balance (funded by customer stage-payment advances, not its own capital) against a comparatively modest net worth and near-zero debt, this dossier's computed capital-employed (net worth + debt - cash) is structurally NEGATIVE in the later years, which will make the engine's ROCE/reinvestment gates read as deeply negative or nonsensical -- this is an honest artifact of a genuinely cash-rich, advance-funded shipbuilder's balance sheet, not a real capital-destruction signal, and is analogous to (though more extreme than) the negative-capital-employed caveat already documented in this repo's NTPC.json. governance ratings were set without inflating for a government promoter: leverage_pledge_legal scored 10 (functionally debt-free, government shares cannot be pledged) but management_stability and board_audit_independence were held at 6 to reflect that PSU board/CMD tenures are bureaucratically rotated (fixed-tenure government/defence appointees) rather than showing the multi-decade founder-promoter continuity a private compounder might, and capital allocation (capex/dividend policy) is partly constrained by DIPAM/government capex-approval processes rather than pure management discretion -- these are genuine, sector-appropriate governance characteristics of a DPSU, not evidence of misconduct (kill_gate_fired is honestly False; no fraud, pledge, or SEBI enforcement issue was found). variant_perception.answered is honestly set to False: per the task's own explicit warning, PSU defence stocks (and shipbuilders specifically) have been a well-covered, already-re-rated theme since 2022, GRSE trades in line with its equally well-covered peers, and its single biggest catalyst (the NGC award) is already widely reported and likely partially priced -- no credible, evidenced 'market has it wrong' case with a nameable persistence mechanism and a dated, distinct catalyst could be constructed from the partial, web-search-only evidence gathered this session. is_regulated_utility_or_bfsi is left False: unlike NTPC, GRSE's revenue is not set by a cost-plus tariff regulator (CERC-style), but is instead negotiated/tendered government-contract pricing -- a materially different mechanism, though one this framework also has no clean box for, which is why addressable_profit_pool_cr is left null with the reasoning spelled out in industry_context.phase_evidence rather than forced into a normal product-TAM number. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction (aggregator/filing sites were unreachable from this environment), not a completed adversarial (M5) review with a logged hostile source and cooling period."
+}

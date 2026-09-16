@@ -1,0 +1,110 @@
+{
+  "symbol": "TATAELXSI.NS",
+  "name": "Tata Elxsi Limited",
+  "sector": "Information Technology",
+  "industry": "Engineering R&D (ER&D) services -- automotive/transportation, media & communications, healthcare & life sciences embedded software and design",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [2470.7, 3144.7, 3552.1, 3729.0, 3757.4],
+    "ebitda": [667.1, 912.0, 1047.9, 973.3, 846.8],
+    "depreciation": [98.8, 125.8, 142.1, 149.2, 150.3],
+    "interest_expense": [12.4, 15.7, 17.8, 18.6, 18.8],
+    "pat": [549.7, 755.2, 792.2, 784.9, 628.4],
+    "ocf": [533.7, 729.6, 838.3, 778.6, 677.4],
+    "capex": [98.8, 125.8, 142.1, 149.2, 150.3],
+    "net_fixed_assets": [370.6, 471.7, 532.8, 559.4, 563.6],
+    "cwip": [49.4, 62.9, 71.0, 74.6, 75.1],
+    "net_working_capital": [543.6, 691.8, 781.5, 820.4, 826.6],
+    "total_debt": [96.6, 109.2, 123.4, 139.4, 157.5],
+    "cash_equiv": [676.2, 764.1, 863.5, 975.8, 1102.5],
+    "net_worth": [1932.0, 2183.0, 2467.0, 2788.0, 3150.0],
+    "dividend_paid": [247.4, 339.8, 356.5, 353.2, 282.8],
+    "tax_rate": [0.26, 0.26, 0.26, 0.26, 0.26]
+  },
+  "market": {
+    "price": 3435.9,
+    "market_cap_cr": 21078.0,
+    "adtv_cr": 45.0,
+    "shares_outstanding": 6.14,
+    "diluted_shares_outstanding": 6.16,
+    "sector_median_pe": 27.8,
+    "sector_median_pb": 7.0,
+    "ten_year_gsec_yield": 0.071,
+    "gsec_date": "2026-09-15",
+    "forward_eps": null,
+    "book_value_per_share": 511.5
+  },
+  "moat_sources": [
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "ERODING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Multi-year OEM design-in/qualification cycles (Jaguar Land Rover has been Tata Elxsi's largest client for over a decade on SDV/infotainment/ADAS programs) are genuine switching costs -- but the same relationship concentration (top-5 clients ~44.7% and top-10 ~54.6% of revenue, per Q1 FY26 disclosure) is currently a source of fragility rather than durability: the Aug-Sep 2025 cyberattack that halted JLR's own production for ~5 weeks, plus broader OEM R&D-budget deferrals, dragged consolidated revenue growth to near-zero and cut EBITDA margin from 29.5% (FY24) to ~22.5% (FY26). Rated AMBER/ERODING because the evidence shows the concentrated-account moat currently transmitting a single client's shock through the P&L, not insulating against it."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Company discloses proprietary healthcare IP platforms (TECare digital therapeutics, TEDREG regulatory intelligence, TEngage), automotive SDV accelerators, and ~2.5% of revenue committed to internal R&D labs, plus early aerospace/defence/semiconductor diversification (a turnkey airport guidance-system win for a US aerospace client). Tier 4 because this is sourced from company/press coverage of management commentary, not independently verified financial payoff -- notably, the Healthcare & Life Sciences vertical this IP is meant to differentiate actually declined 13.1% CC in Q4 FY26 on delayed deal awards, so the payoff is not yet visible in results."
+    },
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "ERODING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Tata Elxsi has historically commanded EBITDA margins (29-30%) well above typical IT-services/EMS peers, reflecting a specialized ER&D positioning -- a real, historically evidenced pricing-power signal. But margin has now compressed for two consecutive years (29.5% FY24 -> 26.1% FY25 -> ~22.5% FY26, computed from quarterly margins of 20.9/21.1/23.3/24.6% through FY26), driven by client-side R&D budget cuts, program deferrals and utilisation pressure -- so on the most recent evidence the trajectory is weakening, not strengthening, even though the absolute level remains above sector norms."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 8,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 8,
+    "management_stability": 7,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 43.9,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Revenue CAGR decelerated sharply from ~27% (FY23) to roughly flat (~1%, FY26); EBITDA margin compressed from 29.5% (FY24) to ~22.5% (FY26). This tracks a well-documented, industry-wide pullback in global automotive-OEM R&D/design spend (tariff-driven caution among US/EU automakers) compounded by a company-specific shock: the Aug-Sep 2025 cyberattack on top client Jaguar Land Rover halted JLR production for about five weeks and disrupted associated engineering programmes through FY26. Healthcare & Life Sciences, the smallest of the three verticals, also declined (-13.1% CC in Q4 FY26) on delayed deal awards, so the slowdown is broader than automotive alone, not a single-segment story. Growth partially re-accelerated in Q1 FY27 (total revenue +14.5% YoY; Transportation +13.3% YoY; Media & Communications +22.2% YoY; PAT +18.2% YoY), but management's own FY27 guidance is only a 'high single-digit growth aspiration' contingent on Healthcare recovering -- not a return to FY22-23-style 20%+ growth. Read honestly, this is a maturing, cyclical ER&D market working through a real air pocket, not an emergent or inflecting one.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 30.0,
+    "own_10y_75th_pctile_pe": 50.0,
+    "sector_10y_75th_pctile_pe": 35.0,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "No credible evidence of margin EXPANSION exists at this snapshot -- the observed multi-year trend is margin COMPRESSION (29.5% FY24 -> 26.1% FY25 -> ~22.5% FY26). Per the Section 6A rule, an unevidenced margin delta is set to zero and the bridge is run on revenue-driven growth alone. Management's own FY27 outlook ('high single-digit' growth, contingent on Healthcare recovery) does not amount to evidenced margin-expansion guidance, so target_multiple/assumed_exit_pe above are deliberately modest (roughly current-multiple-held-flat plus mid-single-digit-to-low-double-digit revenue growth), not a re-rating bet."
+  },
+  "variant_perception": {
+    "market_belief": "Consensus treats Tata Elxsi as a structurally slowing, single-client-concentrated (JLR) ER&D vendor caught in a global auto-OEM R&D spending cutback -- reflected in a roughly 40% share-price drawdown from 52-week highs (stock near its 52-week low as of mid-Sep 2026) and multiple consecutive quarters of YoY PAT declines through FY26.",
+    "whats_wrong_with_belief": "I could not construct a credible, evidence-backed case that this is an overreaction. The bear case is well documented and, on the evidence gathered here, looks basically correct rather than overstated: EBITDA margin down roughly 700bps over two years, FY26 PAT -20% YoY on flat revenue, genuine customer concentration (top-5 ~44.7%/top-10 ~54.6% of revenue), an actual JLR cyberattack disruption, and a second vertical (Healthcare) also declining on delayed deals. Q1 FY27 does show a real sequential improvement (revenue +14.5% YoY, PAT +18.2% YoY), but management's own guidance for FY27 is only 'high single-digit' growth, and the stock still trades at a premium to ER&D peers (TTM PE ~34x vs KPIT ~28x, L&T Technology Services ~29x, Cyient ~22x) even after the drawdown. Neither a hidden strength nor an irrational excess of pessimism is evident from what was found.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "If a thesis exists here it is forward-looking, not a current mispricing: two to three consecutive quarters of Transportation growth re-accelerating alongside Healthcare stabilising (both tentatively underway in Q1 FY27) would be the evidence needed to re-underwrite a durable-moat/re-rating thesis -- but that is a future test, not something demonstrable from today's data.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DATA QUALITY: Direct fetches of tataelxsi.com press releases, Business Standard, PRNewswire, Autocar Professional, Outlook Business and MarketScreener were all EGRESS_BLOCKED in this environment (same pattern noted in sample_data/PERSISTENT.json and sample_data/daily/DEEPAKNTR.json); every figure below comes from WebSearch's synthesized snippets of those sources, not a directly-read primary filing, so nothing here clears Tier 1/2. REAL, CITED anchors (Tier 3, search-engine-mediated aggregation of company press releases/financial media, cross-corroborated across multiple independent outlets): FY23 revenue Rs3,144.7 Cr (+27.3% YoY) and PAT Rs755.2 Cr (+37.4% YoY); FY24 revenue Rs3,552.1 Cr (+13.0%), PBT Rs1,048.7 Cr, PAT ~Rs792.2 Cr, EBITDA margin 29.5%; FY25 revenue Rs3,729.0 Cr, PBT Rs1,028.4 Cr, PAT ~Rs784.9 Cr, EBITDA margin 26.1%; FY26 revenue Rs3,757.4 Cr (+~1%), PBT Rs825.1 Cr (-20% YoY), PAT ~Rs628.4 Cr (-20% YoY), with quarterly EBITDA margins of 20.9/21.1/23.3/24.6% (Q1-Q4 FY26) revenue-weighting to ~22.5% for the full year; Q1 FY27 revenue Rs1,021.1 Cr (+14.5% YoY, +2.8% QoQ), EBITDA margin 21.2%, PAT Rs170.6 Cr (+18.2% YoY). FY22 revenue (~Rs2,470.7 Cr) and PAT (~Rs549.7 Cr) are back-calculated by reversing the FY23 press release's stated YoY growth rates, so treated as slightly-less-certain Tier 3. The Aug-Sep 2025 Jaguar Land Rover cyberattack (5-week JLR production halt) is independently and extensively documented (Wikipedia, just-auto, Business Standard, Tata Motors Q2 FY26 loss disclosure) and is treated as a real, dated event materially relevant to Tata Elxsi's FY26 Transportation-segment results given JLR is its largest client. Promoter holding (43.9%, Tata Sons/Tata Industries group, long-stated STABLE) and current-year debt-to-equity (~0.05x, near debt-free) are real, search-sourced Tier 3 figures; the model's own 2026 debt/net-worth ratio was deliberately set to match this cited D/E. Current price (Rs3,435.90) and market cap (Rs21,078 Cr) are as of 15-Sep-2026; the 10-year G-sec yield (7.10%, 15-Sep-2026) is real and cited. Sector-peer PEs (KPIT ~27.8x, LTTS ~29.1x, Cyient ~21.7x) are real, cited, and used to derive sector_median_pe; sector_median_pb, ADTV, own/sector 10Y-75th-percentile PE, and the entire balance-sheet series (EBITDA for FY22/FY23, depreciation, interest, OCF, capex, net fixed assets, CWIP, net working capital, total debt, cash, net worth, dividends, tax rate) are Tier 5 RECONSTRUCTIONS built from typical asset-light ER&D capital-intensity ratios and a reverse-engineered net-worth walk-back from the current book-value-per-share (~Rs511.5, from a cited P/B of 6.94), not from any balance sheet actually read this session -- treat the computed ROCE/interest-coverage/D-E series as illustrative, though the FY26 modelled ROCE (~31.6%) does land close to an independently cited ROCE figure (~30.0%), which is a reassuring but not conclusive cross-check. Customer-concentration figures (top-5 ~44.7%, top-10 ~54.6% of revenue) and the Q4 FY26 vertical mix (Transportation 53.4%/Media & Comms 32.4%/Healthcare 13.0%/Other 1.2%, quoted for Q4 FY25 but used as the best available recent mix) are Tier 3. management_stability (7/10) reflects an unverified-this-session, general-knowledge recollection of a CEO transition in the last few years and should be re-checked before being relied on. m5_protocol_complete is honestly set to False -- this is a single-pass, web-search-based reconstruction, not an adversarial multi-analyst review or a read of audited filings -- and variant_perception.answered is honestly set to False because no credible, evidence-backed mispricing thesis (in either direction) could be constructed from what was found: the well-known automotive-design-spend slowdown and JLR-concentration risk appear to be genuine and roughly correctly priced, not an overreaction to smooth over."
+}

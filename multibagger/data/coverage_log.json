@@ -1,6 +1,7 @@
 {
   "Nifty 50": {
     "covered": [
+      "HINDALCO.NS",
       "NESTLEIND.NS",
       "NTPC.NS",
       "SBIN.NS"
@@ -17,6 +18,10 @@
       {
         "ticker": "NTPC.NS",
         "date": "2026-09-15"
+      },
+      {
+        "ticker": "HINDALCO.NS",
+        "date": "2026-09-16"
       }
     ]
   },
@@ -24,7 +29,8 @@
     "covered": [
       "DEEPAKNTR.NS",
       "INDHOTEL.NS",
-      "SUPREMEIND.NS"
+      "SUPREMEIND.NS",
+      "TATAELXSI.NS"
     ],
     "history": [
       {
@@ -38,6 +44,10 @@
       {
         "ticker": "SUPREMEIND.NS",
         "date": "2026-09-15"
+      },
+      {
+        "ticker": "TATAELXSI.NS",
+        "date": "2026-09-16"
       }
     ]
   },
@@ -45,6 +55,7 @@
     "covered": [
       "CAPLIPOINT.NS",
       "CARBORUNIV.NS",
+      "RATNAMANI.NS",
       "VIJAYA.NS"
     ],
     "history": [
@@ -59,11 +70,16 @@
       {
         "ticker": "VIJAYA.NS",
         "date": "2026-09-15"
+      },
+      {
+        "ticker": "RATNAMANI.NS",
+        "date": "2026-09-16"
       }
     ]
   },
   "Nifty Microcap 250 (representative sample)": {
     "covered": [
+      "GRSE.NS",
       "SHARDACROP.NS",
       "SOUTHBANK.NS",
       "UJJIVANSFB.NS"
@@ -80,8 +96,12 @@
       {
         "ticker": "UJJIVANSFB.NS",
         "date": "2026-09-15"
+      },
+      {
+        "ticker": "GRSE.NS",
+        "date": "2026-09-16"
       }
     ]
   },
-  "_last_run_utc": "2026-09-15T02:35:55.362252+00:00"
+  "_last_run_utc": "2026-09-16T02:35:19.308222+00:00"
 }
