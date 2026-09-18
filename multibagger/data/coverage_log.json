@@ -3,6 +3,7 @@
     "covered": [
       "BAJAJFINSV.NS",
       "HINDALCO.NS",
+      "ICICIBANK.NS",
       "NESTLEIND.NS",
       "NTPC.NS",
       "SBIN.NS"
@@ -27,11 +28,16 @@
       {
         "ticker": "BAJAJFINSV.NS",
         "date": "2026-09-17"
+      },
+      {
+        "ticker": "ICICIBANK.NS",
+        "date": "2026-09-18"
       }
     ]
   },
   "Nifty Midcap 100 (representative sample)": {
     "covered": [
+      "ALKEM.NS",
       "BALKRISIND.NS",
       "DEEPAKNTR.NS",
       "INDHOTEL.NS",
@@ -58,6 +64,10 @@
       {
         "ticker": "BALKRISIND.NS",
         "date": "2026-09-17"
+      },
+      {
+        "ticker": "ALKEM.NS",
+        "date": "2026-09-18"
       }
     ]
   },
@@ -66,6 +76,7 @@
       "CAPLIPOINT.NS",
       "CARBORUNIV.NS",
       "GRANULES.NS",
+      "KPRMILL.NS",
       "RATNAMANI.NS",
       "VIJAYA.NS"
     ],
@@ -89,12 +100,17 @@
       {
         "ticker": "GRANULES.NS",
         "date": "2026-09-17"
+      },
+      {
+        "ticker": "KPRMILL.NS",
+        "date": "2026-09-18"
       }
     ]
   },
   "Nifty Microcap 250 (representative sample)": {
     "covered": [
       "AAVAS.NS",
+      "CANFINHOME.NS",
       "GRSE.NS",
       "SHARDACROP.NS",
       "SOUTHBANK.NS",
@@ -120,8 +136,12 @@
       {
         "ticker": "AAVAS.NS",
         "date": "2026-09-17"
+      },
+      {
+        "ticker": "CANFINHOME.NS",
+        "date": "2026-09-18"
       }
     ]
   },
-  "_last_run_utc": "2026-09-17T02:35:27.662433+00:00"
+  "_last_run_utc": "2026-09-18T02:35:16.371984+00:00"
 }
