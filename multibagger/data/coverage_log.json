@@ -6,7 +6,8 @@
       "ICICIBANK.NS",
       "NESTLEIND.NS",
       "NTPC.NS",
-      "SBIN.NS"
+      "SBIN.NS",
+      "WIPRO.NS"
     ],
     "history": [
       {
@@ -32,12 +33,17 @@
       {
         "ticker": "ICICIBANK.NS",
         "date": "2026-09-18"
+      },
+      {
+        "ticker": "WIPRO.NS",
+        "date": "2026-09-19"
       }
     ]
   },
   "Nifty Midcap 100 (representative sample)": {
     "covered": [
       "ALKEM.NS",
+      "AUBANK.NS",
       "BALKRISIND.NS",
       "DEEPAKNTR.NS",
       "INDHOTEL.NS",
@@ -68,6 +74,10 @@
       {
         "ticker": "ALKEM.NS",
         "date": "2026-09-18"
+      },
+      {
+        "ticker": "AUBANK.NS",
+        "date": "2026-09-19"
       }
     ]
   },
@@ -76,6 +86,7 @@
       "CAPLIPOINT.NS",
       "CARBORUNIV.NS",
       "GRANULES.NS",
+      "IOB.NS",
       "KPRMILL.NS",
       "RATNAMANI.NS",
       "VIJAYA.NS"
@@ -104,6 +115,10 @@
       {
         "ticker": "KPRMILL.NS",
         "date": "2026-09-18"
+      },
+      {
+        "ticker": "IOB.NS",
+        "date": "2026-09-19"
       }
     ]
   },
@@ -112,6 +127,7 @@
       "AAVAS.NS",
       "CANFINHOME.NS",
       "GRSE.NS",
+      "MAHASTEEL.NS",
       "SHARDACROP.NS",
       "SOUTHBANK.NS",
       "UJJIVANSFB.NS"
@@ -140,8 +156,12 @@
       {
         "ticker": "CANFINHOME.NS",
         "date": "2026-09-18"
+      },
+      {
+        "ticker": "MAHASTEEL.NS",
+        "date": "2026-09-19"
       }
     ]
   },
-  "_last_run_utc": "2026-09-18T02:35:16.371984+00:00"
+  "_last_run_utc": "2026-09-19T02:35:33.919153+00:00"
 }

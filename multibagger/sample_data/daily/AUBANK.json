@@ -1,0 +1,131 @@
+{
+  "symbol": "AUBANK.NS",
+  "name": "AU Small Finance Bank Limited",
+  "sector": "Financials",
+  "industry": "Small finance bank -- vehicle-finance/MSME lending heritage, first SFB with RBI in-principle approval (Aug 2025) to convert to a universal bank",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [7040.0, 9293.0, 12115.0, 18590.0, 21614.28],
+    "ebitda": [3234.0, 4425.0, 5157.0, 8012.0, 9133.68],
+    "depreciation": [110.0, 140.0, 180.0, 230.0, 280.0],
+    "interest_expense": [3006.0, 3628.0, 5261.0, 8052.0, 9497.0],
+    "pat": [1130.0, 1428.0, 1592.0, 2106.0, 2641.25],
+    "ocf": [900.0, 1500.0, 1400.0, 2600.0, 3100.0],
+    "capex": [220.0, 300.0, 380.0, 480.0, 560.0],
+    "net_fixed_assets": [900.0, 1150.0, 1400.0, 1700.0, 2000.0],
+    "cwip": [150.0, 190.0, 230.0, 270.0, 310.0],
+    "net_working_capital": [150.0, 190.0, 230.0, 270.0, 310.0],
+    "total_debt": [7500.0, 9200.0, 11500.0, 14200.0, 16500.0],
+    "cash_equiv": [6500.0, 8200.0, 9800.0, 12500.0, 14800.0],
+    "net_worth": [7300.0, 8700.0, 12500.0, 17170.0, 19913.0],
+    "dividend_paid": [0.0, 37.0, 37.0, 75.0, 75.0],
+    "tax_rate": [0.26, 0.26, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 1060.0,
+    "market_cap_cr": 79600.0,
+    "adtv_cr": 150.0,
+    "shares_outstanding": 74.61,
+    "diluted_shares_outstanding": 75.1,
+    "sector_median_pe": 15.0,
+    "sector_median_pb": 2.3,
+    "ten_year_gsec_yield": 0.065,
+    "gsec_date": "2026-09-12",
+    "forward_eps": null,
+    "book_value_per_share": 266.93
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "NIM of ~5.9-5.96% (FY25/Q4FY26) is best-in-class among SFBs, driven by a real yield premium in niche segments -- vehicle finance yields ran ~11.5% vs ~8.2% on home loans in FY25 -- reflecting a genuine underwriting/distribution edge in used-vehicle and informal-MSME lending built over ~15+ years as an NBFC before the 2017 SFB conversion. Rated AMBER not GREEN: this is a real spread advantage in a defensible niche, not company-wide pricing power -- AU competes hard against NBFC incumbents (Cholamandalam, Shriram, Mahindra Finance) in vehicle finance and faces margin/asset-quality give-back in the credit-card and unsecured-MSME/personal-loan segments it expanded into post-SFB-licence, where GNPA rose from 1.98% (Sep-2024) to 2.41% (Sep-2025) before improving to 2.10% (Q1FY27) -- i.e. the pricing edge is segment-specific and recently under genuine stress, not uniformly protective. Trajectory HOLDING rather than BUILDING because the credit-card/unsecured book has been a net drag on blended pricing power over the past 12-18 months, not an extension of it."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No evidence of structural lock-in on either side of the balance sheet: CASA ratio (~29% Q4FY25) is unremarkable versus large private banks (40%+), and secured retail/MSME/vehicle borrowers can and do refinance elsewhere as their credit profile improves with seasoning -- a well-known 'graduation risk' for SFBs, where their best-performing borrowers get poached by larger banks at lower rates once de-risked. Cross-sell (credit cards, current accounts) into the existing ~10 million customer base is real but a soft convenience factor, not a demonstrated retention moat. No Tier 1-3 evidence found this session of AU-specific switching-cost data (e.g. attrition/retention rates versus peers)."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Traditional deposit-taking and secured/unsecured lending business -- the product does not become more valuable to one customer as more customers join. Structurally absent, as for any conventional bank/NBFC."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Cost-to-income improved meaningfully from 64% (FY24) to 57% (FY25), among the better cost trajectories in the SFB cohort, aided by scale (largest SFB by assets/branches, 2,400+ touchpoints, ~10 million customers across 21 states) and digital/alternate-data underwriting (ML models on cash-flow, utility-bill and GST-filing data for MSME/vehicle approvals). Rated AMBER not GREEN: 57% cost-to-income is still well above large private banks (typically 35-45%), so this is a genuine but incomplete and not-yet-durable cost edge relative to the universal banks AU is about to compete against more directly, not an established structural advantage."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T2_FILING",
+      "evidence_note": "AU became, on 7 August 2025, the first institution in more than a decade (and the first SFB ever) to receive RBI in-principle approval to convert to a universal bank -- a scarce, regulator-conferred credential that is hard for peers to replicate on demand (Ujjivan's and Jana's parallel applications were both later RETURNED by RBI, in Apr-2026 and Oct-2025 respectively, for insufficient loan-book diversification). RBI eased the NOFHC promoter-holding condition on 6 March 2026 and AU has since filed its final application. This is a real, dated, verifiable regulatory-optionality asset -- rated AMBER rather than GREEN because it remains an in-principle/filed status, not yet a final, operating universal-bank licence, and the market has already re-rated the stock substantially on this news (see variant_perception)."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Largest SFB in India by assets, branches and customer count, which is a genuine scale edge within the ~10-12-strong SFB peer group and has let AU sustain 21-24% loan growth and 23-24% deposit growth (Q1FY27) well above system credit growth (~11-14%). Rated AMBER, not GREEN: 'efficient scale' in the Section 5 sense (a market too small to profitably support a second entrant) does not really apply here -- AU's scale advantage is real only versus other SFBs, and shrinks to nothing once it competes as a universal bank against HDFC/ICICI/Kotak/Axis-scale balance sheets, funding costs and branch networks. The universal-bank transition is as much a scale-disadvantage exposure as an opportunity."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 7,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 7,
+    "management_stability": 7,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 6,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 22.76,
+    "promoter_holding_3y_direction": "FALLING",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "The broader ~10-year-old small finance bank category is itself a maturing, competitively saturated segment (same conclusion reached for Ujjivan this week) -- but AU specifically is undergoing a genuine, dated, regulator-verified structural inflection distinct from its SFB peers: RBI in-principle approval to become a universal bank (7-Aug-2025, first such approval in over a decade), the NOFHC promoter-holding relaxation (6-Mar-2026) that unblocked the path, and AU's subsequent filing of its final application -- while Ujjivan's and Jana's parallel applications were both returned by RBI (Apr-2026, Oct-2025) for insufficient loan-book diversification, evidence AU is a genuine outlier within the cohort rather than simply the least-bad SFB. A universal-bank licence would materially expand AU's addressable business (larger single-borrower/group exposure limits, cheaper/longer-tenor funding access, corporate banking, treasury/forex, priority-sector-lending flexibility) versus its current SFB-constrained model. This is weighed against real, concurrent negatives: GNPA rose from 1.98% (Sep-2024) to 2.41% (Sep-2025) before improving to 2.10% (Q1FY27), driven by acknowledged stress in credit cards, personal loans, microfinance-adjacent lending and a southern-region mortgage pocket -- management itself has flagged elevated credit costs through FY26 -- so the inflection is real but not yet a clean, de-risked one. Loan growth (21-24% YoY) and deposit growth (23-24% YoY) have outpaced system credit growth (~11-14%) for several years, a share-gain pattern, though much of it is against other SFBs/NBFCs rather than the large private banks AU will soon compete with directly.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": true
+  },
+  "bridge_assumptions": {
+    "target_multiple": 3.0,
+    "horizon_years": 7,
+    "assumed_exit_pe": 22.0,
+    "own_10y_75th_pctile_pe": 32.0,
+    "sector_10y_75th_pctile_pe": 28.0,
+    "annual_dilution_rate": 0.02,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": ""
+  },
+  "variant_perception": {
+    "market_belief": "The market appears to price AU as the clear winner of the SFB cohort: the only SFB with an RBI-approved (in-principle) path to a universal-bank licence, the largest and best-run SFB by cost-to-income and NIM, with a credible vehicle-finance/MSME underwriting franchise. The stock has re-rated sharply (one brokerage note cited it up ~102% from its March-2026 low, with further 'buy' calls since), and it now trades at a rich ~4x book value and ~30x trailing EPS -- both a substantial premium to peer SFBs like Ujjivan (~1.9x book, ~18x trailing EPS) -- on the view that the universal-bank conversion plus continued 20%+ growth justify the multiple.",
+    "whats_wrong_with_belief": "I could not construct a confident, evidence-backed case that this is being systematically UNDERPRICED rather than already generously reflected. The bull case (best-in-cohort SFB, universal-bank optionality) is exactly what the ~4x book / ~30x earnings multiple already appears to price in -- it is a widely covered, consensus-friendly narrative (heavy brokerage coverage, repeated post-results 'buy' notes), not a variant view. Set against it are real, current negatives the premium multiple does not obviously discount: GNPA rose from 1.98% to 2.41% (Sep-2024 to Sep-2025) on acknowledged stress in credit cards, personal loans, microfinance-adjacent lending and a southern mortgage pocket, and credit costs stayed elevated through FY26 -- this is not a business with a clean asset-quality tailwind, it is one recovering from self-inflicted expansion into unsecured products. Promoter holding, at 22.76%, has been on a gradual multi-year FALLING path (largely dilutive ESOP/QIP/merger-swap issuance rather than distress selling, but a real trend nonetheless). The universal-bank approval itself remains in-principle/application-stage, not a final licence, and the RBI's return of both peer applications (Ujjivan, Jana) for diversification shortfalls is a reminder the final approval is not guaranteed on any fixed timeline. A modest, ordinary-analyst 'best-of-breed SFB, deserves a premium to peers' view is plausible and probably correct, but that is different from a rigorous N7 case with a nameable, persistent M3 edge and a dated gap-closing catalyst that is genuinely distinct from what 18 months of heavily-covered re-rating already appears to reflect.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence -- see whats_wrong_with_belief. A credible case would need either (a) final universal-bank licence grant on a dated timeline still unpriced by the market, or (b) several consecutive quarters of credit cost normalizing below FY24 levels across the FULL book (not just the recovering slice) at a valuation the market has not already extended credit for -- neither is demonstrated by the partial, search-only evidence gathered here.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": false,
+  "notes": "BFSI name -- is_regulated_utility_or_bfsi=True per the G1/Section 5e/6B BFSI carve-outs in FRAMEWORK_v2.2_FULL.md; industry_context.addressable_profit_pool_cr is left null since a lender has no product-market TAM concept, per the v2.2 6B implementation note. 'EBITDA' in the financials series is a rough NII proxy, not comparable to a non-financial company's EBITDA -- same convention used for BAJFINANCE.json/UJJIVANSFB.json in this repo. 'revenue' is total income (gross interest income + other income, i.e. the bank's reported P&L 'Total Income' line), not NII -- interest_expense is backed out as (total income - other income) - NII using reconstructed other-income splits, so the derived interest_expense figures are Tier 5 arithmetic, not a filed line item. DATA QUALITY -- WELL-SOURCED (Tier 2/3, cross-corroborated across the bank's own press releases and multiple independent aggregator/press results, but not independently pulled from a primary exchange filing PDF line-by-line in this session): FY23/FY26 total income (Rs9,293 / 21,614.28 Cr, directly reported), FY24/FY25 other income (Rs1,697 / 2,526 Cr), FY22-FY26 PAT (Rs1,130 / 1,428 / 1,592 / 2,106 / 2,641.25 Cr, all reported/audited), FY22-FY26 NII (Rs3,234 / 4,425 / 5,157 / 8,012 / ~9,134 Cr, the last derived from a reported +14% YoY growth figure), Q1FY27 GNPA/NNPA (2.10%/0.76%, down from 2.47%/0.88% YoY), Sep-2024/Sep-2025 GNPA trend (1.98% -> 2.41%), Q1FY27 CAR (18.9%, Tier I 17.1%), Q4FY25 CASA ratio (~29%), current price (~Rs1,054-1,067, 10-11 Sep 2026), market cap (~Rs79,600 Cr, 10-Sep-2026), book value per share (Rs266.93, Mar-2026, giving P/B ~3.9-4.0x consistent with independently reported P/B), shares outstanding (746,111,200 = 74.61 Cr, face value Rs10), promoter holding (22.76% as of Jun-2026), FY26 final dividend recommendation (Re1/share), RBI in-principle universal-bank approval (7-Aug-2025, first SFB/first such approval in a decade), the 6-Mar-2026 NOFHC relaxation and AU's subsequent final application, and Ujjivan's (Apr-2026) and Jana's (Oct-2025) returned universal-bank applications. RECONSTRUCTED (Tier 5, this session, NOT independently verified): FY22/FY24/FY25 total income (backed into from reported YoY growth percentages and a 9-month FY24 actual figure of Rs8,915 Cr, not a filed full-year number pulled directly), all years' other-income splits used to derive interest_expense, net worth for FY22-FY24 (walked backward from the FY25 reported Rs17,170 Cr and FY26 book-value-per-share x shares-outstanding anchor of ~Rs19,913 Cr, adjusting for the Apr-2024 Fincare SFB merger's equity-swap effect), all years' capex, net fixed assets, CWIP, 'net working capital' (a placeholder equal to CWIP, same convention as the BAJFINANCE/UJJIVAN reference dossiers, since neither concept describes a bank's real economics), total borrowings (total_debt, deliberately excludes deposits, same D/E convention as the other BFSI dossiers in this repo), cash & balances, OCF, and dividend_paid for years other than the FY26 Re1/share figure. Sector median P/E (15x) and P/B (2.3x), the 10-year G-sec yield (6.5%, reused from the same week's UJJIVANSFB.json dossier), ADTV (Rs150 Cr/day, an unverified estimate for a liquid Nifty Midcap constituent), diluted share count and all bridge_assumptions are Tier 5 analyst estimates, not sourced this session. One figure was deliberately DISCARDED as unreliable: a low-quality aggregator claimed AU's retail-book GNPA/NNPA at 0.65%/0.16% in FY25, which is inconsistent with every other reported bank-wide GNPA figure found (1.98-2.47% over the same period) and was not used anywhere in this dossier. STRUCTURAL CAVEAT (not a data-quality issue, same one flagged in SOUTHBANK.json/UJJIVANSFB.json): Section 5e's ROIIC/reinvestment-rate formula (net fixed assets + CWIP + net working capital as 'invested capital') does not describe a bank's real economics -- a bank's true growth capital is its loan book funded by deposits/borrowings, not fixed assets -- so this dossier's computed ROIIC/engine-growth figures are a known artifact of a near-zero, non-representative denominator and should NOT be read as a genuine measure of AU's compounding capacity in either direction. A genuine BFSI-specific Section 5e variant does not yet exist in this framework (v2.2 denominator ledger: 'proposed, not yet specified, n=0'). Moat sources were rated more generously than UJJIVANSFB.json (0 GREEN, 4 AMBER, 2 RED here vs 0 GREEN, 0 AMBER, 6 RED there) reflecting AU's genuinely stronger, evidenced position within the SFB cohort -- but deliberately not scored GREEN anywhere: AU's own asset-quality softness in credit cards/personal loans/microfinance-adjacent lending through FY25/FY26, and the still in-principle (not final) status of its universal-bank licence, are real, current, evidenced caveats, not merely peer-relative comparisons. variant_perception.answered is honestly set to False: a plausible 'best-of-breed SFB deserves a premium' narrative exists, but I could not construct a rigorous, evidence-backed N7 case that the market is UNDERpricing AU specifically -- if anything the ~4x book / ~30x earnings multiple and heavy brokerage coverage suggest the best-in-cohort thesis is already well reflected, which is the opposite problem from Ujjivan's but leads to the same honest answered=false outcome. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction, not a completed adversarial (M5) review with a logged hostile source and a cooling period."
+}

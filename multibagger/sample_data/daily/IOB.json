@@ -1,0 +1,131 @@
+{
+  "symbol": "IOB.NS",
+  "name": "Indian Overseas Bank",
+  "sector": "Financials",
+  "industry": "Public-sector bank -- pan-India retail, MSME, agri and corporate banking; ex-PCA turnaround name headquartered in Chennai",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [21633.0, 23509.0, 29706.0, 33676.08, 37532.15],
+    "ebitda": [9734.85, 10579.05, 13367.7, 15154.24, 16889.47],
+    "depreciation": [315.8, 355.3, 414.6, 467.2, 523.8],
+    "interest_expense": [11898.15, 12929.95, 16338.3, 18521.84, 20642.68],
+    "pat": [1709.0, 2099.0, 2655.62, 3334.70, 5208.03],
+    "ocf": [1879.9, 2308.9, 2921.18, 3668.17, 5728.83],
+    "capex": [505.7, 568.9, 663.7, 747.99, 838.6],
+    "net_fixed_assets": [2632.8, 2961.9, 3455.6, 3894.4, 4366.1],
+    "cwip": [131.5, 147.96, 172.6, 194.6, 218.1],
+    "net_working_capital": [131.5, 147.96, 172.6, 194.6, 218.1],
+    "total_debt": [33600.0, 37800.0, 44100.0, 49700.0, 55720.0],
+    "cash_equiv": [8400.0, 9450.0, 11025.0, 12425.0, 13930.0],
+    "net_worth": [24000.0, 27000.0, 31500.0, 35500.0, 39800.0],
+    "dividend_paid": [0.0, 0.0, 0.0, 0.0, 0.0],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 33.0,
+    "market_cap_cr": 63681.5,
+    "adtv_cr": 6.7,
+    "shares_outstanding": 1929.7,
+    "diluted_shares_outstanding": 1929.7,
+    "sector_median_pe": 7.43,
+    "sector_median_pb": 1.32,
+    "ten_year_gsec_yield": 0.0695,
+    "gsec_date": "2026-09-18",
+    "forward_eps": null,
+    "book_value_per_share": 20.6
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Domestic CASA ratio is genuinely decent in absolute terms (~41.46% Q4FY26, per corporate presentation/press) and supports a real cost-of-funds edge versus a pure wholesale-funded lender, but it has fallen from ~44.05% a year earlier -- an eroding, not building, trend. On the asset side IOB is a price-taker in a commoditised PSU/private lending market with priority-sector obligations capping pricing freedom, and no evidence of a durable NIM premium versus peers was found this session. Rated AMBER (real but eroding), not GREEN."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "IOB carries a base of long-tenure retail/government-salary/pension accounts typical of a legacy PSU bank, which creates some real switching friction, but unlike SBI it has no dominant, differentiated national franchise (Jan Dhan share, defence/PSU salary mandates at scale) -- it is a mid-tier PSU bank among many similar ones. UPI/e-KYC portability is lowering switching costs industry-wide. Rated AMBER, not GREEN -- the stickiness is real but generic to the PSU-bank category, not IOB-specific."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Traditional deposit-taking and lending does not get structurally more valuable per customer as more customers join; any digital/UPI rails IOB rides are shared industry infrastructure (NPCI), not an IOB-specific network effect. Structurally absent, same conclusion as for any single-bank name in this framework."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No Tier 1-3 evidence found this session of a cost-to-income advantage versus peers; IOB's decade-long PCA history (2015-2021) reflects the opposite -- years of elevated credit costs and provisioning that depressed returns well below peer levels. Recent operating-profit growth (+15.4% FY26) is real but is a recovery off a distressed base, not a demonstrated structural cost edge. Rated RED rather than manufacturing a moat this bank has not evidenced."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No patent, unique licence, brand premium or monetised pricing edge beyond the industry-wide universal banking licence. IOB does not carry SBI's systemic-importance/flight-to-safety halo -- it is a mid-tier PSU bank that itself required RBI's Prompt Corrective Action framework (Oct 2015-Sep 2021) due to asset-quality and capital stress, which if anything argues against a trust-premium intangible. Rated RED."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "IOB's total business (~Rs6.79 lakh Cr as of Mar-2026) is a small fraction of the largest Indian banks (SBI, HDFC, ICICI) and comparable to several other mid-tier PSU banks -- no evidence of a scale-driven entry barrier or cost structure a well-capitalised competitor could not match. Rated RED, not the GREEN a dominant incumbent could claim."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 6,
+    "ownership_transparency": 7,
+    "capital_allocation_discipline": 4,
+    "management_stability": 4,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 5,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 92.44,
+    "promoter_holding_3y_direction": "FALLING",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Indian banking overall is a large, mature, competitively saturated industry (system credit growth ~12-15%/yr). IOB itself is genuinely in a multi-year asset-quality turnaround since exiting RBI's PCA framework in Sep-2021 (net NPA falling from ~3.58% at PCA-exit era levels to a reported ~0.21-0.57% range across FY25-FY26 prints, gross NPA from low-teens to ~1.3-2.1%, PAT compounding from Rs831 Cr FY21 to a reported Rs5,208 Cr FY26) -- but this is a recovery off a severely distressed base (a bank that itself needed PCA restrictions for six years), not a documented 3-consecutive-year revenue-CAGR-above-sector share-gain in a mature industry, and the bank's recent above-system advances growth (~22-24% YoY) is plausibly a low-base normalisation effect rather than durable share capture. Classified MATURE with share-gain NOT established with confidence -- this caps the name at Steady Compounder under Section 6A rather than Multibagger Candidate, and the improvement itself already looks priced: IOB trades at a premium P/E (~10.7-12x) and P/B (~1.6-2.0x) to the Nifty PSU Bank index median (P/E ~7.4x, P/B ~1.3x, Sep-2026), i.e. the market is not treating this as an overlooked, undiscovered recovery.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": false
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 9.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.05,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "No Tier 1-3 margin-trend series was pulled this session to evidence a structural NIM/fee-income margin delta distinct from the ordinary credit-cost normalisation already realised since PCA exit; per the Section 6A/5e v2.2 rule an unevidenced margin delta is set to zero rather than assumed."
+  },
+  "variant_perception": {
+    "market_belief": "The market prices IOB as a recovering, sub-scale PSU bank whose asset quality has improved dramatically since its 2021 PCA exit (record annual profits, net NPA now well under 1%), and has already re-rated it to a premium P/E (~10.7-12x) and P/B (~1.6-2.0x) versus the broader PSU-bank peer set (Nifty PSU Bank index ~7.4x P/E, ~1.3x P/B, Sep-2026) to reflect that recovery.",
+    "whats_wrong_with_belief": "I could not construct a credible, evidenced case that this is a genuine, exploitable mispricing rather than a fair-to-generous price for what it is. The asset-quality turnaround is several years old, widely reported in the financial press every quarter ('record profit', 'NPAs fall'), and already trades at a valuation premium to peers rather than a discount -- the opposite of a coverage-neglect or hidden-value setup. On top of that there is a real, structural, near-term overhang this dossier's numbers do not capture in any moat/quality score: the Government of India held ~92.44% of IOB as of the most recent SEBI SAST filing found this session, against a 25% minimum public shareholding requirement the government was given forbearance on only until 1-Aug-2026 (today is 19-Sep-2026 -- that deadline has already passed and no compliance was confirmed in this session's search results). Closing that gap requires selling down roughly 17+ percentage points of government stake -- via further OFS and/or large QIPs (a Rs4,000 Cr QIP alone was reported to move the stake by only ~4 points) -- which is a multi-year, price-suppressing primary and secondary supply overhang largely independent of the bank's own operating performance, not a reason to expect upside.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence. A credible bull catalyst would require either (a) a sustained, evidenced structural margin/fee-income re-rating distinct from the NPA-cycle recovery already priced in, or (b) the MPS-compliance dilution overhang being absorbed by strong enough underlying earnings growth to be a non-event -- neither was evidenced from the partial, search-only data gathered this session.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "other",
+  "is_turnaround": true,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": false,
+  "notes": "BFSI name -- is_regulated_utility_or_bfsi=True per the G1/Section 5e/6B BFSI carve-outs in FRAMEWORK_v2.2_FULL.md; industry_context.addressable_profit_pool_cr left null since a lender has no product-market TAM concept, per the v2.2 6B implementation note. 'ebitda' in the financials series is a rough NII + non-interest/fee-income proxy (revenue minus a modelled interest_expense), not comparable to a non-financial company's EBITDA and not filing-verified line-by-line -- same convention used for BAJFINANCE.json/SBIN.json/SOUTHBANK.json in this repo. DATA QUALITY -- WELL-SOURCED (Tier 3, cross-corroborated via multiple independent press/aggregator search results this session, standalone basis unless noted): standalone annual PAT FY22 Rs1,709 Cr, FY23 Rs2,099 Cr (+22.76% YoY), FY24 Rs2,655.62 Cr, FY25 Rs3,334.70 Cr (+25.57% YoY), FY26 Rs5,208.03 Cr (+56.16-59.58% YoY, 'highest ever'); total income FY22 ~Rs21,633 Cr, FY23 ~Rs23,509 Cr, FY24 ~Rs29,706 Cr, FY25 ~Rs33,676.08 Cr, FY26 ~Rs37,532.15 Cr (+11.41% YoY); FY26 NII ~Rs12,574 Cr (+15.46% YoY); FY26 operating profit ~Rs10,026 Cr; Capital Adequacy Ratio ~19.78% (Mar-2026, Tier-I ~16.94%) up from ~19.74% (Mar-2025) and ~17.28% (Mar-2024) -- consistently well above regulatory minimums; domestic CASA ratio ~41.46% (Q4FY26) down from ~44.05% a year earlier (global CASA ~40.99%); Gross NPA ~1.33-2.14% and Net NPA ~0.18-0.57% across FY25-FY26 quarterly/annual prints (multiple corroborating sources, exact quarter-end figures vary slightly by source -- treated as a range, not a single point); Provision Coverage Ratio ~97.67% (Q1FY27); PCA history -- placed under RBI's Prompt Corrective Action framework in Oct-2015 (net NPA 5.68% FY15, net loss Rs454.33 Cr FY15), exited PCA Sep-2021 (net NPA 3.58% FY21, net profit Rs831 Cr FY21, positive ROA 0.27%); Government of India shareholding ~92.44% per a SEBI SAST compliance filing (down from ~94.61% following a Dec-2025 OFS that diluted ~2.17 percentage points), with public shareholding reported as low as ~7.56% post-OFS (one shareholding-pattern snapshot showed a different FII/DII/public split of ~0.1%/2.3%/2.9%, which does not obviously reconcile with the 7.56% figure -- both are reported here rather than silently picking one); the Rs4,000 Cr QIP planned for FY26 was reported as likely to move the government stake by only ~4 points, and IOB's CEO was reported saying the bank may miss the Aug-2026 minimum-public-shareholding deadline and would seek an extension -- as of this session's search (today 19-Sep-2026) no confirmation of compliance or of a formal further extension was found; no dividend has been paid by IOB since 2014 (payout ratio effectively 0% every year in this dossier, which trivially clears the Section 5e 40% payout ceiling gate for the wrong reason -- capital conservation by a recently-distressed, still-undercapitalised-by-history PSU bank, not disciplined reinvestment); current price Rs33.0, market cap ~Rs63,681.5 Cr, P/E ~10.7-12.4x, P/B ~1.6-2.02x (all dated ~13-Sep-2026); Nifty PSU Bank index P/E ~7.43x and P/B ~1.32x (17-Sep-2026, used as sector_median_pe/pb) -- IOB trades at a clear premium to the PSU-bank peer median on both metrics; 20-session average daily volume ~20.8 lakh shares (~Rs6.7 Cr/day at CMP), a low ADTV for a >Rs60,000 Cr market cap name, consistent with the public float being only a small single-digit-to-low-teens percentage of shares. DATA QUALITY -- RECONSTRUCTED/APPROXIMATE (Tier 5, flagged, NOT independently pulled from a primary filing this session): shares_outstanding (~1,929.7 Cr) is back-calculated from market_cap/price, not a directly filed share count (one aggregator separately quoted ~1,921.17 Cr shares, a close but not identical figure, consistent with cross-source noise/date mismatch); book_value_per_share (Rs20.6) is back-calculated from price/PB; the entire financials.net_worth series (Rs24,000-39,800 Cr, FY22-FY26) is a Tier-5 judgement-based reconstruction anchored loosely to the current book-value-per-share x shares-outstanding figure and walked backward -- it explicitly does NOT attempt a clean retained-earnings roll-forward from PAT, because IOB underwent multiple capital infusions/recapitalisations (government recap bonds pre-2022, and further QIP/OFS-linked capital actions through FY26) that a pure PAT-minus-payout roll-forward would misstate; treat this net_worth series, and any leverage ratio (D/E, interest coverage) the generic non-BFSI code might compute from it, as illustrative only -- per the G1 v2.2 amendment this gate is informational/TEAL for BFSI names, not pass/fail, and the sector-appropriate replacement test (CAR/NPA/cost-of-funds trend, reported qualitatively above) is the one that actually matters here. The interest_expense/ebitda-proxy split (interest_expense modelled as a flat ~55% of revenue) and the entire non-interest-income balance-sheet series (depreciation, net_fixed_assets, cwip, 'net_working_capital', total_debt, cash_equiv, capex, ocf) are Tier-5 reconstructions built by ratio assumptions against net_worth/revenue/PAT (same modelling convention as SBIN.json/SOUTHBANK.json in this repo) and should not be read as filing-verified. ten_year_gsec_yield (~6.95%, 18-Sep-2026) is an approximate current-market figure, not pulled from a specific bond-market data source this session. STRUCTURAL CAVEAT (not a data-quality issue): Section 5e's ROIIC/reinvestment-rate formula (net fixed assets + CWIP + net working capital as 'invested capital') does not describe a bank's real economics -- a lender's actual growth capital is its loan book funded by deposits/borrowings, not its small fixed-asset base -- so this dossier's computed engine-growth 'g' is a near-meaningless artifact of a tiny denominator and should not be read as a genuine measure of IOB's compounding capacity; the composite.evaluate() output itself carries this same warning via its BFSI note. QUALITATIVE JUDGEMENT CALLS (honest, not manufactured): moat_sources rated deliberately skeptically for a mid-tier PSU bank with a six-year PCA history -- zero GREEN, two AMBER (pricing_power/CASA -- real but eroding YoY; switching_costs -- real but generic to the PSU-bank category, not IOB-specific or superior to peers), four RED (network_effects -- structurally absent for traditional banking; cost_advantage, intangible_assets, efficient_scale -- no Tier 1-3 evidence of any of these versus peers, and IOB's own distress history argues against inflating them). No source is rated BUILDING; this fails the Section 5b-T moat-trajectory gate for Multibagger Candidate tier regardless of any other score. governance ratings reflect real PSU-specific frictions -- capital_allocation_discipline and management_stability scored low (4/10) given a history of government-driven recapitalisations that repeatedly diluted minority shareholders, short/rotating PSU-bank leadership tenures, and priority-sector-lending constraints on capital allocation -- while leverage_pledge_legal and ownership_transparency score higher (8-9/10) reflecting no promoter pledge risk (government cannot pledge its stake in the private-promoter sense) and full public SEBI-filing transparency on the government's holding. promoter_holding_3y_direction is honestly FALLING (an active, government-mandated dilution programme, not organic float-broadening) rather than STABLE. industry_context.share_gain_3y_vs_sector is set False rather than left ambiguous: IOB's fast recent advances growth is plausibly a low-base normalisation off a PCA-era depressed book, not a documented, sustainable share gain, and treating it as a genuine share-gain signal would manufacture a bull case the evidence does not support. variant_perception.answered is honestly set False: the honest read is that this is NOT a credible near-term mispricing case in either direction that this framework's N7 test is built to capture -- the recovery story is old, widely reported news that has already re-rated the stock to a premium-to-peers valuation, not a hidden value case, and the genuinely under-discussed near-term risk found this session (the government's ~92.44% holding against a 25% minimum-public-shareholding requirement whose Aug-2026 forbearance deadline has already passed as of today, 19-Sep-2026, with no confirmed compliance found) is a real, price-relevant overhang but is a supply/dilution risk case, not the kind of asymmetric-upside variant-perception thesis Section N7 is designed to test for a BUY. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction (no data-vendor/filing-level access to Indian bank fundamentals was used this session; Screener/Moneycontrol/Tijori/Equitymaster/company investor-relations PDFs were not directly fetched), not a completed adversarial (M5) review with a logged hostile source and cooling period."
+}
