@@ -2,6 +2,7 @@
   "Nifty 50": {
     "covered": [
       "BAJAJFINSV.NS",
+      "EICHERMOT.NS",
       "HINDALCO.NS",
       "ICICIBANK.NS",
       "ITC.NS",
@@ -42,6 +43,10 @@
       {
         "ticker": "ITC.NS",
         "date": "2026-09-20"
+      },
+      {
+        "ticker": "EICHERMOT.NS",
+        "date": "2026-09-21"
       }
     ]
   },
@@ -52,6 +57,7 @@
       "BALKRISIND.NS",
       "DEEPAKNTR.NS",
       "INDHOTEL.NS",
+      "IPCALAB.NS",
       "RECLTD.NS",
       "SUPREMEIND.NS",
       "TATAELXSI.NS"
@@ -88,6 +94,10 @@
       {
         "ticker": "RECLTD.NS",
         "date": "2026-09-20"
+      },
+      {
+        "ticker": "IPCALAB.NS",
+        "date": "2026-09-21"
       }
     ]
   },
@@ -100,6 +110,7 @@
       "IOB.NS",
       "KPRMILL.NS",
       "RATNAMANI.NS",
+      "SKFINDIA.NS",
       "VIJAYA.NS"
     ],
     "history": [
@@ -134,12 +145,17 @@
       {
         "ticker": "BANKINDIA.NS",
         "date": "2026-09-20"
+      },
+      {
+        "ticker": "SKFINDIA.NS",
+        "date": "2026-09-21"
       }
     ]
   },
   "Nifty Microcap 250 (representative sample)": {
     "covered": [
       "AAVAS.NS",
+      "BEML.NS",
       "CANFINHOME.NS",
       "GRSE.NS",
       "MAHASTEEL.NS",
@@ -180,8 +196,12 @@
       {
         "ticker": "RHIM.NS",
         "date": "2026-09-20"
+      },
+      {
+        "ticker": "BEML.NS",
+        "date": "2026-09-21"
       }
     ]
   },
-  "_last_run_utc": "2026-09-20T02:38:46.141766+00:00"
+  "_last_run_utc": "2026-09-21T02:38:57.317282+00:00"
 }

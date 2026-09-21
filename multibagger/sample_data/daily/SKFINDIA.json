@@ -1,0 +1,110 @@
+{
+  "symbol": "SKFINDIA.NS",
+  "name": "SKF India Limited",
+  "sector": "Automobile / Auto Ancillaries",
+  "industry": "Automotive precision bearings (OEM + aftermarket distribution) -- majority-owned by Aktiebolaget SKF, Sweden",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025, 2026],
+    "revenue": [1384.09, 1508.66, 1644.44, 1792.44, 1953.76, 2129.6],
+    "ebitda": [193.77, 211.21, 230.22, 250.94, 273.53, 298.14],
+    "depreciation": [20.76, 22.63, 24.67, 26.89, 29.31, 31.94],
+    "interest_expense": [1.25, 1.36, 1.48, 1.61, 1.76, 1.92],
+    "pat": [116.99, 127.52, 138.99, 151.5, 165.14, 180.0],
+    "ocf": [155.02, 168.97, 184.18, 200.75, 218.82, 238.52],
+    "capex": [48.44, 52.8, 57.56, 62.74, 68.38, 74.54],
+    "net_fixed_assets": [207.61, 226.3, 246.67, 268.87, 293.06, 319.44],
+    "cwip": [27.68, 30.17, 32.89, 35.85, 39.08, 42.59],
+    "net_working_capital": [249.14, 271.56, 296.0, 322.64, 351.68, 383.33],
+    "total_debt": [13.84, 15.09, 16.44, 17.92, 19.54, 21.3],
+    "cash_equiv": [55.36, 60.35, 65.78, 71.7, 78.15, 85.18],
+    "net_worth": [761.25, 829.76, 904.44, 985.84, 1074.57, 1171.28],
+    "dividend_paid": [87.74, 95.64, 104.24, 113.63, 123.85, 135.0],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 1578.8,
+    "market_cap_cr": 7659.0,
+    "adtv_cr": 8.0,
+    "shares_outstanding": 4.852,
+    "diluted_shares_outstanding": 4.852,
+    "sector_median_pe": 44.3,
+    "sector_median_pb": 7.0,
+    "ten_year_gsec_yield": 0.071,
+    "gsec_date": "2026-09-15",
+    "forward_eps": null,
+    "book_value_per_share": 241.4
+  },
+  "moat_sources": [
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Global parent Aktiebolaget SKF (Sweden, ~52.6% owner) supplies technology transfer, engineering standards and the SKF brand across India's OEM and aftermarket bearing channels -- a plausible differentiator for a global-MNC subsidiary. Evidenced here only via company/media descriptions of an 'electrification, premiumisation, hybrid technologies, last-mile mobility' positioning (Q1 FY26 management commentary) -- no disclosed royalty-adjusted margin premium, technology-transfer agreement terms, or patent/IP data found to corroborate this at Tier 1-3."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Automotive-OEM bearing qualification/homologation cycles are typically multi-year and costly to re-tender -- a real but industry-generic switching-cost argument that benefits SKF, Timken India, Schaeffler India and NRB Bearings roughly equally as incumbents. No SKF-India-specific customer-retention, re-qualification-cost or contract-tenure evidence was found."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "SKF India trades at the cheapest trailing P/E among the four listed domestic bearing names found (~38-45x vs Timken India ~58-61x, Schaeffler India ~50-62x; NRB Bearings cheaper still at ~19-31x, Sept 2026 aggregator data) -- a valuation gap that is at least as consistent with a narrower post-demerger (auto-only) business mix or lower structural margins as with any genuine cost edge. No peer EBITDA-margin comparison was found to support a cost-advantage claim, so this source is rated RED (no evidenced edge) rather than assumed positive by default."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 8,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 6,
+    "management_stability": 6,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 6,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 52.58,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Automotive bearings supply tracks India's passenger-vehicle/two-wheeler/commercial-vehicle production cycle -- a mature, cyclical end-market, not an emergent or inflecting one. The company completed a scheme of arrangement effective 1-Oct-2025 that demerged its industrial-bearings/distribution/condition-monitoring business into a separately listed entity (SKF India (Industrial) Limited, 1:1 share allotment, NCLT-sanctioned 26-Sep-2025), leaving SKF India Limited (this dossier's subject) as a pure-play automotive bearings supplier (OEM + aftermarket distribution) for the first time. This sharpens rather than reduces cyclicality: the diversification the combined entity previously had into industrial/infrastructure capex is now gone from this listed entity. A genuine EV-driven bearing-redesign angle exists in principle (e-axle/e-motor bearing requirements differ from ICE drivetrains) and management commentary references 'electrification, premiumisation, hybrid technologies' -- but no revenue, order-book or margin figure was found attributing material financial impact to this yet, so the phase call stays MATURE rather than INFLECTION pending that evidence.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 40.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "No evidenced structural margin-expansion driver was identified -- auto-ancillary bearings margins here are modeled as roughly stable/cyclical rather than structurally improving, so per the framework's own rule any margin delta is set to zero and the bridge is run on revenue-driven growth only."
+  },
+  "variant_perception": {
+    "market_belief": "Priced as the cheapest of India's four listed precision-bearing names (trailing P/E roughly 38-45x vs Timken India ~58-61x and Schaeffler India ~50-62x, Sept 2026), reflecting a well-governed, virtually debt-free MNC-parented bearings supplier now trading as a smaller, auto-only pure-play after the Oct-2025 demerger of its industrial business.",
+    "whats_wrong_with_belief": "No credible mispricing case could be built from the evidence gathered. The relative-value gap to Timken/Schaeffler is at least as plausibly explained by real differences -- Timken's railway/industrial exposure and Schaeffler's broader industrial/EV-component diversification versus SKF India's newly auto-only, single-end-market book -- as by the market underpricing SKF India. The company also just went through a major structural discontinuity (the demerger split reported financials into two entities with one-off/exceptional costs in FY26), which itself explains a chunk of the historical-multiple confusion without requiring a 'market is wrong' story. A prior Q1 FY26 headline (PAT down ~26% YoY, Aug 2025) shows the stock is not being ignored by the market either.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DATA QUALITY -- read before trusting any number above. Live aggregator sites (Screener.in, MoneyControl, Tijori, Macrotrends) were blocked by the egress proxy from this environment; all figures come from WebSearch snippets of secondary/media coverage (Business Standard, Whalesbook, Univest, InvestyWise, ScanX, business/trade press, SKF's own press releases), i.e. Tier 4-5 by M6, with a couple of Tier 3-adjacent aggregator-summary points -- NOT Tier 1/2 audited-filing data. No figure here should clear a NAVY/binding gate. VERIFIED-ISH ANCHORS (cross-checked, internally consistent): current price Rs1,578.8 and market cap ~Rs7,659 Cr (18-Sep-2026, reclassified by SEBI as Small Cap post-demerger); promoter (Aktiebolaget SKF) holding 52.58%, no pledge (scanx.trade regulatory-declaration coverage; the specific share-count citation found, 2,59,92,059 shares, was reported for the demerged twin entity SKF India (Industrial) Ltd, but the demerger's 1:1 mirror-shareholding structure makes the same ~52.58% figure highly likely, not directly confirmed, for SKF India Ltd itself -- flagged as an inference, not a direct citation); 10-year G-sec yield 7.10% (15-Sep-2026, reused from same-date market data used elsewhere in this repo); Q1 FY2026-27 (Jun-2026 quarter) standalone revenue Rs587.8 Cr (+27.1% YoY) with PBT margin 14.3% (+61bps YoY, +527bps QoQ) -- internally consistent (BSE filing + businessupturn.com); peer trailing P/E: Timken India ~58-61x, Schaeffler India ~50-62x, NRB Bearings ~19-31x, SKF India itself quoted at ~37.8x in one source (univest.in bearings-sector roundup) -- wide source-to-source variance on exact levels but consistent ranking (SKF cheapest or near-cheapest of the four). STRUCTURAL EVENT (verified, high materiality): SKF India completed a scheme of arrangement effective 1-Oct-2025 (NCLT-sanctioned 26-Sep-2025) demerging its industrial-bearings/distribution/condition-monitoring/engineering-services business into a new, separately listed entity, SKF India (Industrial) Limited, via 1:1 share allotment (record date 15-Oct-2025). SKF India Limited (this dossier) retains the automotive OEM+aftermarket bearings business only. This is a genuine, recent, and important discontinuity that this dossier's multi-year financial series does NOT capture organically. RECONSTRUCTED (Tier 5, this session): the entire 2021-2026 FinancialSeries is a smoothed backcast built from a single FY26 standalone-revenue anchor (~Rs2,129.6 Cr, cited as SKF India Ltd's FY26 standalone revenue, +15.4% YoY, in one media summary) at an assumed 9% revenue CAGR and an assumed 14% EBITDA margin (auto-ancillary-industry-typical; NOT the same as the ~28-33% EBITDA margin figure found in an early, undated search result, which almost certainly described the pre-demerger COMBINED auto+industrial entity and would overstate the smaller, auto-only business modeled here). FY26 PAT itself could NOT be reliably pinned down -- three different search results returned three materially different and mutually inconsistent PAT figures for what may or may not be the same entity/period (~Rs117 Cr, ~Rs266 Cr, and a services-mismatch where a Rs217 Cr/Rs40-per-share-dividend figure clearly belonged to the demerged industrial twin, not this entity) -- this dossier uses a normalized ~Rs180 Cr PAT anchor (backed into a ~10% net margin consistent with the Q1 FY27 14.3% PBT margin, not any single cited PAT figure) and flags the underlying source conflict honestly rather than picking one arbitrarily. All balance-sheet detail (net fixed assets, CWIP, net working capital, cash, net worth) is modeled from typical asset-light auto-ancillary capital-intensity ratios, not sourced -- so the ROCE (~24% implied) and D/E (~0.02x, i.e. virtually debt-free) the engine computes from this series are illustrative of the ENGINE'S LOGIC on a plausible-shaped series, broadly consistent with (but not identical to) externally reported ROCE figures found in search (a wide 22.1%-29.9% range across sources) and a reported 'virtually debt-free' balance sheet -- not a verified point-in-time figure. Sector median P/E (44.3, a rough median of the four peer P/Es found), sector median P/B (7.0), and ADTV (Rs8 Cr/day) are unverified Tier-5 estimates. JUDGEMENT CALLS: (1) all three moat sources capped at AMBER or RED -- global-parent technology transfer and precision-engineering reputation are real candidates but only management/media-tier evidenced here, the OEM-qualification switching-cost argument is industry-generic (shared by Timken/Schaeffler/NRB), and no peer-relative cost or margin advantage was found, so cost_advantage is rated RED rather than assumed; (2) industry phase set to MATURE, not INFLECTION -- the EV-bearing-redesign angle is real in principle but financially unevidenced, and the demerger has, if anything, made this entity MORE auto-cycle-concentrated (it lost its industrial-capex diversification), which cuts against a structural-tailwind narrative; (3) variant_perception.answered is deliberately FALSE -- SKF India's below-peer P/E is a real, verifiable data point, but the evidence gathered supports at least as plausible a 'fair discount for a narrower, newly-standalone, single-end-market business' explanation as a 'market is wrong' thesis, and inventing a mispricing case on top of an already-uncertain, demerger-disrupted financial history would misrepresent the research; (4) m5_protocol_complete is FALSE and candidate_source is 'systematic_screen' (random draw from the Nifty Smallcap 250 sample per the task, not a pre-existing idea) -- this is a single-session, search-tool-only pass with live aggregator sites blocked, not a completed adversarial M5 protocol, and it should be treated as a demonstration of the ENGINE'S LOGIC on best-effort data, not as investment research on SKF India."
+}
