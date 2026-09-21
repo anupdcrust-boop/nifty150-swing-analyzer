@@ -1,0 +1,131 @@
+{
+  "symbol": "SBIN.NS",
+  "name": "State Bank of India",
+  "sector": "Financials",
+  "industry": "Public-sector bank -- universal retail, corporate, SME, agri and treasury banking; India's largest bank by assets",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025],
+    "revenue": [307107.0, 316021.0, 374111.0, 442858.0, 524172.41],
+    "ebitda": [132056.01, 135889.03, 160867.73, 190428.94, 225394.14],
+    "depreciation": [4920.0, 5118.0, 5325.0, 5538.0, 5760.0],
+    "interest_expense": [175050.99, 180131.97, 213243.27, 252429.06, 298778.27],
+    "pat": [20410.0, 31676.0, 50232.0, 61077.0, 70901.0],
+    "ocf": [22451.0, 34843.6, 55255.2, 67184.7, 77991.1],
+    "capex": [7872.0, 8188.8, 8520.0, 8860.8, 9216.0],
+    "net_fixed_assets": [41000.0, 42650.0, 44375.0, 46150.0, 48000.0],
+    "cwip": [2050.0, 2100.0, 2200.0, 2300.0, 2400.0],
+    "net_working_capital": [2050.0, 2100.0, 2200.0, 2300.0, 2400.0],
+    "total_debt": [358013.34, 395688.34, 455464.14, 528145.14, 612517.54],
+    "cash_equiv": [89498.34, 98922.09, 113866.04, 132036.29, 153129.39],
+    "net_worth": [255709.53, 282634.53, 325331.53, 377246.53, 437512.53],
+    "dividend_paid": [3061.5, 4751.4, 7534.8, 9161.55, 10635.15],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 995.70,
+    "market_cap_cr": 919092.59,
+    "adtv_cr": 1200.0,
+    "shares_outstanding": 923.06,
+    "diluted_shares_outstanding": 923.06,
+    "sector_median_pe": 8.3,
+    "sector_median_pb": 1.2,
+    "ten_year_gsec_yield": 0.0702,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": 634.2
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "SBI's enormous, low-cost CASA/retail-deposit base (CASA ratio reported ~39-40% of domestic deposits) gives it a genuine cost-of-funds edge that supports loan pricing, but on the asset side it faces intense competition from private banks and carries priority-sector-lending obligations that cap loan-pricing freedom. Reported net interest margin (domestic ~3.0-3.3%) is respectable for a bank of this scale but not clearly superior to best-in-class private peers (HDFC/Kotak have historically run comparable or wider NIMs). No Tier 1-3 margin-trend series was pulled this session to confirm sustained GM/NIM expansion through a full cycle -- rated AMBER on general industry-structure and press-reported NIM/CASA knowledge, not a line-by-line filing comparison."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "SBI holds an outsized, multi-decade share of government-linked banking relationships -- pension disbursal, defence salary accounts, PSU salary mandates, and roughly a quarter of all Jan Dhan (financial-inclusion) accounts nationally -- plus the deepest semi-urban/rural branch footprint of any Indian bank, where realistic switching alternatives are genuinely scarce. This is real, structural retail stickiness, not a soft brand claim. Rated HOLDING rather than BUILDING because UPI, e-KYC account-opening and portability have structurally lowered switching costs across Indian retail banking generally (same industry-wide headwind noted for smaller banks), and SBI's own system deposit/advances market share has been roughly flat-to-slowly-eroding versus faster-growing private banks over the past decade, i.e. this advantage is being defended, not visibly widened."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Traditional deposit-taking and lending does not get structurally more valuable to one customer as more customers join. SBI's YONO app and merchant-payment footprint ride NPCI/UPI rails that are shared industry-wide infrastructure, not an SBI-specific network effect -- structurally absent for this business model, same conclusion as for any single-bank name in this framework."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "SBI's cost-to-income ratio is meaningfully better than most other PSU-bank peers and is supported by its CASA-driven low-cost funding and the largest branch/ATM/digital distribution base in the country amortised over India's largest balance sheet -- but it still runs behind best-in-class private banks (HDFC/Kotak historically ~38-45% cost-to-income) and the advantage reads as scale-driven (a huge, mostly legacy distribution network spread over more assets) rather than a documented, innovation-driven structural cost edge. Per the framework's own rating logic (\"scale-only capped AMBER\"), this is explicitly capped at AMBER rather than GREEN."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No patent, unique licence, or documented loan/deposit pricing premium beyond the (industry-wide) universal banking licence itself. SBI does carry a real, distinct \"sovereign-backed, systemically important\" trust premium versus other PSU and most private banks -- historically visible as flight-to-safety deposit inflows during sector-stress episodes (e.g. the 2018-19 NBFC/shadow-banking stress) -- which is a genuine funding-cost-relevant intangible, but this session found no Tier 1-3 evidence quantifying it as a monetised price premium in the sense Section 5 requires, so it is capped at AMBER rather than GREEN."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "SBI is India's largest bank by a wide margin -- roughly 2-3x the balance sheet of the next-largest single competitor, with a system deposit/advances share reported in the low-20s percent -- and India's scarce universal banking licences plus SBI's uniquely large fixed distribution base create a real entry barrier that a new entrant's ROCE could not economically match at SBI's scale. Rated GREEN on genuine incumbency scale rather than duopoly dynamics (Indian banking is oligopolistic across several large private and PSU players, not a duopoly). Rated HOLDING, not BUILDING: SBI's own system market share has been roughly flat to slightly declining over the past decade as private banks and, increasingly, well-capitalised NBFCs/fintechs have grown loan books faster from a smaller base -- the scale advantage is being defended, not visibly widened."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 7,
+    "ownership_transparency": 9,
+    "capital_allocation_discipline": 6,
+    "management_stability": 5,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 57.43,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Indian banking is a large, mature, competitively saturated industry -- system credit growth running roughly 12-15%/yr, not an emergent or inflecting market structurally. SBI is the dominant incumbent by absolute scale (~22-23% of system deposits/advances, per general market-share reporting), but its own system market share has been roughly flat to slowly eroding over the past decade as faster-growing private-sector banks (HDFC, ICICI, Axis, Kotak) and newer NBFC/fintech entrants have taken share in retail and SME segments from a smaller base. This is not a documented 3-consecutive-year revenue-CAGR-above-sector share-gainer case -- classified MATURE + share-flat, which caps the name at Steady Compounder under Section 6A rather than Multibagger Candidate, honestly consistent with SBI's real-world profile as a mega-cap, systemically important bank rather than a share-gaining challenger.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": false
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 12.0,
+    "own_10y_75th_pctile_pe": 13.0,
+    "sector_10y_75th_pctile_pe": 14.0,
+    "annual_dilution_rate": 0.02,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": ""
+  },
+  "variant_perception": {
+    "market_belief": "The market prices SBI as India's dominant, systemically important bank delivering a solid but unspectacular PSU-scale ROE (~19-20%, per FY25 disclosures) and loan growth broadly tracking system credit growth (low-to-mid teens) -- trading around ~11-12x trailing consolidated earnings and ~1.5-1.6x book, which is a real premium to most other PSU-bank peers (PSU Bank index P/E was found in the roughly 7.7-9.4x range across sources this session) reflecting SBI's scale, asset-quality improvement and CASA franchise, but not pricing in any special re-rating catalyst or above-trend growth story.",
+    "whats_wrong_with_belief": "I could not construct a credible, evidenced case that this is a genuine, exploitable mispricing rather than a reasonably efficient price. SBI is one of the most heavily covered, most widely owned stocks in India -- deep sell-side coverage, near-universal institutional/index ownership, constant financial-press attention on every quarterly print -- which is close to the opposite of the coverage-neglect or structural-non-participation conditions this framework's M3 edges require. Its asset-quality recovery (net NPA ~0.47%, GNPA ~1.8-1.9%) is several years old news, not a fresh discovery, and it already trades at a premium to PSU-bank peers that suggests this improvement, and SBI's scale/franchise quality generally, is already substantially reflected in the multiple. The PSU-specific governance frictions (short, government-set Chairman/MD tenures with frequent leadership rotation, priority-sector-lending and government-linked-obligation drag on capital allocation) are long-standing, well-known structural features, not a hidden or under-appreciated risk the market is mispricing in either direction. A modest continued re-rating toward SBI's own historical multiple range is a plausible ordinary-analyst view, but that is not the same as a rigorous, evidenced N7 variant-perception case with a nameable persistence mechanism and a dated, distinct catalyst.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence -- see whats_wrong_with_belief. No dated, observable catalyst distinct from what appears to already be reflected in SBI's current premium-to-PSU-peer multiple was identified from the (partial, search-only) evidence gathered here.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "other",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": false,
+  "notes": "BFSI name -- is_regulated_utility_or_bfsi=True per the G1/Section 5e/6B BFSI carve-outs in FRAMEWORK_v2.2_FULL.md; industry_context.addressable_profit_pool_cr is left null since a lender has no product-market TAM concept, per the v2.2 6B implementation note. 'EBITDA' in the financials series is a rough NII + non-interest/fee-income proxy (revenue minus interest_expense), not comparable to a non-financial company's EBITDA -- same convention used for the BAJFINANCE.json and SOUTHBANK.json reference dossiers in this repo. DATA QUALITY -- WELL-SOURCED (Tier 3, cross-corroborated via multiple independent press/aggregator search results, standalone basis unless noted): standalone PAT FY21 Rs20,410 Cr, FY22 Rs31,676 Cr, FY23 Rs50,232 Cr, FY24 Rs61,076.62/61,077 Cr, FY25 Rs70,900.63 Cr (each reported as a 'highest ever' annual result); FY22 total income Rs3,16,021 Cr and FY25 total income Rs5,24,172.41 Cr (standalone, directly cited); FY24 shareholders' funds ~Rs3,77,246.53 Cr (CARE Ratings, Nov-2024); Capital Adequacy Ratio ~14.25-14.28% as of Mar-2024/Mar-2025; CET1 ~9.52% and overall CAR ~13.03% as of Dec-2024 (a different, slightly lower in-year print); CASA ratio ~39.36% as of Jun-2025 (~39.97% Mar-2025, ~40.70% Jun-2024); Net NPA ~0.47% (Q1FY26, down from 0.57% YoY), Gross NPA ~1.83-1.89%; ROE ~19.7% (Q1FY26) / ~19.87% FY25 (vs 20.32% FY24); Government of India shareholding ~57.43% (one source cited 57.6% as 'lowest among PSBs'); current price Rs995.70, market cap ~Rs9,19,092.59 Cr, P/E ~11.62x, P/B ~1.57x (all dated 11-Sep-2026); 10-year G-Sec yield ~7.02% (11-Sep-2026); PSU Bank index P/E cited in a 7.66-9.43x range across sources (used midpoint ~8.3x as sector_median_pe). DATA QUALITY -- RECONSTRUCTED/APPROXIMATE (Tier 5, flagged, NOT independently pulled from a primary filing this session): revenue for FY21 (Rs3,07,107 Cr, a separately-cited figure close to but not identical to the FY22-growth-implied FY21 base) and FY23/FY24 (geometrically interpolated between the FY22 and FY25 anchors) are Tier 5; the entire interest_expense/ebitda-proxy split (interest_expense modelled as a flat ~57% of revenue, a bank-typical assumption, not sourced per year), and the entire non-interest-income balance-sheet series (depreciation, net fixed assets, CWIP, 'net working capital', total_debt, cash_equiv, capex, OCF) are Tier 5 reconstructions built by ratio assumptions against net worth/revenue/PAT and walked to be internally consistent, exactly as for SOUTHBANK.json -- treat none of these as filing-verified. net_worth for FY21-23 and FY25 is a roll-forward from the FY24 CARE-Ratings anchor using PAT less an assumed flat 15% payout ratio (payout ratio itself is Tier-3-corroborated: multiple sources put SBI's historical dividend payout ratio in a 15-17% range) -- this is a modelling construct, not a filed net-worth series. shares_outstanding (~923.06 Cr) is back-calculated from market_cap / price, not a directly filed share count. IMPORTANT UNRESOLVED INCONSISTENCY (flagged rather than silently reconciled): the FY24 CARE-Ratings net-worth anchor (~Rs3,77,247 Cr), rolled forward to FY25 (~Rs4,37,513 Cr, giving book value per share ~Rs474 on the derived share count), does NOT tie out with the directly-quoted current P/B of 1.57x on the current price (which implies a book value per share of ~Rs634, i.e. net worth of ~Rs5.85 lakh Cr) -- a roughly 30-35% gap. This may reflect standalone-vs-consolidated basis differences (aggregator P/E and P/B figures likely reflect consolidated group earnings/equity including SBI Life, SBI Cards, SBI Mutual Fund and other subsidiaries, whereas the CARE-anchored net worth and this dossier's PAT series are standalone), a large FY25/FY26 equity capital raise not fully reflected in the roll-forward (SBI's board did approve a large FY26 equity-raise proposal), or simply cross-source noise given aggregator sites were largely unreachable from this environment. market.book_value_per_share (Rs634.2) uses the directly-quoted P/B-implied figure; financials.net_worth uses the CARE-anchored roll-forward -- the two are NOT internally consistent and this dossier does not attempt to force them to agree. IMPORTANT STRUCTURAL CAVEAT (not a data-quality issue, same point SOUTHBANK's notes make): Section 5e's ROIIC/reinvestment-rate formula (net fixed assets + CWIP + net working capital as 'invested capital') does not describe a bank's real economics -- SBI's actual growth capital is its loan book funded by deposits/borrowings, not its small fixed-asset base -- so this dossier's computed ROIIC/engine-growth 'g' is a near-meaningless artifact of a tiny denominator and should not be read as a genuine measure of SBI's compounding capacity. Likewise financials.total_debt here represents an assumed borrowings figure only (modelled at 1.4x net worth) and excludes SBI's actual dominant funding source, customer deposits (many multiples of net worth) -- so any D/E or interest-coverage figure this framework's generic (non-BFSI) code computes from this field is not a meaningful leverage statement for a bank; per the G1 v2.2 amendment this gate is informational/TEAL for BFSI names, not a pass/fail test, and no sector-appropriate replacement leverage test (CAR trend, NPA trend, cost-of-funds trend) is yet coded in this suite -- reported qualitatively above instead. Moat sources were rated deliberately without inflation for a mega-cap PSU bank: 2 GREEN (switching_costs, efficient_scale -- both genuine, scale/franchise-driven, but rated HOLDING not BUILDING since SBI's system market share has been flat-to-slowly-eroding, not gaining), 3 AMBER (pricing_power, cost_advantage, intangible_assets -- real but scale-driven or unquantified, explicitly capped per the framework's own 'scale-only capped AMBER' rule), 1 RED (network_effects -- structurally absent for traditional banking). No source is rated BUILDING, which is the honest conclusion for a company this size and this mature -- it fails the Section 5b-T / Part 7 moat-trajectory gate for Multibagger Candidate tier and caps the name at Steady Compounder on that basis alone, independent of the industry-phase (MATURE, share-flat) gate, which caps it there too. variant_perception.answered is honestly set to False: SBI is arguably the single hardest name in the entire Nifty 50 to construct a genuine N7 variant-perception case for -- it is the most closely covered, most widely owned, most extensively analysed stock in the Indian market, the opposite of the coverage-neglect/structural-non-participation conditions M3 requires, and its asset-quality recovery and scale advantages are old, widely-priced-in news, not a fresh discovery. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction (FMP data-vendor access to Indian/NSE fundamentals was unavailable on the current plan tier; Screener/Moneycontrol/Tijori/Equitymaster were unreachable from this environment), not a completed adversarial (M5) review with a logged hostile source and cooling period."
+}

@@ -1,0 +1,229 @@
+{
+  "symbol": "ALKEM.NS",
+  "name": "Alkem Laboratories Limited",
+  "sector": "Pharmaceuticals",
+  "industry": "Domestic branded generics / acute therapies (anti-infectives) with a US generics and biosimilars business",
+  "financials": {
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      9098.2,
+      10796.8,
+      11815.3,
+      12668.0,
+      12964.5,
+      14712.3
+    ],
+    "ebitda": [
+      1683.1670000000001,
+      1673.504,
+      1358.7595,
+      2242.236,
+      2512.2,
+      3005.2
+    ],
+    "depreciation": [
+      254.74960000000002,
+      302.31039999999996,
+      330.8284,
+      354.704,
+      363.00600000000003,
+      411.9444
+    ],
+    "interest_expense": [
+      63.4326504,
+      75.2752896,
+      82.37627159999998,
+      88.32129599999999,
+      90.388494,
+      102.5741556
+    ],
+    "pat": [
+      1585.0,
+      1680.0,
+      984.2,
+      1795.8,
+      2165.5,
+      2301.8
+    ],
+    "ocf": [
+      1312.8702600000001,
+      1305.33312,
+      1059.83241,
+      1748.94408,
+      1959.5159999999998,
+      2344.056
+    ],
+    "capex": [
+      545.892,
+      647.8079999999999,
+      708.9179999999999,
+      760.0799999999999,
+      777.87,
+      882.7379999999999
+    ],
+    "net_fixed_assets": [
+      2547.4960000000005,
+      3023.1040000000003,
+      3308.284,
+      3547.0400000000004,
+      3630.0600000000004,
+      4119.444
+    ],
+    "cwip": [
+      454.9100000000001,
+      539.84,
+      590.765,
+      633.4000000000001,
+      648.225,
+      735.615
+    ],
+    "net_working_capital": [
+      2729.46,
+      3239.0399999999995,
+      3544.5899999999997,
+      3800.3999999999996,
+      3889.35,
+      4413.69
+    ],
+    "total_debt": [
+      906.18072,
+      1075.3612799999999,
+      1176.8038799999997,
+      1261.7327999999998,
+      1291.2641999999998,
+      1465.3450799999998
+    ],
+    "cash_equiv": [
+      727.8560000000001,
+      863.7439999999999,
+      945.2239999999999,
+      1013.44,
+      1037.16,
+      1176.984
+    ],
+    "net_worth": [
+      7551.506,
+      8961.344,
+      9806.698999999999,
+      10514.439999999999,
+      10760.535,
+      12211.208999999999
+    ],
+    "dividend_paid": [
+      396.25,
+      420.0,
+      246.05,
+      484.86600000000004,
+      606.34,
+      615.4972165915916
+    ],
+    "tax_rate": [
+      0.26,
+      0.26,
+      0.26,
+      0.26,
+      0.26,
+      0.26
+    ]
+  },
+  "market": {
+    "price": 5328.0,
+    "market_cap_cr": 61874.89,
+    "adtv_cr": 100.0,
+    "shares_outstanding": 11.61315503003003,
+    "diluted_shares_outstanding": 11.61315503003003,
+    "sector_median_pe": 38.0,
+    "sector_median_pb": 5.5,
+    "ten_year_gsec_yield": 0.0705,
+    "gsec_date": "2026-09-17",
+    "forward_eps": null,
+    "book_value_per_share": 1051.4979752206427
+  },
+  "moat_sources": [
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "#1 in anti-infectives by IQVIA SSA data with 9 anti-infective brands among the IPM's top 300 (CLAVAM, TAXIM-O, TAXIM, PIPZO, MEROSURE, ZAXTER, SWICH, XONE/XONE-XP); ~4.1% overall IPM share, 5th-largest domestic formulator (9M FY25 IQVIA data, company-cited)."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Field force grew from >8,000 MRs / 7,000+ stockists (FY18 annual report) to >12,000 MRs / 8,000+ stockists / 70+ depots-CFAs (CARE Ratings press release, Jan 2025) -- one of India's largest branded-generics distribution footprints, a real multi-year build, not just a snapshot."
+    },
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Domestic pricing power is structurally capped, not strong: much of the acute-therapy/anti-infective portfolio sits under NLEM/DPCO price ceilings (DPCO ceiling-price revisions covering 900+ scheduled formulations as of Apr 2025, WPI-linked increases of only 1-4%/yr historically); FY22-23 saw a real, reported margin/PAT collapse (net margin 15.8%->8.7%) when API/raw-material costs rose and could not be fully passed through. US generics (Ascend) sit in an industry-wide generic-pricing-deflation environment. This is evidence AGAINST a pricing-power moat, not for one."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Scale manufacturing across a large multi-plant network gives some cost advantage, and EBITDA margin has recovered from an estimated FY23 trough to a verified 17.7% (FY24) -> 19.4% (FY25) -> 20.4% (FY26), but the FY22-23 margin collapse shows the advantage is not consistently wide or defensive versus input-cost shocks; rated HOLDING (recovering to a prior level) rather than BUILDING (a new structural low)."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 7,
+    "ownership_transparency": 6,
+    "capital_allocation_discipline": 7,
+    "management_stability": 7,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 6,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 53.04,
+    "promoter_holding_3y_direction": "FALLING",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Alkem's core business (domestic acute-therapy/anti-infective branded generics, ~65-70% of consolidated revenue) sits in a large, well-penetrated, structurally mature segment of the Indian pharma market, which itself is forecast to grow a moderate 7.8-8.1% in 2026 (market research estimate, Tier 3). The company is expanding into chronic therapies (cardiology, diabetology, neuro/CNS) and biosimilars/CDMO (Enzene Biosciences, >Rs1,000 Cr invested) but these remain a minority of disclosed revenue -- an emergent adjacency, not yet a demonstrated segment pivot for the consolidated business.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 3.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 30.0,
+    "own_10y_75th_pctile_pe": 34.0,
+    "sector_10y_75th_pctile_pe": 38.0,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.015,
+    "margin_delta_mechanism_note": "EBITDA margin has verifiably expanded FY24->FY26 (17.7%->19.4%->20.4%, company results via press). A modest continuation is assumed, but DPCO/NLEM price ceilings on essential-medicine SKUs and industry-wide US-generics pricing deflation are real structural ceilings on further expansion, so the assumed delta is kept small rather than extrapolating the recent recovery trend forward."
+  },
+  "variant_perception": {
+    "market_belief": "Priced as a steady, moderate-growth domestic branded-generics incumbent: trailing P/E ~27x is a meaningful discount to the Nifty Pharma index (~38-40x, itself above its own 10yr median), which the market appears to be applying because of DPCO/NLEM pricing-cap exposure, US-generics pricing pressure, and a business mix still concentrated in slower-growing acute/anti-infective therapies.",
+    "whats_wrong_with_belief": "No confident case built either way. There IS real evidence a discount could be under-earned: 3 straight years of verified EBITDA-margin expansion (17.7%->20.4%) and IQVIA-cited share gains ahead of IPM in several core therapies in recent quarters. But there is also real evidence the discount may be fair or even insufficient: promoter holding has genuinely fallen (~56.4%->53.0% over the past year via disclosed block deals, including one promoter-group member's full exit), the Daman plant received a 7-observation USFDA Form 483 in May 2026 that is still unresolved, Q4 FY26 PAT fell 27.7% YoY on one-off charges (real-estate impairment + labour-code provision), and Q1 FY27 PAT fell 21.7% YoY on a tax-regime-switch effect -- three consecutive quarters of profit noise that make it hard to confidently separate 'temporarily depressed, mispriced' from 'the market has correctly priced a moderate-growth, margin-capped compounder.'",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "DATA PROVENANCE: revenue and PAT for all 6 years (FY21-FY26) and EBITDA margin for FY24-FY26 are VERIFIED via web search of Alkem's own quarterly/annual results as reported by financial press (Business Standard, HDFC Sky, Indian Pharma Post, AlphaStreet, etc.) -- Tier 3 (aggregator/media reproducing company press releases), NOT Tier 1/2, because the primary sources (screener.in, careratings.com, admin.alkemlabs.com, moneycontrol) were all blocked by the egress proxy in this environment and could not be fetched directly. EBITDA margin for FY21-23 and the ENTIRE balance-sheet/cash-flow series (depreciation, debt, cash, net worth, working capital, capex, OCF, dividends for most years) are Tier 5 RECONSTRUCTED using typical Indian branded-generics capital-intensity ratios, calibrated so FY26 output matches three independently-verified ratios (ROCE ~21.2%, ROE ~18.9%, D/E ~0.09-0.17). KNOWN DISTORTION: the mechanical 3-year ROIIC/engine-growth calculation (Section 5e) uses FY23 as its base year, and FY23 was a genuine, reported margin/PAT trough (net margin fell 15.8%->8.7% on API/raw-material cost inflation post-COVID demand normalisation) -- so the recovery to FY26 will show an inflated ROIIC/engine-growth figure that overstates durable incremental capital productivity, not a genuine structural improvement. Read the engine-growth row in the Final Call Block with that in mind: the underlying business is better characterised as a ~7-9% revenue-CAGR mature compounder with margins now stabilising near 20%, not a ~30%+ engine. Market-cap band note: at ~Rs61,875 Cr the company is now well above this framework's N8 funnel screen band (Rs300-15,000 Cr) despite still trading as a Nifty Midcap 100 constituent -- index membership has lagged the company's actual market-cap growth."
+}
