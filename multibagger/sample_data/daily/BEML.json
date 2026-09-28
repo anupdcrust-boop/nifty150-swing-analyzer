@@ -1,0 +1,131 @@
+{
+  "symbol": "BEML.NS",
+  "name": "BEML Limited",
+  "sector": "Capital Goods / Defence & Heavy Engineering",
+  "industry": "Government-owned (Ministry of Defence; Schedule 'A' Central Public Sector Enterprise) diversified heavy-engineering manufacturer across three distinct segments -- Mining & Construction equipment (competes in a genuinely open, competitive equipment market against private/import players such as Tata Hitachi, Komatsu and Caterpillar), Rail & Metro (coach and rolling-stock manufacturing for Indian Railways/metro corporations, competing with private players including Titagarh Rail Systems, Texmaco and L&T for some tenders), and Defence & Aerospace (approved-vendor supplier of specialised vehicles/equipment to the Indian Army and allied defence establishment, closer to a single-customer government-tender business). This three-segment mix, two of whose legs face real private-sector/import competition rather than government-allocated pricing alone, is a materially more market-exposed, execution-risk-heavy revenue model than a pure single-customer DPSU shipbuilder like GRSE.",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [4337.49, 3922.5, 4096.56, 4045.95, 4351.0],
+    "ebitda": [251.5, 295.5, 472.7, 534.1, 328.1],
+    "depreciation": [70.0, 75.0, 85.0, 129.1, 119.6],
+    "interest_expense": [10.0, 10.0, 12.0, 15.0, 20.0],
+    "pat": [128.59, 157.9, 281.77, 292.52, 141.36],
+    "ocf": [176.1, 206.9, 330.9, 373.9, 229.7],
+    "capex": [60.0, 70.0, 90.0, 200.0, 379.0],
+    "net_fixed_assets": [600.0, 650.0, 700.0, 850.0, 1050.0],
+    "cwip": [20.0, 25.0, 37.0, 130.0, 276.0],
+    "net_working_capital": [1000.0, 950.0, 1000.0, 1050.0, 1150.0],
+    "total_debt": [50.0, 50.0, 71.0, 150.0, 309.0],
+    "cash_equiv": [150.0, 140.0, 120.0, 100.0, 73.5],
+    "net_worth": [2185.1, 2295.6, 2492.9, 2700.0, 2795.0],
+    "dividend_paid": [38.6, 47.4, 84.5, 87.8, 42.4],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 2013.30,
+    "market_cap_cr": 16768.60,
+    "adtv_cr": 40.0,
+    "shares_outstanding": 8.3289,
+    "diluted_shares_outstanding": 8.3289,
+    "sector_median_pe": 32.0,
+    "sector_median_pb": 5.5,
+    "ten_year_gsec_yield": 0.0702,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": 335.5
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Mixed by segment, and the mix is the point: Defence and much of Rail & Metro are won through government tendering/negotiated contracts (limited but real pricing latitude on specialised, low-competition platforms, similar in kind to GRSE). Mining & Construction, historically BEML's largest segment, is sold into a genuinely open market against Tata Hitachi, Komatsu and Caterpillar, where BEML is a price-taker with no independently evidenced premium. No quantified price-realisation data was found this session (T4/T5 narrative level only); rated AMBER rather than GREEN or RED because the company is a blend of both dynamics, not because either half is strongly evidenced."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Once BEML is the qualified/approved supplier for a defence-vehicle or metro-coach programme, follow-on orders, spares and life-cycle support tend to stay with it -- the same lock-in logic documented for GRSE's warship classes. But this applies mainly to the Defence and Rail & Metro legs; the Mining & Construction segment sells largely to state miners (e.g. Coal India-linked buyers) and construction contractors who can and do re-tender to private/import alternatives, and that segment's revenue share fell from ~54% to ~41% of FY26 revenue -- consistent with real, not just optical, competitive churn. Rated AMBER (not GREEN) to reflect that roughly 40% of the current revenue base does not enjoy strong lock-in; capped at T4 since no win/renewal-rate data was independently sourced."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Structurally absent for a heavy-equipment/vehicle manufacturer in any of its three segments -- no aspect of BEML's mining equipment, rail coaches or defence vehicles becomes more valuable to one customer as more customers are added."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Decades of domestic manufacturing know-how, an established government-approved-vendor/security-cleared ecosystem for defence work, and existing plant infrastructure give BEML a real incumbency edge over a hypothetical fresh entrant in Rail & Metro and Defence. In Mining & Construction, however, global players (Caterpillar, Komatsu) and domestic JV players (Tata Hitachi) plausibly have superior process technology and scale economics -- consistent with that segment's shrinking revenue share this year -- and no independently benchmarked unit-cost comparison was found. Capped at AMBER: a real but segment-uneven advantage, not a documented company-wide cost edge over all relevant peers, and the task brief's own caution about competitive intensity from private mining-equipment importers is taken at face value here rather than argued away."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Security clearances and approved-vendor status for defence supply, plus specialised design/engineering know-how in metro-coach and large earthmoving-equipment manufacturing, are genuine, hard-to-replicate barriers -- and BEML is actively extending them (new ADITYA/BRAHMA product lines, a new ~Rs1,500 Cr Bhopal plant, and stated moves into new equipment categories such as Tunnel Boring Machines and port equipment), which supports a BUILDING trajectory. Rated AMBER rather than GREEN because, unlike GRSE's near-exclusive warship-design IP, BEML's mining-equipment technology base appears to still lag global private/import competitors on the indigenisation curve (the sector's own 'indigenisation push' framing implies the gap is not yet closed) -- evidence here is company/media narrative (T4/T5), not an independently quantified IP or win-rate analysis."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "BEML is genuinely expanding capacity and order-book depth -- capex hit an all-time high of Rs379 Cr in FY26, CWIP grew from Rs37 Cr (FY24) to Rs276 Cr (FY26) funding new plants, and the order book rose to a record Rs15,896 Cr with FY27 inflow guidance above Rs31,000 Cr. But BEML is not a dominant scale leader across any of its three segments the way a duopoly leader would be: Rail & Metro faces Titagarh Rail Systems and other private manufacturers gaining share, Mining & Construction faces larger global-scale private/import competitors, and only Defence approaches a protected-scale position. Rated AMBER/BUILDING: real capacity build-out, not yet demonstrated dominance."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 6,
+    "ownership_transparency": 7,
+    "capital_allocation_discipline": 6,
+    "management_stability": 6,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 5,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 54.0,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "BEML's three segments sit at different points of a genuine but partial structural shift. (1) Rail & Metro: India's metro-rail network is expanding across multiple cities and Indian Railways is pushing domestic rolling-stock manufacture (Vande Bharat sleeper programme) under Make in India; BEML itself won a large order tied to a ~Rs5,400 Cr high-speed-rail-linked award and a Rs180.6 Cr Vande Bharat sleeper order in 2026, and its own order-book composition was already 65% Rail & Metro as of Q1 FY27, with FY27 order-inflow guidance targeting 65-70% from this segment -- a real, company-specific mix shift, not just a sector-level talking point. (2) Defence & Aerospace revenue share rose from 27% to 35% of FY26 revenue as India's defence-indigenisation push continues, though BEML is a secondary vehicle/component supplier here rather than a prime contractor. (3) Mining & Construction, historically BEML's largest segment, fell from ~54% to ~41% of FY26 revenue -- the mining-equipment indigenisation push is real (new Bhopal plant, new ADITYA/BRAHMA lines, entry into Tunnel Boring Machines and port equipment) but this segment faces genuine, unresolved competition from private/import players (Tata Hitachi, Komatsu, Caterpillar), and the evidence gathered this session cannot cleanly separate 'strategic mix shift toward higher-margin segments' from 'competitive share loss in mining' -- both are plausible readings. Critically, INFLECTION describes the order-book and segment-mix trajectory, not yet the earnings trajectory: FY26 standalone PAT nearly halved (Rs292.5 Cr to ~Rs141-148 Cr) despite record FY26 revenue of Rs4,351 Cr, as EBITDA margin compressed from an estimated ~13.2% (FY25) to ~7.54% (FY26) -- the order-book growth has not yet reliably converted into earnings growth, which is an honest execution/margin-conversion risk rather than a confirmed re-rating story.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 1.8,
+    "horizon_years": 5,
+    "assumed_exit_pe": 45.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "FY26 evidence points to margin COMPRESSION (EBITDA margin ~13.2% in FY25 to ~7.54% in FY26), not expansion. Management/press commentary cites a target of a 'sustainable 16% EBITDA margin', but this is a stated aspiration, not a demonstrated multi-year trend -- Q3 FY26 reportedly swung the company to a loss and Q4 FY26 operating margin fell to 15.13% from 25.57% a year earlier, underscoring real quarter-to-quarter volatility. Per Section 6A, an unevidenced margin delta defaults to zero, so this bridge is run on revenue growth alone and will understate returns if the stated margin target is actually achieved -- but assuming that recovery without evidence would not be honest."
+  },
+  "variant_perception": {
+    "market_belief": "The market appears to be pricing BEML for a multi-year order-book-to-earnings re-rating: despite FY26 standalone PAT nearly halving (to roughly Rs141-148 Cr, from ~Rs292.5 Cr in FY25) on record FY26 revenue of Rs4,351 Cr, the stock trades at a rich trailing P/E of roughly 90-118x depending on source/EPS basis (aggregator sources cluster around 90-98x on a ~Rs21.40 EPS; this dossier's own standalone-PAT-based reconstruction implies an even richer multiple near 118x), near 52-week highs (up roughly 21% over the trailing six months per one source), against a record Rs15,896 Cr order book and FY27 order-inflow guidance above Rs31,000 Cr skewed toward higher-margin Rail & Metro work. In short, the market is already underwriting an aggressive near-term margin recovery and order-to-revenue conversion, not treating BEML as a cheap, overlooked industrial.",
+    "whats_wrong_with_belief": "I could not construct a credible, evidenced mispricing case, and per the task's instruction I am not going to manufacture one. If anything, the evidence gathered this session cuts the other way: FY26 profit genuinely nearly halved despite record revenue (Q3 FY26 reportedly swung the company to a loss, and Q4 FY26 operating margin fell to 15.13% from 25.57% a year earlier), and management's own stated 16% sustainable-EBITDA-margin target remains an aspiration rather than a demonstrated run-rate. A 90-118x trailing P/E is a very demanding multiple for a working-capital-intensive, execution-risk-heavy industrial PSU with this degree of margin volatility -- more consistent with the market already pricing an optimistic outcome than with a hidden-value case. Separately, the often-cited 'privatisation upside' thesis for BEML (a 26% strategic-sale-with-management-control process) looks stale rather than live: the in-principle Cabinet approval, the PIM/EOI issuance, and the SBI Capital Markets transaction-advisor appointment all trace to the 2019-2021 period, and no search this session turned up a confirmed resumption, bidder shortlist, or completion of that process in 2024-2026 -- treating this old, unresolved process as a live, dateable catalyst today would not be an honest reading of the evidence.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence -- see whats_wrong_with_belief. Two candidate events exist (FY27 margins recovering toward management's stated 16% target; a concrete resumption of the stalled strategic-disinvestment process) but neither is dated or evidenced strongly enough this session to serve as a genuine market-has-it-wrong gap-closing event -- the first is an open execution question the market is plainly already watching (the stock sits near 52-week highs), and the second looks dormant rather than imminent.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DATA QUALITY (read before trusting any number here). Live aggregator sites (Screener, Moneycontrol, Tijori, stockanalysis.com) were unreachable from this environment (egress-blocked -- confirmed by a direct WebFetch attempt on screener.in this session); all figures came from WebSearch snippets of company/press releases (aninews, Tribune, InvestyWise), trade/PSU press (PSUConnect, scanx.trade, Whalesbook, marketsmojo, Tradebrains), equitymaster annual-report-analysis summaries, and aggregator-summary text (Trendlyne, stockinvest.us, simplywall.st, choiceindia, kotakneo) -- Tier 3/4/5 at best; nothing here is Tier 1/2 audited-filing- or exchange-filing-sourced directly, and no primary BSE/NSE filing or annual-report PDF was itself opened this session. WELL-SOURCED / CROSS-CORROBORATED (Tier 3, cited, internally consistent across independent search hits): FY26 revenue Rs4,351 Cr (record, +8.16% YoY) and standalone PAT Rs141.36-147.50 Cr (two close but not identical figures across sources, both indicating a ~49-52% YoY decline from FY25's Rs292.52 Cr); FY22-25 PAT (Rs128.59 / 157.9 / 281.77 / 292.52 Cr) and FY23-25 revenue (Rs3,922.5 / 4,096.56 / 4,045.95 Cr) -- these five years of revenue and PAT are the best-anchored numbers in this dossier and cross-check consistently against separately reported YoY growth-rate and margin commentary; FY26 EBITDA margin ~7.54% vs FY25 ~13.2% (a real, reported ~570bp compression) and Q4 FY26 operating margin 15.13% vs Q4 FY25's 25.57%; record order book of Rs15,896 Cr as of 31-Mar-2026 (rising to ~Rs16,700 Cr by Jun-2026 and Rs16,285 Cr as of Q1 FY27), with order-book composition at Q1 FY27 of 65% Rail & Metro / 25% Defence / 4% Mining & Construction / 6% exports, and FY26 revenue-mix shift of Mining & Construction 54%->41%, Defence & Aerospace 27%->35%, Rail & Metro 19%->24%; FY27 order-inflow guidance of >Rs31,000 Cr with Rail & Metro targeted at 65-70% of inflow; capex all-time high of Rs379 Cr in FY26 including Rs191 Cr of CWIP addition, with CWIP rising from Rs37 Cr (FY24) to Rs276 Cr (FY26) and borrowings rising from Rs71 Cr (FY24) to Rs309 Cr (FY26), funding new capacity (a ~Rs1,500 Cr Bhopal plant, new ADITYA/BRAHMA product lines, entry into Tunnel Boring Machines/port equipment); debt-to-equity ~0.10x; total shareholder equity ~Rs2,700 Cr (one dated anchor, ambiguous as to exact as-of date, treated here as approximating FY25 year-end); current price ~Rs2,013 (17-Sep-2026) and market cap ~Rs16,590-16,769 Cr across sources; promoter (President of India via Ministry of Defence) holding 54.0%, reported stable, with FIIs ~5.5%, DIIs ~19.4%, public ~21.1% (Jun-2026); a 1:2 stock split was approved in 2025, taking paid-up shares from 4,16,44,500 (Rs41.64 Cr paid-up capital) to ~8.33 Cr shares -- used here for shares_outstanding, and cross-checked against market_cap/price (~16,769/2,013=~8.33 Cr), which matches well; sector P/E ~90-98x on a ~Rs21.40 EPS figure that itself appears to be reported on a consolidated basis higher than this dossier's standalone PAT. RECONSTRUCTED/APPROXIMATE (Tier 5, flagged, NOT independently pulled from a primary filing this session): depreciation, interest expense, OCF, capex (for FY22-25), net fixed assets, CWIP (FY22-23, FY25 interpolated), net working capital, total debt (FY22-23, FY25 interpolated), cash & equivalents (all years except a single FY26-ish Rs73.5 Cr cash/short-term-investments anchor), net worth (FY22-24, back-solved from the one Rs2,700 Cr anchor plus a modelled ~30% dividend-payout assumption), and dividend paid (all years, modelled at a flat 30% payout ratio of PAT rather than the genuinely conflicting per-share dividend figures found this session, Rs5.55 / 12.28 / 18.70 / 20.5 across different sources -- these look like a mix of interim/final tranches and pre-/post-split share counts that could not be reconciled with confidence, so a payout-ratio model was used instead of picking one figure) -- treat these with the same caution as the BAJFINANCE.json/NTPC.json/SHARDACROP.json reference dossiers and GRSE.json (this week's other PSU industrial) in this repo. EBITDA for FY22-24 is likewise modelled (backward from PAT, an assumed ~25% effective tax rate, and modest depreciation/interest add-backs), calibrated so FY25/FY26 land close to the two directly-sourced margin figures (13.2%/7.54%) as an internal-consistency check -- it passed reasonably well (modelled FY25/26 margins of ~13.2%/~7.0% vs sourced ~13.2%/~7.54%). market.adtv_cr (Rs40 Cr/day), sector_median_pe (32x) and sector_median_pb (5.5x) are unsourced analyst-style estimates, not direct citations, chosen deliberately lower than GRSE's pure-shipbuilder sector comps (40x) to reflect BEML's more diversified, partly-open-market industry classification. book_value_per_share (Rs335.5) is computed from this dossier's own net_worth/shares rather than the Rs352.25 figure quoted by one aggregator -- the two are reasonably close (~5% apart) and both are treated as approximate. STRUCTURAL/JUDGEMENT NOTES: governance ratings were set without inflating for a government promoter -- leverage_pledge_legal scored 9 (still low debt, though rising, and government shares cannot be pledged) but management_stability and board_audit_independence were held at 6 to reflect standard PSU bureaucratic-tenure board rotation, capital_allocation_discipline was held at 6 (not 7-8 as for GRSE) because the FY26 result itself -- record revenue but nearly halved PAT, attributed in press commentary partly to a rise in 'other expenses' -- suggests real cost-control/capital-allocation friction this year, and earnings_quality was set to 5 (lower than GRSE's 7) to reflect genuine, reported quarter-to-quarter profit volatility (a Q3 FY26 swing to loss, a >50% margin swing in Q4 YoY) that is not just optical. kill_gate_fired is honestly False: no fraud, pledge, or SEBI enforcement issue was found for BEML. is_regulated_utility_or_bfsi is left False and addressable_profit_pool_cr/current_profit_share_pct are left null: unlike a pure single-customer DPSU, BEML's Mining & Construction segment does sell into an open, competitive product market where a conventional TAM concept could in principle apply, but no reliable segment-level market-size figure was found this session, and forcing a number here would be fabricating precision the evidence does not support -- this is flagged as a genuine gap rather than silently defaulted. variant_perception.answered is honestly set to False: the evidence gathered this session (a very rich already-priced trailing multiple, genuine FY26 margin compression, and a strategic-disinvestment thesis that traces to 2019-2021 and shows no confirmed 2024-2026 progress) does not support a credible 'market has it wrong, and here is why and when it resolves' case in either direction -- if anything the valuation looks demanding relative to demonstrated earnings quality, but I am not asserting a bear case with more confidence than the partial, web-search-only evidence gathered this session actually supports. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction (aggregator/filing sites were unreachable from this environment), not a completed adversarial (M5) review with a logged hostile source and cooling period."
+}

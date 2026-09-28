@@ -1,0 +1,131 @@
+{
+  "symbol": "ITC.NS",
+  "name": "ITC Limited",
+  "sector": "FMCG / Diversified Conglomerate",
+  "industry": "Cigarettes, branded packaged FMCG, paperboards & packaging, agri-business, IT services",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [65204.96, 76518.21, 76840.49, 81612.78, 89913.33],
+    "ebitda": [21843.66, 25251.01, 24588.96, 23994.16, 25208.22],
+    "depreciation": [1450.0, 1650.0, 1800.0, 1950.0, 2100.0],
+    "interest_expense": [150.0, 170.0, 190.0, 210.0, 230.0],
+    "pat": [15485.65, 19476.72, 20751.36, 20036.47, 21018.15],
+    "ocf": [17474.93, 20200.81, 19671.17, 19195.33, 20166.58],
+    "capex": [2100.0, 2400.0, 2800.0, 2200.0, 2000.0],
+    "net_fixed_assets": [29000.0, 30500.0, 32000.0, 27000.0, 27500.0],
+    "cwip": [1800.0, 2000.0, 2200.0, 1500.0, 1600.0],
+    "net_working_capital": [8000.0, 9000.0, 9800.0, 10500.0, 11200.0],
+    "total_debt": [2600.0, 2700.0, 2800.0, 2200.0, 2300.0],
+    "cash_equiv": [38000.0, 42000.0, 47000.0, 50000.0, 53000.0],
+    "net_worth": [58000.0, 62000.0, 66000.0, 69500.0, 72979.0],
+    "dividend_paid": [12853.0, 16166.0, 17223.0, 16630.0, 18000.0],
+    "tax_rate": [0.28, 0.28, 0.27, 0.27, 0.26]
+  },
+  "market": {
+    "price": 266.2,
+    "market_cap_cr": 330974.19,
+    "adtv_cr": 400.0,
+    "shares_outstanding": 1243.0,
+    "diluted_shares_outstanding": 1243.0,
+    "sector_median_pe": 16.7,
+    "sector_median_pb": 8.0,
+    "ten_year_gsec_yield": 0.068,
+    "gsec_date": "2026-09-11",
+    "forward_eps": 17.5,
+    "book_value_per_share": 58.71
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "ERODING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Cigarettes have historically carried real pricing power (FY25 cigarette PBIT margin ~61.4%, down only 101bps YoY despite leaf-tobacco cost inflation, per FY25 result commentary), and ITC has passed through most past excise hikes without large volume loss. But this leg is being tested harder than at any point in a decade: effective 1-Feb-2026 the government moved cigarettes to a flat 40% GST plus a new additional excise duty of Rs2,100-8,500 per 1,000 sticks (replacing the compensation cess), forcing 15-20% retail price hikes; sell-side (S&P Global) flagged a 'medium-term earnings hit' and cigarette volumes are now projected roughly 13% lower in 2027/2028 versus prior estimates. FMCG-others pricing power is much weaker -- Q1 FY26 segment EBITDA margin fell from 11.3% to 9.4% YoY on input-cost pressure the company could not fully pass through. Rated AMBER/ERODING on balance: real pricing power exists but a large, fiscal-policy-driven shock is actively compressing it in real time, not a hypothetical risk. Sources: Business Standard, S&P Global, Bloomberg, ICICI Direct Q4FY25 note (web search, Sept 2026)."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No structural switching cost in either cigarettes or packaged FMCG -- a smoker or shopper can switch to Godfrey Phillips/VST/illicit cigarettes or to HUL/Britannia/Dabur/D2C FMCG brands at the next purchase. Habitual/addictive consumption of cigarettes creates some behavioural stickiness, but that is a consumer-psychology effect, not an economic switching cost, and is explicitly not being treated as one here."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Not applicable -- manufacturing/distribution of tobacco and packaged goods has no network effect; one consumer's purchase does not add value for another. Structurally absent."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Cigarettes: dominant legal-market scale (widely cited ~75-80% share of the organized Indian cigarette market) gives ITC a real leaf-sourcing, manufacturing and distribution cost advantage over Godfrey Phillips/VST and a structural edge versus fragmented illicit trade. FMCG-others, by contrast, has NO demonstrated cost advantage -- it is a genuinely thin-margin business (segment EBIT margin ~6.9% in the FY25/FY26 window per search-sourced quarterly disclosures) still absorbing distribution and manufacturing scale-up costs. This rating reflects the cigarette engine only; blending it into a single 'GREEN' for the whole company would overstate the FMCG-others reality, which is flagged honestly here rather than smoothed over."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Deep, decades-old brand equity across both franchises -- Gold Flake/Classic/Wills/India Kings in cigarettes, and Aashirvaad, Sunfeast, Bingo!, Yippee!, Classmate, Fiama, Savlon, Engage in FMCG-others, several of which are individually billion-dollar-plus revenue brands. This is real and durable, though it has not translated FMCG-others into a differentiated margin profile the way Nestle's or HUL's brand portfolios have, which is the honest limit of this rating."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "ITC's rural/general-trade distribution reach is among the largest in India (comparable order of magnitude to HUL's), a genuine scale asset for the FMCG-others rollout. Rated AMBER rather than GREEN because, exactly as with other large Indian FMCG names, several large national players (HUL, Nestle, Britannia, Dabur, Marico) coexist profitably in the same categories, so distribution scale is an advantage, not a hard barrier to entry."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 8,
+    "ownership_transparency": 9,
+    "capital_allocation_discipline": 7,
+    "management_stability": 8,
+    "leverage_pledge_legal": 10,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 0.0,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Cigarettes -- still ~80-85% of ITC's operating profit despite being a much smaller share of revenue -- sit in a mature, structurally shrinking-volume, rising-tax category; the Feb-2026 move to a flat 40% GST plus a new Rs2,100-8,500/1,000-stick excise duty (replacing the compensation cess) is the sharpest fiscal escalation the segment has faced in years, with cigarette volumes now projected ~13% lower through 2027/2028 versus prior analyst estimates. FMCG-others is the one segment with genuine inflection characteristics (revenue continuing to scale, ~23% of H1 FY26 segment revenue) but its EBITDA margin actually compressed YoY in the most recent quarters found (11.3%->9.4%), the opposite of the margin-inflection story a true INFLECTION classification would need. On balance the consolidated business is MATURE, not INFLECTION.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 3.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 22.0,
+    "own_10y_75th_pctile_pe": 26.0,
+    "sector_10y_75th_pctile_pe": 20.0,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "No structural, currently-evidenced margin-expansion mechanism was found -- the opposite is visible in the latest quarters (FMCG-others EBITDA margin compressed ~190bps YoY in Q1 FY26; cigarette PBIT margin also declined ~101bps in FY25 on leaf-tobacco cost, before the Feb-2026 tax shock added a further, larger headwind). Management's own stated target is a modest 80-100bps/year FMCG-others margin improvement, which is a real but small and not-yet-realized lever. Per the 6A rule, the margin delta is set to zero and the bridge is run on revenue-driven growth only."
+  },
+  "variant_perception": {
+    "market_belief": "The market currently prices ITC as a cheap (~16-17x trailing P/E, near/below the FMCG-sector-classified average and well below pure-play FMCG peers like HUL at ~30x), high-dividend-yield (~5.5%) conglomerate whose cigarette cash engine faces an escalating, possibly open-ended tax overhang (the stock is down ~35% over the past year, largely on the Feb-2026 GST/excise shock), while its FMCG-others arm remains a persistently sub-scale, thin-margin also-ran that has not yet justified the capital poured into it.",
+    "whats_wrong_with_belief": "I could not build a credible, evidence-backed case that this is wrong. There are two possible bull legs and both are compromised on the evidence in hand: (1) a 'market is overreacting to the tax shock' thesis is plausible in principle (ITC has absorbed past excise hikes reasonably well, and the stock did partially recover in early Feb-2026 once price pass-through was confirmed), but the Feb-2026 hike is the largest single fiscal move on cigarettes in years, sell-side (S&P Global) explicitly frames it as a medium-term earnings issue rather than a one-quarter scare, and this exact overreaction-vs-real-risk debate is already the subject of intense, mainstream analyst coverage -- it is not a neglected angle a patient investor has spotted first. (2) an 'FMCG-others margin inflection is coming' thesis is directly contradicted by the most recent data, which shows that segment's margin compressing, not expanding, over the last several quarters. ITC is also one of the most heavily tracked, highest-weight stocks on the Nifty50, which rules out coverage_neglect, and there is no multi-decade time-horizon mismatch here that the market hasn't already priced (the cigarette structural-decline/tax-escalation narrative is old and well understood, not a slow-to-recognize theme). Honestly, this reads as a name the market is pricing roughly in line with its realistic algorithm -- a resilient but slow-growing, high-payout, low-multiple cash generator with a real and currently-live regulatory risk to its core profit engine -- rather than a name with a credible, evidenced multibagger-setup mispricing in either direction.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": 0.05,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DEMERGER BASIS: ITC Hotels was demerged effective 1-Jan-2025 (record date 6-Jan-2025, ITC Hotels listed 29-Jan-2025, 1 ITC Hotels share per 10 ITC shares). FY2025 (Apr'24-Mar'25) is therefore a TRANSITION year -- it carries ~9 months of hotels contribution plus a large one-off exceptional demerger-related gain in Q4 (one source cites Q4 FY25 PAT of ~Rs19,807-19,087 Cr, most of which the Q4 FY26 comparison explicitly attributes to that one-off gain, not recurring earnings). FY2026 (Apr'25-Mar'26) is the first FULL year on a clean, hotels-excluded, continuing-operations basis and is treated as the primary, best-quality anchor in this dossier. WELL-SOURCED (Tier 3, cross-referenced across 3+ independent business-media outlets -- ITC's own portal, Screener, Moneycontrol/Trendlyne and NSE archives were unreachable from this environment): FY2026 consolidated revenue from operations Rs89,913.33 Cr (standalone gross revenue Rs80,867.49 Cr) and PAT (continuing ops) Rs21,018.15 Cr (standalone PAT Rs20,286.42 Cr); FY2026 EBITDA Rs25,208.22 Cr (+4.9% YoY); FY2025 revenue Rs81,612.78 Cr / PAT Rs20,036.47 Cr; FY2024 revenue Rs76,840.49 Cr / PAT Rs20,751.36 Cr; FY2023 revenue Rs76,518.21 Cr / PAT Rs19,476.72 Cr; FY2022 PAT Rs15,485.65 Cr (FY2022 revenue triangulated from a separate FY22-vs-FY23 comparison snippet, Rs65,204.96 Cr); current price ~Rs266.2 and market cap ~Rs3,30,974 Cr as of 17-Sep-2026 (cross-validated across 2 sources); trailing P/E ~16.4-17.5x depending on source/basis (multiple independent snapshots cluster in this range); D/E ~0.00-0.03 (ITC is effectively debt-free); ROE FY26 ~28.8% (down from a demerger-gain-inflated ~49.6% FY25, flagged as not comparable); promoter holding is genuinely 0.00% -- ITC has NO promoter category (widely-held, professionally managed since the Deveshwar/Puri era); its largest shareholder bloc is British American Tobacco's Indian entities (TMI + Myddleton + Rothmans), which held a combined ~22.91% as of the FY26 SEC filing (down from ~25.4%+ after BAT sold down stakes in Mar-2024 and May-2025), classified as FII/public, not promoter -- this is a genuinely different governance situation from a typical Indian small/mid-cap with a controlling promoter, not a red flag of the usual kind, and the promoter_holding_pct=0.0 in this dossier should be read that way (this mirrors how other no-promoter names like ICICIBANK/SOUTHBANK/UJJIVANSFB are already encoded in this dataset); the Feb-2026 cigarette tax shock (flat 40% GST + new Rs2,100-8,500/1,000-stick excise duty replacing the compensation cess, effective 1-Feb-2026) is real, dated and well-documented (Bloomberg, Business Standard, S&P Global), and is the single largest identified risk to the core profit engine. RECONSTRUCTED/APPROXIMATE (Tier 5, NOT fit to clear a NAVY-binding gate): the full balance-sheet series (depreciation, interest expense, OCF, capex, net fixed assets, CWIP, net working capital, total debt, cash and net worth for every year) is modelled from ITC's well-documented profile as a near-zero-debt, cash-rich, moderate-capital-intensity conglomerate, not sourced line-by-line; applying this schema's ROCE formula (EBIT/(net worth + debt - cash)) to that reconstructed balance sheet mechanically produces an implausibly high ROCE (>100%) because of ITC's very large cash/investment book relative to modest net fixed capital employed -- this is the same formula artifact flagged in this project's NESTLEIND.json dossier for the same reason (a large treasury book, not leveraged capital efficiency, is driving the number), and is called out here rather than smoothed away; shares outstanding (1,243 Cr) is derived from market-cap/price, not sourced directly; sector median P/E (~16.7x, ITC's own diversified sector-classification average, which sits well below pure-play FMCG peer HUL at ~29.65x and roughly between cigarette peers VST at ~14.7x and Godfrey Phillips at ~22.9x) and sector median P/B (~8x), ADTV (~Rs400 Cr/day, triangulated from reported share-volume x price), forward EPS (~Rs17.5) and the 10-year G-sec yield (6.8%, Sep-2026, reused from this project's other same-week dossiers as a market-wide constant) are all Tier 5 analyst-style estimates. variant_perception.answered is honestly set to False and m5_protocol_complete is honestly set to False (this is a solo research pass, not an independent adversarial second review) -- per the engine's own N7/M3/G4 rules this dossier should not lock a high-conviction verdict regardless of its composite score."
+}

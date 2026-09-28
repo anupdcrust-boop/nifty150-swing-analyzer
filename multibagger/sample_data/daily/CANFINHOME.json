@@ -1,0 +1,131 @@
+{
+  "symbol": "CANFINHOME.NS",
+  "name": "Can Fin Homes Limited",
+  "sector": "Financials",
+  "industry": "Housing finance company (HFC) -- home loans concentrated in the salaried and middle-income, formal-income segment, majority-owned by Canara Bank, with a strong South India (Karnataka-led) branch concentration",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [2286.0, 2743.0, 3524.69, 3878.64, 4216.27],
+    "ebitda": [702.0, 897.9, 1351.6, 1331.7, 1545.3],
+    "depreciation": [4.0, 5.0, 6.0, 7.0, 8.0],
+    "interest_expense": [1584.0, 1845.1, 2173.1, 2546.9, 2670.9],
+    "pat": [478.0, 621.2, 750.7, 857.2, 1086.0],
+    "ocf": [-1850.0, -2050.0, -2350.0, -2550.0, -1650.0],
+    "capex": [4.0, 5.0, 7.0, 8.0, 9.0],
+    "net_fixed_assets": [35.0, 40.0, 46.0, 52.0, 60.0],
+    "cwip": [4.0, 5.0, 5.0, 6.0, 7.0],
+    "net_working_capital": [4.0, 5.0, 5.0, 6.0, 7.0],
+    "total_debt": [20840.1, 24276.9, 28593.2, 33512.0, 35150.0],
+    "cash_equiv": [1150.0, 1350.0, 1600.0, 1885.0, 2110.0],
+    "net_worth": [2159.9, 2723.1, 3406.8, 4184.0, 5070.0],
+    "dividend_paid": [50.0, 58.0, 67.0, 80.0, 200.0],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.22]
+  },
+  "market": {
+    "price": 805.25,
+    "market_cap_cr": 10725.9,
+    "adtv_cr": 25.0,
+    "shares_outstanding": 13.3155,
+    "diluted_shares_outstanding": 13.3155,
+    "sector_median_pe": 13.97,
+    "sector_median_pb": 2.82,
+    "ten_year_gsec_yield": 0.0685,
+    "gsec_date": "2026-09-12",
+    "forward_eps": null,
+    "book_value_per_share": 380.8
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Salaried/formal-income home loans are the most price-competed segment in Indian mortgage lending -- large banks (SBI, HDFC Bank, ICICI Bank) with CASA-funded, repo-linked pricing compete directly for the same 'most bankable' customer Can Fin targets, unlike an informal-income niche banks cannot easily underwrite. Q1 FY27 investor-presentation data (Tier 4) shows NIM actually improved to 3.81% from 3.64% YoY and cost-to-income fell to ~19.5%, so spreads are not visibly compressing right now -- but this reflects a benign rate/competitive cycle, not demonstrated durable pricing power. No Tier 1-3 evidence of a structural ability to price above the market for this customer segment. Rated RED/HOLDING rather than ERODING, since the direction this session found is neutral-to-mildly-positive, not deteriorating."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "A 15-20 year secured mortgage does carry real refinancing friction and servicing stickiness once originated. But Can Fin's salaried/formal-income borrower is precisely the customer segment banks' balance-transfer and top-up-loan campaigns most aggressively target, because a payslip/Form-16 borrower is trivially easy for a bank to re-underwrite -- unlike Aavas's informal-income, cash-flow-assessed borrower, whom banks structurally cannot easily re-underwrite. This is the key differentiation from the Aavas dossier's read of the same moat source: the same 15-20yr-mortgage stickiness argument is materially weaker here because Can Fin's own targeted borrower is the one segment competitors can poach most cheaply. Rated AMBER/ERODING (not RED) because the underlying relationship length is real, but the competitive-poaching risk is segment-specific and growing as banks push repo-linked balance-transfer offers; no Tier 1-3 attrition/balance-transfer-out data was pulled directly from Can Fin filings this session."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No platform/network dynamic in secured mortgage lending -- structurally absent for this business model, as for any single-product lender."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Genuinely low, well-evidenced cost-to-income ratio (~19.5% in Q1 FY27, materially better than most affordable-HFC peers, e.g. Aavas at ~43.7%), consistent with a lean, largely branch-led (not DSA-heavy) origination and servicing model. However, the specific hypothesis this dossier was asked to test -- that the Canara Bank promoter relationship itself confers a durable funding-cost edge -- is NOT supported: a rating-agency rationale note found this session states explicitly that Can Fin's cost of funding 'remains competitive and broadly in line with that of similarly rated peers, supported by its strong parentage' (i.e. parentage helps it reach AAA/A1+ ratings and thereby a market-rate cost of funds comparable to other AAA-rated HFCs/bank-backed lenders, not a below-peer cost of funds). Rated AMBER, not GREEN: the operating-cost efficiency is real and Tier 3-evidenced, but the promoter-funding-cost angle specifically does not hold up, and no Tier 1-3 multi-year cost-to-income trend versus a full peer set was independently verified this session."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Underwriting for salaried, payslip/Form-16-documented, formal-income borrowers is the least differentiated, most commoditised part of the mortgage value chain -- any bank or HFC can replicate it with standard bureau and income-document checks. This is the mirror image of Aavas's informal-income cash-flow-assessment underwriting, which at least has some genuine (if now industry-standard-among-affordable-HFC-peers) specialisation. No comparable underwriting-IP or data-moat claim could be constructed for Can Fin's core salaried segment; strong asset quality (GNPA 0.87%/NNPA 0.42%, Q1 FY27, Tier 3/4) reflects prudent, conservative underwriting discipline and a low-risk customer mix, not a hard-to-replicate analytical edge."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Can Fin is a well-run, regionally-concentrated (South India/Karnataka-led) mid-sized HFC (~Rs42,000-43,000 Cr loan book) but is neither a scale/duopoly leader nor close to one -- LIC Housing Finance alone runs a ~Rs3.2 lakh Cr book, and large banks (SBI, HDFC Bank) and Bajaj Housing Finance dwarf it in absolute scale and cost of funds. Regional branch density in its core Karnataka/South India markets plausibly gives some local-scale servicing efficiency, but this is not evidenced as a widening, hard-to-replicate advantage over other regionally-focused HFCs and bank branch networks competing in the same geography."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 7,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 7,
+    "management_stability": 6,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 29.99,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "The salaried/formal-income home-loan segment is a large, long-established, intensely contested market -- not an under-penetrated or emergent niche. Large banks with CASA-funded, repo-linked pricing (SBI, HDFC Bank, ICICI Bank) and other AAA-rated HFCs (LIC Housing, Bajaj Housing Finance, PNB Housing) compete directly for the same formal-income, easily-documented borrower Can Fin targets; this is the structural reason standalone HFCs' share of the prime/salaried mortgage market has been under pressure from banks over the past decade industry-wide. Can Fin's revenue grew from an estimated ~Rs2,743 Cr (FY23) to Rs4,216 Cr (FY26), a ~3-year CAGR of roughly 15-16% -- respectable, but this session found no Tier 1-3 evidence that this outpaces system-wide formal-sector housing-credit growth over the same window, so it cannot be documented as a share-gain story. share_gain_3y_vs_sector is therefore set false, consistent with the framework's own rule that MATURE-plus-share-flat caps the industry-phase gate at a Steady Compounder ceiling, not a hard fail.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": false
+  },
+  "bridge_assumptions": {
+    "target_multiple": 3.0,
+    "horizon_years": 7,
+    "assumed_exit_pe": 15.0,
+    "own_10y_75th_pctile_pe": 20.0,
+    "sector_10y_75th_pctile_pe": 18.0,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "NIM has been roughly stable-to-modestly-improving (3.64%->3.81% YoY, Q1 FY27) but management is not guiding a structural, evidenced margin-expansion mechanism (no capacity-utilisation, mix-shift or funding-cost-step-down argument found this session); per the Section 6A/5e cross-reference rule this is correctly set to zero and the bridge run on revenue-driven growth only. Bridge deliberately kept modest (3x/7yr, entry P/E ~13 to exit P/E 15, both below the assumed own/sector 10-year 75th-percentile multiples) given the MATURE, competitively-contested industry read above -- this is not a re-rating-dependent bridge (required EPS CAGR ~14.7% vs re-rating ~2.0% p.a. clears N1-1's 60% earnings-dominance test easily) but is also not sized as an aggressive multibagger case."
+  },
+  "variant_perception": {
+    "market_belief": "Can Fin Homes is priced by an actively-covered sell-side base (Jefferies, ICICI Direct, Nuvama, CD Equisearch and others regularly publish notes and targets) as a well-run, conservatively-underwritten, PSU-bank-backed mid-cap HFC -- steady ~15-20% earnings growth, best-in-class asset quality (GNPA <1%) and cost-to-income (~19-20%), trading at a modest discount to the housing-finance sector median P/E (~13x vs a sector median in the mid-to-high teens).",
+    "whats_wrong_with_belief": "No credible, evidenced mispricing case could be constructed in either direction this session. The business is exactly as well-covered and unsurprising as the market believes it to be: quarterly results have tracked management's own guidance closely, there is no unresolved regulatory overhang comparable to Aavas's NHB inspection, and the moat analysis above genuinely does not find a durable, widening competitive edge in Can Fin's core salaried-segment underwriting or pricing -- its real edge (cost-to-income discipline) is acknowledged by rating agencies as being roughly in line with similarly-rated peers on the funding side. A 'steady, fairly-priced compounder in a mature, competitive segment' read is at least as well-evidenced as any bull or bear mispricing claim this session could support.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence -- no specific, dated, observable event was identified this session that would close a mispricing gap, because no confidently-evidenced gap was identified in the first place.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": false,
+  "notes": "BFSI name: is_regulated_utility_or_bfsi=true per the G1/Section 5e/6B BFSI carve-outs in FRAMEWORK_v2.2.md. G1 is therefore scored TEAL/informational only (not a discard test); the sector-appropriate leverage test is evidenced qualitatively here rather than coded (framework text: 'that replacement test is not yet specified by this suite'): CRAR 23.39% (Q1 FY27, well above the ~15% regulatory minimum for HFCs), GNPA 0.87%/NNPA 0.42% (Q1 FY27, both very low and stable-to-improving), debt-to-equity ~6.18x (Q1 FY27) -- all Tier 3 aggregator/press figures relayed from the company's own investor presentation, cross-corroborated across multiple independent search results but not independently pulled from a primary NSE/BSE filing or the FY26 audited annual report PDF this session (screener.in was blocked by this session's network egress proxy; canfinhomes.com PDFs were found via search but not fetched directly). industry_context.addressable_profit_pool_cr is left null and the Section 6B runway/profit-pool gate is not meaningfully scored, per the v2.2 note that this concept does not translate to a lender.\n\nDATA QUALITY -- SOURCED (Tier 3, cross-corroborated across 2+ independent search results this session, not independently re-verified against a primary filing): Q1 FY27 PAT Rs267.82 Cr (+20% YoY); Q1 FY27 loan book/AUM Rs42,961 Cr (+11% YoY); FY26 (year ended Mar-2026) PAT Rs1,086 Cr (+27% YoY), FY26 total income Rs4,216.27 Cr, FY26 EPS Rs81.54, FY26 dividend Rs15/share; FY25 PAT Rs857.2 Cr, FY25 total income Rs3,878.64 Cr, FY25 EPS Rs64.37, FY25 dividend Rs6/share; FY24 PAT Rs750.7 Cr, FY24 total income Rs3,524.69 Cr, FY24 EPS Rs56.38; FY23 PAT Rs621.2 Cr; Q1 FY27 GNPA 0.87%/NNPA 0.42%, ROA 2.39%, ROE >17%, CRAR 23.39%, NIM 3.81% (vs 3.64% Q1 FY26), cost-to-income ~19.5%, debt-equity ~6.18x; Canara Bank promoter holding 29.99% as of FY26/Q1FY27 disclosures (0% pledge -- Canara Bank is a PSU bank, pledge is not a meaningful risk here); current price Rs805.25 and market cap ~Rs10,410-10,726 Cr (two aggregators gave slightly different snapshots around 7-10 Sep 2026, this dossier uses price x sourced share count 13.3155 Cr for internal consistency); shares outstanding 13,31,54,591 (13.3155 Cr); AAA(Stable)/A1+ ratings reaffirmed by ICRA on ~Rs49,138 Cr of borrowing programs; MD & CEO Suresh Srinivasan Iyer reappointed for a further 2-year term (18-Mar-2026 to 17-Mar-2028) with 99.66% shareholder approval via postal ballot concluded 5-Mar-2026; Deputy MD Vikram Saha resigned effective 15-Apr-2026 due to a Canara Bank internal transfer (a routine, structural feature of a PSU-bank-sponsored subsidiary, not treated as a governance red flag), succeeded by Shailesh Kumar Singh; Independent Director Shubhalakshmi Aamod Panse completed her tenure 29-Jul-2026, succeeded by Varsha Vasant Purandare (ex-MD & CEO, SBI Capital Markets) from 30-Jul-2026.\n\nDATA QUALITY -- RECONSTRUCTED / ESTIMATED (Tier 5, NOT independently sourced, must not be cited as Section 5e/gate-driving evidence per M6): the entire FinancialSeries revenue/PAT figures for FY22 and the full balance-sheet series (depreciation, interest_expense, net_fixed_assets, CWIP, 'net working capital', total_debt, cash_equiv, net_worth, dividend_paid, capex, OCF, tax_rate, and 'EBITDA') for ALL five years are Tier 5 reconstructions -- built by backward-deriving net worth from the one directly-sourced FY26 anchor (net worth ~Rs5,070 Cr, i.e. total shareholder equity ~Rs50.7B) using NW(t-1)=NW(t)-PAT(t)+Dividend(t), approximating total_debt as AUM-minus-net-worth (loan-book figures for FY25/FY26 are sourced; FY22-24 AUM figures of ~Rs23,000/27,000/32,000 Cr are this session's own estimates, not sourced), cash at ~5% of AUM, interest_expense at an assumed ~7.6% cost-of-debt on that approximated total_debt, and small placeholder values for the tiny fixed-asset/CWIP/working-capital lines (a lender's real growth capital is its loan book, not its fixed-asset base -- same caveat as the AAVAS.json and BAJFINANCE.json dossiers in this repo). This produces a visibly non-monotonic 'EBITDA' proxy (e.g. dipping slightly FY24->FY25) that is a reconstruction artefact, not a real reported margin decline -- do not read a genuine margin-trajectory signal from this series. FY22 dividend and FY23/FY24 dividend figures (Rs50/58/67 Cr) are this session's own estimates (only FY25's Rs6/share and FY26's Rs15/share total dividend were directly sourced), used only to make the payout-ratio calculation directionally sensible (3-yr average payout works out to ~12.9% on FY24-26, comfortably under the 40% ceiling either way). sector_median_pe (13.97) and sector_median_pb (2.82) are medians of a small, partial peer basket (LIC Housing, PNB Housing, Aptus, Home First -- P/B not found for PNB Housing) pulled from aggregator sites this session, not independently recomputed from filings. ten_year_gsec_yield (6.85%, dated 2026-09-12) and adtv_cr (~Rs25 Cr/day, an estimate -- only a 2022 average-volume data point was found this session, not a current one) are Tier 5 placeholders, not independently sourced this session. book_value_per_share (Rs380.8) is derived (net worth / shares), not a directly-quoted figure; one aggregator's P/B ratio (1.67-2.31, seen at different snapshots) implies a range of possible book values, so treat this figure as approximate.\n\nSTRUCTURAL CAVEAT (not a data-quality issue, same as flagged in AAVAS.json/SOUTHBANK.json in this repo): Section 5e's ROIIC/reinvestment-rate formula (net fixed assets + CWIP + net working capital as 'invested capital') does not describe a lender's real economics -- Can Fin's fixed-asset base is trivial relative to its loan book, so this dossier's computed ROIIC/reinvestment-rate/engine-growth figures are a near-zero-denominator artefact and should not be read as a genuine measure of real compounding capacity. A genuine BFSI-specific Section 5e variant does not yet exist in this framework (v2.2 denominator ledger: proposed, not yet specified, n=0).\n\nMOAT: rated deliberately skeptically -- 0 GREEN, 2 AMBER (switching_costs, cost_advantage), 4 RED -- reflecting a genuinely well-run, conservatively-underwritten lender whose specific competitive position (the most 'bankable', formal-income borrower segment, contested directly by CASA-funded banks) is structurally LESS differentiated than Aavas's informal-income niche, not more, despite the Canara Bank promoter relationship. The hypothesis that Canara Bank parentage confers a durable funding-cost edge was specifically tested and NOT supported by the one rating-agency source found this session (funding cost described as 'in line with similarly rated peers'). No source is rated BUILDING, so the Section 5b-T moat-trajectory gate does not clear -- this alone caps the name at Steady Compounder per the consolidated gate table, independent of the industry-phase read. industry_context.phase=MATURE with share_gain_3y_vs_sector=false independently caps the same gate at Steady Compounder (not WATCH -- that band is reserved for DECLINING). variant_perception.answered is honestly set to False: this is an actively-covered, unsurprising, fairly-priced mid-cap HFC, and no specific, evidenced reason consensus is wrong (rather than simply correct) could be constructed -- the opposite of the coverage-neglect/structural-non-participation conditions M3 requires. g3_state=D is a comparatively clean read (no pledge, no known investigation, promoter holding >25%, MD/CEO reappointment approved by 99.66% of votes cast, Deputy MD change was a routine PSU-parent staff rotation, not a resignation-under-a-cloud) -- materially cleaner than the AAVAS.json dossier's ambiguous G3 situation. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction (screener.in blocked by the session's network proxy; no primary NSE/BSE filing or the FY26 audited annual report PDF independently opened) rather than a completed adversarial (M5) review with a logged 48-hour cooling period, a steelmanned short, or a hostile-source disconfirming-evidence search."
+}

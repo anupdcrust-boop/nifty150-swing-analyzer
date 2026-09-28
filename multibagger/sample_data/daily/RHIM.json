@@ -1,0 +1,117 @@
+{
+  "symbol": "RHIM.NS",
+  "name": "RHI Magnesita India Limited",
+  "sector": "Industrials / Materials",
+  "industry": "Refractories (specialty industrial materials for steel, cement, glass, non-ferrous, foundry)",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "g3_state": "D",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue":        [2005.00, 2741.00, 3781.10, 3674.50, 4019.95],
+    "ebitda":         [393.00,  439.00,  370.00,  478.00,  477.00],
+    "depreciation":   [70.2,    95.9,    132.3,   128.6,   140.7],
+    "interest_expense": [40.5, 37.8,    34.2,    25.2,    18.0],
+    "pat":            [269.00, 230.00, -100.45,  202.51, -382.94],
+    "ocf":            [294.75, 329.25,  277.50,  358.50,  357.75],
+    "capex":          [100.25, 137.05,  189.06,  183.73,  201.00],
+    "net_fixed_assets": [701.75, 959.35, 1323.39, 1286.08, 1406.98],
+    "cwip":           [60.15,  82.23,   113.43,  110.24,  120.60],
+    "net_working_capital": [401.00, 548.20, 756.22, 734.90, 803.99],
+    "total_debt":     [450.0,  420.0,   380.0,   280.0,   200.0],
+    "cash_equiv":     [90.0,   110.0,   95.0,    170.0,   248.0],
+    "net_worth":      [3698.9, 3871.9,  3771.5,  3924.0,  3489.5],
+    "dividend_paid":  [67.0,   57.0,    0.0,     50.0,    51.6],
+    "tax_rate":       [0.25,   0.25,    0.25,    0.25,    0.25]
+  },
+  "market": {
+    "price": 415.55,
+    "market_cap_cr": 8581.1,
+    "adtv_cr": 8.0,
+    "shares_outstanding": 20.65,
+    "diluted_shares_outstanding": 20.65,
+    "sector_median_pe": 40.0,
+    "sector_median_pb": 5.0,
+    "ten_year_gsec_yield": 0.068,
+    "gsec_date": "2026-09-20",
+    "forward_eps": null,
+    "book_value_per_share": 168.96
+  },
+  "moat_sources": [
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Refractory products require multi-year, plant-specific qualification/trial cycles before a steel or cement customer adopts them -- a genuine technical switching cost. But this is an industry-wide characteristic shared by every major player (Vesuvius India, IFGL Refractories, Tata Krosaki), not a demonstrated RHIM-specific advantage; no company-specific retention-rate or contract-tenure evidence was found in public sources."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Public commentary (analyst notes, business press) states RHIM can source raw material and technology from its global parent RHI Magnesita N.V. (LSE-listed, world's largest refractories group), a genuine differentiator versus peers reliant on Chinese raw-material imports. This is a real structural angle (matches the global-parent technology-transfer thesis), but it is also a single-supplier dependency/related-party concentration risk, and margins have not shown a clear, sustained superiority over peers on the data found -- rated AMBER rather than GREEN pending harder evidence."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "No public evidence of a demonstrated, durable cost advantage versus peers was found. EBITDA margin has swung widely by year (roughly 10%-20% across FY22-FY26) driven by raw-material cost pass-through timing, not structural cost leadership, and two of the last five fiscal years produced a net loss (FY24 operating loss; FY26 impairment-driven loss) -- inconsistent with a strong, defensible cost moat."
+    },
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "No evidence of durable, independent pricing power: reported margins compress and recover in step with raw-material cost cycles rather than the company setting price ahead of input costs. Customers are large, concentrated steel/cement producers with real bargaining leverage in a fragmented multi-supplier market (RHIM ~25-30% share, Vesuvius India, IFGL Refractories, Tata Krosaki Refractories all present)."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 7,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 5,
+    "management_stability": 6,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 5,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 56.1,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Refractories is an established, already-penetrated intermediate-industrial-goods category tightly linked to global/domestic steel and cement capacity utilization. India's steel output continues to grow (refractory demand is largely opex/tonnage-linked -- furnaces need relining on every production campaign, not only on new capex), which is a real long-run volume tailwind, but public commentary indicates RHIM's relative market share has been flat over the last six years while a smaller peer (IFGL) gained share and two larger peers (Vesuvius India, Tata Krosaki) lost share -- i.e. a fragmented, cyclical, share-stable market rather than an emergent or consolidating one. Classified MATURE rather than INFLECTION on the balance of evidence found.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": false
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.5,
+    "horizon_years": 5,
+    "assumed_exit_pe": 35.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "Q1 FY26 showed EBITDA margin expanding ~370bps YoY (10.8% -> 14.5%) on cost actions and pricing, but this is a single quarter against a five-year history of margin volatility (roughly 10%-20% swings) and two net-loss years. Per the 6A rule, an unevidenced margin delta is set to zero here and the bridge is run purely on revenue-driven growth rather than assumed margin expansion."
+  },
+  "variant_perception": {
+    "market_belief": "Market appears to price RHIM as a cyclical, customer-concentrated industrial supplier to steel/cement, currently de-rated after a large FY26 headline net loss (Rs -382.94 Cr, driven by a Rs 556-661 Cr non-cash goodwill/investment impairment) layered on an already-volatile earnings history (FY24 was also a net-loss year).",
+    "whats_wrong_with_belief": "Attempted candidate thesis: the FY26 loss is a one-off non-cash impairment rather than an operating deterioration, and Q1 FY26 showed real operating improvement (EBITDA margin +370bps YoY, PAT nearly doubled). However this does not clear the bar for a credible, well-evidenced variant view: (a) it is only one quarter of confirming data: (b) on adjusted/normalized FY26 PAT (~Rs180 Cr, company-reported 'adjusted' basis) the stock's trailing PE is still roughly ~45-49x, i.e. the market is not obviously mispricing it even after looking through the impairment; and (c) there is no confirmed structural share-gain or margin-expansion trend to anchor a durable re-rating case.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "notes": "IDENTITY: RHIM.NS = RHI Magnesita India Limited (formerly Orient Refractories Limited, renamed July 2021), NSE/BSE-listed, ~70% owned by RHI Magnesita N.V. (LSE-listed global refractories leader). Confirmed via multiple independent web sources (Yahoo Finance, stockanalysis.com, screener.in, Tickertape, company IR site) before building this dossier -- this is NOT a stale/ambiguous ticker mapping. DATA PROVENANCE (M6): live aggregator sites (screener.in, stockanalysis.com) and FMP's fundamentals endpoints were blocked/gated in this environment, so this dossier is built entirely from WebSearch result snippets of news, analyst commentary and aggregator pages -- no source here reaches Tier 1 (audited financials read directly) or Tier 2 (exchange filing read directly); all figures are treated as Tier 3 (aggregator/news-relayed) at best. VERIFIED (cited, cross-checked across >=2 sources): FY22 revenue Rs2005 Cr and PAT Rs269 Cr; FY23 revenue Rs2741 Cr (+37% YoY) and EBITDA Rs439 Cr (16% margin, vs Rs393 Cr/FY22); FY24 (year to Mar-2024) revenue Rs3781.10 Cr and net LOSS Rs100.45 Cr; FY25 (year to Mar-2025) revenue Rs3674.50 Cr and PAT Rs202.51 Cr; FY26 (year to Mar-2026) revenue ~Rs4019.95 Cr (+9.4%), reported net LOSS Rs382.94 Cr driven by a Rs556.24 Cr goodwill impairment and a Rs660.92 Cr standalone investment-impairment provision, adjusted EBITDA Rs477 Cr (12% margin), adjusted PAT ~Rs180 Cr, final dividend Rs2.50/share recommended; promoter (RHI Magnesita N.V.) holding stable ~56.1% through 2024-2026; company 'almost debt-free' with D/E ~0.06 and FY26 net-debt/EBITDA of -0.1x (net cash); ROCE ~7.24%, ROE ~5.16% (aggregator-reported, latest snapshot); ~30% India refractories market share claimed, with Vesuvius India, IFGL Refractories, Tata Krosaki Refractories as main listed peers; peer commentary notes RHIM can source raw material/technology from its global parent while Vesuvius/IFGL lean more on Chinese imports. RECONSTRUCTED (Tier 5, flagged, not to be used to clear any NAVY/binding gate): FY23 PAT (Rs230 Cr placeholder, only H1 FY23 PAT of Rs154.58 Cr was independently found), and the full depreciation/interest/OCF/capex/net-fixed-assets/CWIP/net-working-capital/total-debt/cash/net-worth/dividend/tax-rate lines for all five years, modeled from typical Indian industrial-manufacturing ratios (capex ~5% of revenue, net fixed assets ~35% of revenue, net working capital ~20% of revenue, cost of debt ~9%, tax rate 25%) and reverse-engineered to be broadly consistent with the verified D/E, net-debt/EBITDA and ROE anchors above -- these do NOT tie out exactly to aggregator ROCE/ROE figures and should not be read as precise. market.adtv_cr, sector_median_pe/pb and ten_year_gsec_yield are rough, unverified placeholders (Tier 5) for a name in this market-cap band, not sourced figures. JUDGEMENT CALLS: industry_context.phase set to MATURE (not INFLECTION) because, despite a genuine India-steel-output volume tailwind, no evidence of RHIM-specific share gain or profit-pool expansion was found (peer commentary says RHIM's relative share has been flat, not rising). moat_sources rated AMBER at best (switching costs, parent-relationship intangibles) and RED on pricing power/cost advantage, given repeated margin volatility and two net-loss years in five. variant_perception.answered is explicitly set to FALSE: a candidate 'market overreacts to a one-off non-cash impairment' thesis was tested and did not survive scrutiny (adjusted-earnings PE is still rich, and the operating-improvement evidence is a single quarter), so per the task's own instruction this is reported honestly as an unanswered N7 rather than an invented conviction call. m5_protocol_complete is set FALSE because this dossier was compiled solely from public web search under real tool/egress constraints, without primary-document review or an adversarial second pass."
+}

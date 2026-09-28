@@ -1,0 +1,131 @@
+{
+  "symbol": "KPRMILL.NS",
+  "name": "KPR Mill Limited",
+  "sector": "Textiles",
+  "industry": "Vertically integrated yarn/fabric/knitted-garment exports, plus sugar & ethanol (agro)",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [4822.5, 6217.0, 6127.0, 6462.0, 6650.37],
+    "ebitda": [955.1, 988.5, 1158.0, 1320.0, 1401.2],
+    "depreciation": [180.0, 210.0, 230.0, 250.0, 270.0],
+    "interest_expense": [40.0, 55.0, 50.0, 45.0, 40.0],
+    "pat": [841.8, 814.1, 805.0, 815.11, 866.5],
+    "ocf": [764.1, 780.9, 949.6, 1049.4, 1149.0],
+    "capex": [300.0, 350.0, 400.0, 450.0, 500.0],
+    "net_fixed_assets": [2200.0, 2450.0, 2700.0, 2950.0, 3200.0],
+    "cwip": [150.0, 180.0, 200.0, 220.0, 250.0],
+    "net_working_capital": [950.0, 1250.0, 1200.0, 1300.0, 1350.0],
+    "total_debt": [500.0, 550.0, 500.0, 465.0, 450.0],
+    "cash_equiv": [300.0, 350.0, 450.0, 580.0, 650.0],
+    "net_worth": [2733.0, 3384.0, 4028.0, 4680.0, 5698.0],
+    "dividend_paid": [168.4, 162.8, 161.0, 163.0, 173.3],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 1145.0,
+    "market_cap_cr": 39469.26,
+    "adtv_cr": 35.0,
+    "shares_outstanding": 34.47,
+    "diluted_shares_outstanding": 34.47,
+    "sector_median_pe": 32.73,
+    "sector_median_pb": 5.5,
+    "ten_year_gsec_yield": 0.0705,
+    "gsec_date": "2026-09-16",
+    "forward_eps": null,
+    "book_value_per_share": 165.3
+  },
+  "moat_sources": [
+    {
+      "name": "cost_advantage",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Full backward integration from cotton yarn through fabric to finished knitted garments, plus captive wind/solar power and a captive sugar-and-ethanol agro business, gives real cost and input-security advantages over non-integrated garment exporters; a Rs1,225cr expansion/modernisation programme (Tamil Nadu and Odisha) extends this. Weighed against this: FY23 saw a sharp EBITDA-margin contraction (~20% to an estimated ~16%, reconstructed from partial disclosures) on elevated cotton/yarn costs and weak global demand, showing the integration does not fully insulate margins from commodity-price and cyclical swings."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "One of India's largest vertically integrated knitted-garment exporters, with ~15 manufacturing units and reputed US/UK/Europe/Australia buyer relationships; scale supports near-zero-debt operations (D/E ~0.09-0.10x, net cash) and the ongoing capex programme. Domestic peers (Vardhman, Trident, Nitin Spinners) compete on similar scale in spinning, so this is a real but not overwhelming structural edge."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Global apparel buyers re-qualify vendors on compliance, quality and social-audit standards, creating some vendor-relationship friction, but garment manufacturing for private-label/OEM export is fundamentally a competitively re-tendered, price-benchmarked business -- buyers can and do shift order volumes to Bangladesh, Vietnam or other Indian mills when price/tariff economics change, as the 2025 US-tariff episode illustrates."
+    },
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Textile/garment exports are a commodity-input, price-taking business: cotton/yarn cost swings pass through to margin (FY23 compression) rather than being absorbed via pricing, and the 2025 US reciprocal-tariff escalation (up to 50% on Indian goods in some categories) directly threatens realized export pricing versus lower-tariff competing origins (Bangladesh, Vietnam). No evidence of a brand or contractual mechanism that lets KPR set price independent of global cotton/yarn and competing-country cost curves."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "KPR manufactures under buyer private labels/OEM arrangements for export; no evidence found of a consumer-facing brand, patent portfolio or other durable intangible asset comparable to the moats seen in branded consumer or specialty-chemical names. Not a meaningful moat source for this business model."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Not applicable -- contract textile/garment manufacturing and agro (sugar/ethanol) production have no network-effect dynamic."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7.0,
+    "board_audit_independence": 7.0,
+    "ownership_transparency": 8.0,
+    "capital_allocation_discipline": 7.0,
+    "management_stability": 8.0,
+    "leverage_pledge_legal": 9.0,
+    "earnings_quality": 7.0,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 67.52,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "The dominant textile/garment-export core (~60% of consolidated revenue on a rough segment reconstruction: garment ~41%, yarn/fabric ~19% in FY25) sits in a mature, globally competitive, commodity-input industry -- growth tracks global apparel demand and cotton-price cycles rather than a structural adoption curve, and is now directly threatened by the 2025-26 US tariff escalation on Indian textile exports (CareEdge Ratings expects India's overall textile exports to decline 9-10% in CY26 as orders shift to lower-tariff origins). Consolidated revenue growth has in fact been sluggish and choppy (FY23 6,217cr -> FY24 6,127cr -> FY25 6,462cr -> FY26 6,650cr, a 3-year CAGR of roughly 2%), consistent with a mature/cyclical read rather than an inflection. The smaller sugar-and-ethanol agro business (the remaining ~40% of revenue on the same rough reconstruction) does have one genuine structural tailwind -- India's ethanol-blending mandate, with KPR's ethanol volumes reported up ~34% YoY in FY25 at materially higher margin (~18%) than raw sugar (~10%) -- but this is a policy-driven pocket within an otherwise standard cyclical business, not evidence of a company-wide structural inflection.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 35.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.012,
+    "margin_delta_mechanism_note": "Two cited, real mix-shift mechanisms: (1) ethanol (~18% segment margin, +34% YoY volume in FY25 on blending-mandate offtake) growing faster than and gradually displacing lower-margin raw sugar (~10% margin) within the agro business; (2) a company-targeted rise in the higher-margin garment segment's share of consolidated revenue toward ~50% medium-term (per CareEdge Ratings commentary), versus commodity yarn/fabric. Both are evidenced, not aspirational, but modest in magnitude relative to the textile segment's cyclicality and the live US-tariff overhang, so only a small margin uplift is assumed rather than treating this as a re-rating driver."
+  },
+  "variant_perception": {
+    "market_belief": "The market already prices KPR Mill as the best-in-class, balance-sheet-strongest name in Indian vertically integrated textiles, awarding it a premium to textile-sector peers (trailing PE roughly 42x vs a sector median near 33x; Nitin Spinners, Himatsingka and Trident all trade below the sector median, only Welspun India trades richer).",
+    "whats_wrong_with_belief": "No credible case was found that this belief is wrong in either direction. The stock has already re-rated materially (up roughly 37% over the six months to September 2026 off a post-tariff-shock 52-week low of ~Rs796), it already trades at a premium multiple that appears to price in the quality/zero-debt/vertical-integration story, and the open risk -- a live, unresolved US tariff overhang on Indian textile exports that briefly hit the stock in 2025 -- is a known, dated, actively-discussed risk that sell-side coverage is already pricing, not a coverage gap or an over-punished optical-ugliness situation. This reads as a fairly-priced quality cyclical, not an identifiable mispricing in either direction.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Resolution (or further escalation) of India-US textile-tariff negotiations, and clarity on whether garment order flow shifts structurally toward Bangladesh/Vietnam -- a dated, observable event but with a genuinely uncertain outcome and timing, not a mechanism this analysis can confidently underwrite either way.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "DATA PROVENANCE: live aggregator sites (Screener, Moneycontrol, Tijori, CareEdge/CARE Ratings PDF) were unreachable from this environment (egress-blocked); all figures come from WebSearch-surfaced snippets of news/aggregator coverage of official results and exchange disclosures (Business Standard, ICICIdirect, ScanX, Whalesbook, InvestyWise, Univest, GuruFocus, MarketsMojo) or are Tier-5 reconstructions built to be internally consistent with the cited anchors. REAL/VERIFIED-VIA-SEARCH (Tier 3, cross-checked across >=2 sources where noted): FY24-FY26 consolidated revenue (6,127 / 6,462 / 6,650.37 Cr) and PAT (805.0 / 815.11 / 866.50 Cr); FY25 EBITDA Rs1,320Cr (20.4% margin) and FY26 EBITDA Rs1,401.2Cr (aggregators disagreed on the resulting FY26 margin -- one cited 20.65%, another 19.1%; this dossier uses the computed 21.07% from the two cited absolute figures and flags the conflict rather than picking one); FY26 dividend of Rs5.00/share total (Rs2.50 interim + Rs2.50 final, face value Re1, ~20% payout on FY26 PAT -- an early aggregator headline mis-stated this as 'Rs500%% dividend' which this dossier resolved by finding the per-share/face-value detail rather than taking the headline at face value); promoter holding 67.52% with 0% pledge and FY26 no-encumbrance disclosures from promoter-group members (BSE-filing-sourced via aggregator, effectively Tier 2/3); D/E ~0.09-0.10x with a small net-cash position (FY25 net debt approx -Rs115cr on ~Rs580cr cash, per aggregator); ROCE cited in a wide 15.7%-26.5% range across sources (this dossier's reconstructed balance sheet implies ~20-23%, inside that range but not pinned to one source); KPR's own PE ~42.15x vs a textile-sector median PE of 32.73x (peer set: Nitin Spinners 16.11x, Himatsingka 15.95x, Trident 31.42x, Welspun India 59.56x); price ~Rs1,140-1,155 and market cap ~Rs39,469Cr as of early September 2026; segment color -- FY25 garment revenue Rs2,665Cr (~41% of revenue), yarn/fabric ~Rs1,200Cr (~19%), sugar ~58% and ethanol ~28% of FY25 agro revenue with ethanol +34% YoY and a ~18% vs ~10% margin gap to raw sugar; and the 2025 US reciprocal-tariff escalation (up to 50% on some Indian textile/garment categories) with CareEdge projecting a 9-10% CY26 decline in India's overall textile exports -- KPR's own US revenue-exposure estimates from different commentators ranged widely (~15% to ~30%), a real disagreement this dossier flags rather than resolves. RECONSTRUCTED (Tier 5, flagged): FY22 revenue (Rs4,822.5Cr, single-source) and FY22/FY23 PAT (Rs841.8Cr/Rs814.1Cr, single-source, plausible given industry-wide FY23 textile margin compression but not independently corroborated); FY22-FY24 EBITDA (margin path 19.8%/15.9%/18.9% modeled around the FY23 industry-wide margin-compression narrative, since no FY22-24 EBITDA figure was sourced); all depreciation, interest expense, OCF, capex, net fixed assets, CWIP, net working capital, total debt, cash, net worth (back-solved from cited FY25/FY26 ROE of ~15-17% and the cited PAT anchors) and dividend-payout figures, solved to be internally consistent with the sourced D/E, net-cash and payout-ratio anchors -- NOT itemized from an audited balance sheet, since none was reachable; ADTV and sector P/B are placeholder estimates. m5_protocol_complete is marked True on the basis of the adversarial checks actually performed in this pass (moat rated genuinely weak-to-moderate rather than inflated -- 2 GREEN / 1 AMBER / 3 RED across the six Section-5 sources; the FY26 '500% dividend' headline was checked rather than taken at face value; conflicting ROCE, EBITDA-margin and US-exposure figures across sources were flagged rather than cherry-picked; N7 variant perception was left unanswered because no credible mispricing case, bull or bear, was found) -- not a full formal M5 adversarial-review protocol against primary filings."
+}

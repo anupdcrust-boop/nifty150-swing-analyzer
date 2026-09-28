@@ -1,0 +1,222 @@
+{
+  "symbol": "DIVISLAB.NS",
+  "name": "Divi's Laboratories Limited",
+  "sector": "Pharmaceuticals",
+  "industry": "Active Pharmaceutical Ingredients (API) / CRAMS",
+  "financials": {
+    "years": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "revenue": [
+      2950.922524648059,
+      3127.9778761269426,
+      3315.6565486945597,
+      3514.595941616233,
+      3725.4716981132074,
+      3949.0
+    ],
+    "ebitda": [
+      1003.3136583803401,
+      1063.5124778831605,
+      1127.3232265561503,
+      1194.9626201495194,
+      1266.6603773584907,
+      1342.66
+    ],
+    "depreciation": [
+      162.3007388556433,
+      172.03878318698187,
+      182.36111017820082,
+      193.30277678889286,
+      204.90094339622644,
+      217.19500000000002
+    ],
+    "interest_expense": [
+      3.9837454082748796,
+      4.222770132771372,
+      4.476136340737655,
+      4.744704521181914,
+      5.029386792452829,
+      5.331149999999999
+    ],
+    "pat": [
+      649.3673522206035,
+      688.3293933538397,
+      729.6291569550702,
+      773.4069063723744,
+      819.8113207547169,
+      869.0000000000001
+    ],
+    "ocf": [
+      802.6509267042721,
+      850.8099823065285,
+      901.8585812449203,
+      955.9700961196155,
+      1013.3283018867926,
+      1074.1280000000002
+    ],
+    "capex": [
+      354.1107029577671,
+      375.3573451352331,
+      397.87878584334715,
+      421.751512993948,
+      447.05660377358487,
+      473.88
+    ],
+    "net_fixed_assets": [
+      1623.0073885564327,
+      1720.3878318698187,
+      1823.611101782008,
+      1933.0277678889283,
+      2049.009433962264,
+      2171.9500000000003
+    ],
+    "cwip": [
+      147.54612623240297,
+      156.39889380634713,
+      165.782827434728,
+      175.72979708081166,
+      186.27358490566039,
+      197.45000000000002
+    ],
+    "net_working_capital": [
+      1032.8228836268206,
+      1094.79225664443,
+      1160.4797920430958,
+      1230.1085795656816,
+      1303.9150943396226,
+      1382.1499999999999
+    ],
+    "total_debt": [
+      44.26383786972089,
+      46.91966814190414,
+      49.73484823041839,
+      52.7189391242435,
+      55.88207547169811,
+      59.235
+    ],
+    "cash_equiv": [
+      118.03690098592237,
+      125.1191150450777,
+      132.62626194778238,
+      140.58383766464934,
+      149.0188679245283,
+      157.96
+    ],
+    "net_worth": [
+      1623.0073885564327,
+      1720.3878318698187,
+      1823.611101782008,
+      1933.0277678889283,
+      2049.009433962264,
+      2171.9500000000003
+    ],
+    "dividend_paid": [
+      227.2785732772112,
+      240.91528767384386,
+      255.37020493427457,
+      270.692417230331,
+      286.9339622641509,
+      304.15000000000003
+    ],
+    "tax_rate": [
+      0.24,
+      0.24,
+      0.24,
+      0.24,
+      0.24,
+      0.24
+    ]
+  },
+  "market": {
+    "price": 721.4,
+    "market_cap_cr": 19116.6,
+    "adtv_cr": 15.0,
+    "shares_outstanding": 26.5,
+    "diluted_shares_outstanding": 26.5,
+    "sector_median_pe": 28.0,
+    "sector_median_pb": 5.5,
+    "ten_year_gsec_yield": 0.078,
+    "gsec_date": "2018-06-30",
+    "forward_eps": null,
+    "book_value_per_share": null
+  },
+  "moat_sources": [
+    {
+      "name": "cost_advantage",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": ">300bps EBITDA margin premium to API peers on process-chemistry efficiency"
+    },
+    {
+      "name": "switching_costs",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Multi-year qualification cycles with global innovator pharma customers"
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Process-patent / custom-synthesis know-how, management-narrative only at this tier"
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 9,
+    "board_audit_independence": 8,
+    "ownership_transparency": 9,
+    "capital_allocation_discipline": 9,
+    "management_stability": 9,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 8,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 51.9,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "Global generic-API supply-chain diversification away from China beginning to accelerate (pre-dates the COVID-era 'China+1' term)",
+    "addressable_profit_pool_cr": 9000.0,
+    "current_profit_share_pct": 9.0,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 4.0,
+    "horizon_years": 3,
+    "assumed_exit_pe": 35.0,
+    "own_10y_75th_pctile_pe": 38.0,
+    "sector_10y_75th_pctile_pe": 36.0,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.06,
+    "margin_delta_mechanism_note": "Capacity-utilisation recovery post-USFDA resolution and generic-API mix normalising back toward higher-margin custom synthesis"
+  },
+  "variant_perception": {
+    "market_belief": "Priced as a USFDA-overhang API name with an unresolved compliance issue",
+    "whats_wrong_with_belief": "The Vizag import alert is a resolvable compliance remediation, not a structural moat impairment -- underlying process-chemistry cost advantage and customer relationships are intact through the disruption",
+    "persistence_mechanism": "Optical ugliness -- a regulatory headline the market extrapolates further than the underlying fundamentals warrant",
+    "m3_edge": "behavioural_discipline",
+    "gap_closing_event": "USFDA re-inspection and import-alert lift (dated, observable)",
+    "reverse_dcf_implied_growth": null,
+    "answered": true
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": true,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "Anchors (FY18 revenue/PAT) verified via web search. Backcast years assume a depressed 6% CAGR reflecting the real FY17-18 USFDA-driven slowdown; other figures modeled from typical API-industry capital intensity."
+}

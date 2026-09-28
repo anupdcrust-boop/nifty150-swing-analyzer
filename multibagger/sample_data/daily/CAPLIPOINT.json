@@ -1,0 +1,131 @@
+{
+  "symbol": "CAPLIPOINT.NS",
+  "name": "Caplin Point Laboratories Limited",
+  "sector": "Pharmaceuticals",
+  "industry": "Branded generics (Latin America / Francophone Africa direct distribution) + US ANDA / sterile injectables (Caplin Steriles)",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [1308.0, 1523.0, 1759.0, 2034.0, 2303.0],
+    "ebitda": [392.4, 487.4, 598.1, 711.9, 840.6],
+    "depreciation": [20.0, 25.0, 34.0, 43.0, 52.0],
+    "interest_expense": [3.0, 3.5, 4.0, 4.5, 5.0],
+    "pat": [308.0, 377.0, 461.0, 536.0, 650.0],
+    "ocf": [333.5, 414.3, 508.4, 605.1, 714.5],
+    "capex": [30.0, 75.0, 124.0, 133.0, 142.0],
+    "net_fixed_assets": [200.0, 250.0, 340.0, 430.0, 520.0],
+    "cwip": [65.0, 76.0, 88.0, 102.0, 115.0],
+    "net_working_capital": [170.0, 200.0, 230.0, 260.0, 300.0],
+    "total_debt": [15.0, 18.0, 20.0, 22.0, 25.0],
+    "cash_equiv": [650.0, 850.0, 1050.0, 1250.0, 1471.0],
+    "net_worth": [2014.3, 2544.6, 3119.3, 3617.6, 4367.0],
+    "dividend_paid": [21.6, 26.4, 32.3, 37.5, 46.2],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 2770.0,
+    "market_cap_cr": 21056.0,
+    "adtv_cr": 50.0,
+    "shares_outstanding": 7.7,
+    "diluted_shares_outstanding": 7.71,
+    "sector_median_pe": 32.0,
+    "sector_median_pb": 5.5,
+    "ten_year_gsec_yield": 0.0702,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": 567.1
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Branded-generic realizations in Latin America/Francophone Africa are generally believed to be less price-regulated than India's DPCO regime, supporting decent unit economics on off-patent molecules -- but this is general industry-structure knowledge, not a country-by-country pricing study specific to Caplin, and was not independently re-verified via search this session. No evidence of active price increases or erosion found either way, so held at AMBER/HOLDING rather than upgraded on inference alone."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Caplin's model of direct front-line sales/marketing to pharmacies (rather than third-party distributors) across ~20+ Latin American/African markets requires multi-year, country-by-country drug-registration filings for every SKU -- a genuine, structural re-entry cost for competitors that is well documented in general coverage of the company but not independently re-verified with primary filings in this session. The FY26 push into US ANDAs (10 approvals + 15 acquired in Jan 2026, largely unlaunched) extends this registration-driven moat into a second, regulated market."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Not applicable -- branded-generic manufacturing and pharmacy distribution has no network-effect dynamic (value to one customer does not rise with the number of other customers). Structurally absent for this business model."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Caplin's widely reported cash-and-carry / advance-payment distribution model in Latin America (avoiding the extended receivable cycles typical of distributor-led generics exporters) is consistent with the searched facts of a debt-to-equity ratio below 0.01, ~Rs1,471 Cr of free cash and ~Rs2,726 Cr total liquid assets as of Mar-2026, and a ROCE commonly cited in the 26-29% range -- but the receivable-days/cash-conversion claim itself rests on general knowledge of the company's model rather than a primary balance-sheet pull in this session, so it is tagged Tier 4 (management-narrative-consistent) rather than Tier 1-2."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "A large, accumulated base of country-specific product registrations across Latin America/Africa (built over ~2 decades) plus a fast-growing US ANDA portfolio (10 approvals in FY26, 15 ANDAs acquired Jan-2026 for injectable/ophthalmic products targeting a disclosed $473.2M addressable market, per company press releases) represent real, hard-to-replicate regulatory IP. Exact registration counts were not independently re-verified this session; rated on the disclosed ANDA activity, which is real and dated."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Caplin is one of the larger Indian-origin players focused specifically on the Latin America/Francophone Africa branded-generics niche, but the global generics and US sterile-injectables markets it is now entering are large and fragmented with well-capitalized incumbents -- scale is a real but modest and largely regional advantage, not an efficient-scale barrier that deters entry at the global level."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 7,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 7,
+    "management_stability": 8,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 70.57,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "The core Latin America/Francophone Africa branded-generics business (~80% of FY26 revenue) is explicitly guided by management as a MATURE, steady-state business -- 'industry-average margins and benchmark cashflows' with a self-described 18-24 month 'consolidation phase' of low-double-digit growth (Q3 FY26 earnings call). But the smaller, faster-growing US ANDA/sterile-injectables piece (Caplin Steriles) is a genuine, evidenced inflection: FY26 US revenue reached ~Rs471 Cr (28.7% YoY growth, ~20% of consolidated revenue) on top of 10 new ANDA approvals plus 15 ANDAs acquired in Jan-2026 (targeting a disclosed $473.2M addressable market), with management guiding 25-30% growth for the Caplin Steriles business in FY27 and a target to double US own-label revenue from Rs100 Cr to Rs200 Cr. Management itself frames larger consolidated gains as coming 'from FY2028 onward' once this new capacity/registration base matures -- i.e. a real but still-early, disclosed and dated inflection rather than one already visible in the blended top line.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 3.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 32.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.015,
+    "margin_delta_mechanism_note": "COGS as a percentage of consolidated revenue is reported (Q3 FY26 earnings call commentary) to have fallen from ~43% to ~39% over the trailing three years as scale and product mix improve. Management separately describes the newly built US injectables facility (Caplin Steriles) as running on a largely fixed cost base that is already absorbed, implying incremental US revenue (guided 25-30% growth for FY27) should convert at a materially higher marginal margin than the core LatAm business. The modelled +1.5pt/yr EBITDA-margin-delta CAGR is a deliberately conservative extrapolation of the observed 3-year trend, not a number management has itself forecast; if the US operating-leverage effect fails to materialize as guided, this term should be zeroed out and the bridge re-run on revenue growth alone per the 6A protocol."
+  },
+  "variant_perception": {
+    "market_belief": "The stock trades at a full-but-not-extreme ~33x trailing PE (price Rs2,770 / FY26 basic EPS Rs84.36), roughly in line with the broader Indian pharma sector median -- consistent with the market pricing Caplin as a steady, already-fairly-valued LatAm generics compounder that management itself says is entering an 18-24 month low-double-digit-growth 'consolidation phase'.",
+    "whats_wrong_with_belief": "The current multiple appears to price the near-term guided slowdown in the base LatAm business but does not obviously isolate or reward the operating leverage the newly commissioned Caplin Steriles (US injectables) facility should deliver as it scales: management states its cost base is largely fixed and already absorbed, US revenue is already the fastest-growing and highest-multiple-worthy piece of the business (Rs471 Cr in FY26, +28.7% YoY, ~20% of revenue), and management has given specific, dated targets (25-30% FY27 Caplin Steriles growth; own-label US revenue doubling from Rs100 Cr to Rs200 Cr; consolidated re-acceleration guided 'from FY2028 onward'). This is a real, sourced mechanism, not a certainty -- it depends entirely on management executing the FY27-28 ramp as guided, which is genuine execution risk, not a market misunderstanding of facts already disclosed.",
+    "persistence_mechanism": "A structurally tiny free float (promoter holding 70.57%, FII+DII combined roughly 8%) caps the assets under management many institutional mandates can deploy here regardless of fundamentals, and the market's own guided 18-24 month 'boring' growth window discourages short-horizon capital from waiting through it -- a genuine mismatch between the multi-year US-scaling thesis's payoff horizon and the holding period of most active capital that would otherwise re-rate it.",
+    "m3_edge": "time_horizon",
+    "gap_closing_event": "Caplin Steriles (US injectables) crossing a management-disclosed scale/margin threshold -- e.g. US own-label revenue doubling from Rs100 Cr to Rs200 Cr, or consolidated growth re-accelerating into the 20%+ range guided for FY2028 -- would be the dated, observable event that tests this thesis.",
+    "reverse_dcf_implied_growth": null,
+    "answered": true
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DATA QUALITY (be precise about what is and isn't verified): Revenue and PAT for FY23 (Rs1,523 Cr / Rs377 Cr) and FY26 (Rs2,303 Cr / Rs650 Cr, +13.2%/+20.1% YoY, EPS Rs84.36) are real, search-sourced figures corroborated across multiple aggregator/media snippets (Tier 3/5 -- Screener, Trendlyne, InvestyWise, Yahoo Finance earnings-call summaries; the company's own site and Screener itself were both blocked by the network egress proxy in this environment, so nothing here was pulled from an audited primary filing). FY22, FY24 and FY25 revenue/PAT are Tier 5 RECONSTRUCTIONS backed-and-forward from the FY23/FY26 anchors using the specific YoY growth rates that were search-sourced for those years (FY24 revenue +15.5%, PAT margin 25.7%->27.2%; FY25 PAT +17% YoY) -- internally consistent with each other but not independently each verified. The ENTIRE balance-sheet series (depreciation, interest, net fixed assets, CWIP, net working capital, total debt, net worth) is a Tier 5 reconstruction built only from a handful of REAL anchors: FY26 free cash ~Rs1,471 Cr and total liquid assets ~Rs2,726 Cr (search-sourced), debt-to-equity <0.01 (search-sourced, debt-free), and a commonly cited ROCE band of 26-29% (search-sourced but not year-specific) used to back-solve a plausible net-worth series -- this is a reconstruction technique, not a balance-sheet pull, and should not be treated as audited. Promoter holding (70.57%, stable quarter-over-quarter per Trendlyne-sourced shareholding pattern) and dividend payout ratio (~7%, search-sourced) are real, search-sourced but Tier 3/5. Market price (Rs2,770), market cap (~Rs21,056 Cr) are real but Tier 5 (search-engine snippets citing early-September-2026 broker/portal pages, not a live quote pulled by this tool -- FMP's quote/statements/company endpoints all returned ACCESS DENIED on the plan available in this session). Shares outstanding (~7.7 Cr) is derived arithmetically from FY26 PAT/EPS and cross-checked against market-cap/price, not sourced directly. Sector median PE/PB (32x/5.5x), ADTV (Rs50 Cr/day) and the 10-year G-sec yield (7.02%, dated 2026-09-11, reused from the same day's DEEPAKNTR dossier for consistency) are Tier 5 analyst estimates, not verified this session. Promoter pledge is assumed 0% (consistent with a debt-free balance sheet and no adverse pledge reports surfacing in search) but was not directly confirmed via a shareholding-pattern pull. addressable_profit_pool_cr / current_profit_share_pct and both 10y-75th-percentile PE fields are left null rather than invented -- no credible sector-profit-pool or historical-PE-band data was sourced for this name in this session. m5_protocol_complete is honestly set to False: this is a single-pass, web-search-based reconstruction constrained by a blocked egress proxy (screener.in, caplinpoint.net, and the substack deep-dive on this name were all unreachable), not an adversarial multi-analyst review with primary-source verification. variant_perception.answered is set to True because a specific, dated, sourced mechanism (US injectables fixed-cost operating leverage + tiny free float) was constructible -- but it is explicitly flagged as execution-dependent and should be read as a moderate-conviction, not a high-conviction, mispricing claim."
+}

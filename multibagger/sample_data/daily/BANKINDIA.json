@@ -1,0 +1,131 @@
+{
+  "symbol": "BANKINDIA.NS",
+  "name": "Bank of India",
+  "sector": "Financials",
+  "industry": "Public-sector bank -- pan-India retail, MSME, agri and corporate banking, with one of the largest overseas branch networks (~20 countries) among Indian PSU banks; ex-divergence, multi-year asset-quality turnaround name headquartered in Mumbai",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [60415.0, 66457.0, 73102.0, 80412.44, 85649.56],
+    "ebitda": [25978.5, 28576.5, 31433.9, 34577.3, 36829.3],
+    "depreciation": [846.0, 930.0, 1023.0, 1126.0, 1199.0],
+    "interest_expense": [34436.6, 37880.5, 41668.1, 45835.1, 48820.3],
+    "pat": [2221.0, 4023.0, 6318.0, 9219.0, 10527.0],
+    "ocf": [2443.1, 4425.3, 6949.8, 10140.9, 11579.7],
+    "capex": [555.25, 1005.75, 1579.5, 2304.75, 2631.75],
+    "net_fixed_assets": [2887.3, 5229.9, 8213.4, 11984.7, 13685.1],
+    "cwip": [144.4, 261.5, 410.7, 599.2, 684.3],
+    "net_working_capital": [144.4, 261.5, 410.7, 599.2, 684.3],
+    "total_debt": [62371.4, 71103.2, 81057.2, 92404.2, 105333.2],
+    "cash_equiv": [15592.9, 17775.8, 20264.3, 23101.1, 26333.3],
+    "net_worth": [44550.9, 50787.5, 57897.5, 66003.0, 75238.0],
+    "dividend_paid": [0.0, 910.6, 1365.9, 2048.9, 2117.2],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 141.20,
+    "market_cap_cr": 64128.88,
+    "adtv_cr": 65.0,
+    "shares_outstanding": 455.3,
+    "diluted_shares_outstanding": 455.3,
+    "sector_median_pe": 7.43,
+    "sector_median_pb": 1.32,
+    "ten_year_gsec_yield": 0.0695,
+    "gsec_date": "2026-09-18",
+    "forward_eps": null,
+    "book_value_per_share": 165.21
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Global CASA ratio fell from ~40.28% (Mar-2025) to ~37.64% (Mar-2026), a genuine ~2.6pp YoY erosion consistent with a sector-wide 'CASA under pressure' trend, not BOI-specific resilience. FY25 domestic/global NIM was ~3.10%/2.82% -- unremarkable, no evidenced NIM premium versus peers. BOI's CASA level is itself lower than the ~41.46% domestic CASA this framework found for IOB the same week, despite BOI being the larger bank -- if anything a weaker low-cost-deposit franchise, not a stronger one. Rated AMBER (real but eroding), not GREEN."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Carries the long-tenure retail/government-salary/pension account base typical of any legacy PSU bank -- real but generic friction, not BOI-specific, and UPI/e-KYC portability is lowering switching costs industry-wide (same conclusion reached for IOB). BOI's ~20-country overseas branch network gives it a real, if narrow, additional pool of NRI-remittance and trade-finance relationships that a purely domestic PSU bank (e.g. IOB) does not have -- but no evidence was found this session that this converts into superior retention, NIM or fee yield versus peers, so it lifts the evidence, not the rating. AMBER, not GREEN."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Deposit-taking and lending do not get structurally more valuable per customer as more customers join; UPI/NPCI rails are shared industry infrastructure, not a BOI-specific network effect. Structurally absent, same conclusion as for any single-bank name in this framework (SBI, IOB, the SFB cohort included)."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No Tier 1-3 evidence found this session of a cost-to-income advantage versus peers. BOI's own FY22 RBI-identified divergence in asset classification and provisioning (Rs1,819 Cr of additional provisioning, cutting reported FY22 net profit from a first-announced Rs3,405 Cr to a final Rs2,221 Cr) argues against a structural cost or underwriting edge -- the opposite signal, in fact. Recent profit growth (PAT roughly 5x from FY22 to FY26) is a recovery off a severely NPA-distressed base (Gross NPA ~9.98% FY22), not a demonstrated structural cost edge. Rated RED rather than manufacturing a moat this bank has not evidenced."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No patent, unique licence or monetised brand premium beyond the industry-wide universal banking licence. BOI does not carry SBI's systemic-importance/flight-to-safety halo. Its international franchise is a real scale feature (captured under efficient_scale below) but no evidence was found this session that it commands a trust or pricing premium, and the FY22 RBI provisioning-divergence episode is a mild negative signal on reported-earnings trust, not a positive one. Rated RED."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "BOI is a genuinely large bank -- global business ~Rs16.98 lakh Cr (Mar-2026), roughly 2.5x IOB's ~Rs6.79 lakh Cr the same week -- and one of a small handful of Indian PSU banks with a substantial overseas branch network (~20 countries), a real scale/franchise feature IOB and most mid-tier PSU peers lack. This is rated AMBER rather than RED (unlike IOB, which was rated RED here) because the scale differential is real and evidenced by business volume, not asserted. It stops short of GREEN because no evidence was found this session that this scale converts into superior unit economics -- BOI's P/E (~6.3x) and P/B (~0.72-0.85x) sit at a discount to, not a premium over, the Nifty PSU Bank index median (~7.43x/1.32x), and its CASA/NIM profile is unremarkable versus peers of similar or smaller size."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 6,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 5,
+    "management_stability": 5,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 5,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 73.38,
+    "promoter_holding_3y_direction": "FALLING",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Indian banking overall is a large, mature, competitively saturated industry (system credit growth ~12-15%/yr). BOI itself is in a genuine multi-year asset-quality turnaround: Gross NPA fell from ~9.98% (FY22) to ~1.81% (Jun-2026), Net NPA from ~2.34% to ~0.51% over the same window, CRAR stands at a healthy ~18.69% (Jun-2026), and FY26 standalone PAT of ~Rs10,527 Cr is roughly 4.7x FY22's RBI-divergence-adjusted Rs2,221 Cr. This is, again, a recovery off a distressed base (double-digit Gross NPA as recently as FY22) rather than a documented 3-consecutive-year revenue-CAGR-above-sector share gain -- BOI's recent above-system advances growth (~15.82% YoY FY26) is plausibly systemwide-credit-cycle and low-base-normalisation driven, shared by essentially every PSU bank this framework has looked at this cycle (SBI, IOB, the SFB cohort), not BOI-specific share capture. Classified MATURE with share-gain NOT established with confidence -- this caps the name at Steady Compounder under Section 6A rather than Multibagger Candidate.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": false
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 8.5,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.02,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "No Tier 1-3 margin-trend series was pulled this session to evidence a structural NIM/fee-income margin delta distinct from the ordinary credit-cost normalisation already realised since the FY22 divergence low; per the Section 6A/5e v2.2 rule an unevidenced margin delta is set to zero rather than assumed."
+  },
+  "variant_perception": {
+    "market_belief": "The market prices BOI as a large but unexceptional PSU bank whose NPA cycle has turned (Gross NPA ~1.81%, Net NPA ~0.51% as of Jun-2026, PAT up ~4.7x since the FY22 RBI-divergence low), and -- unlike some smaller PSU peers -- assigns it a P/E (~6.3x) and P/B (~0.72-0.85x) that sit at a discount to, not a premium over, the Nifty PSU Bank index median (~7.43x P/E, ~1.32x P/B, Sep-2026).",
+    "whats_wrong_with_belief": "I could not construct a credible, evidenced case that this discount-to-peer valuation is a hidden mispricing rather than a fair, or even generous, price for what it is. BOI is a large, well-covered, reasonably liquid name (public float ~26.6% of shares, an order of magnitude more liquid than IOB) -- this is not a coverage-neglect setup. Plausible, non-manufactured reasons for the discount that this session's evidence does not rule out: (a) a CASA ratio (~37.64%) that is both declining and lower than several peers, including IOB's; (b) the FY22 RBI-identified provisioning divergence (Rs1,819 Cr), a real, disclosed earnings-quality event that the market may reasonably still be pricing a residual discount for; (c) BOI's large overseas book, which typically carries thinner margins and incremental forex/geopolitical risk versus a purely domestic lender. None of these was disproven this session, and none of the moat sources scored GREEN or BUILDING. Unlike IOB, BOI does NOT carry a live minimum-public-shareholding overhang -- it is one of the PSU banks already reported compliant with SEBI's 25% norm (promoter/government stake ~73.38% as of Jun-2026, below the 75% ceiling, down from 81.41% post its Aug-2021 QIP and 90.34% before that), and it was not among the four PSU banks (Indian Overseas Bank, UCO Bank, Punjab & Sind Bank, Central Bank of India) reported this quarter as seeking a further MPS deadline extension. That removes one real, near-term supply overhang IOB carries, but the absence of a specific negative catalyst is not itself an investable variant-perception thesis.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence. A credible bull catalyst would require either (a) evidence that the peer-relative valuation discount is unwarranted -- e.g. a demonstrated CASA/NIM stabilisation or a cost-of-funds edge versus similarly-sized PSU peers -- or (b) a specific, dated re-rating catalyst distinct from the NPA-cycle recovery already visible in the numbers. Neither was evidenced from the partial, search-only data gathered this session.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "other",
+  "is_turnaround": true,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": false,
+  "notes": "BFSI name -- is_regulated_utility_or_bfsi=True per the G1/Section 5e/6B BFSI carve-outs in FRAMEWORK_v2.2_FULL.md; industry_context.addressable_profit_pool_cr left null since a lender has no product-market TAM concept, per the v2.2 6B implementation note. 'ebitda' in the financials series is a rough NII + non-interest/fee-income proxy (revenue minus a modelled interest_expense at a flat ~57% of revenue), not comparable to a non-financial company's EBITDA and not filing-verified line-by-line -- same convention used for BAJFINANCE.json/IOB.json/SBIN.json/SOUTHBANK.json in this repo. THIS IS THE FOURTH PSU/public-sector-heritage bank screened this week (after SBI, IOB, and the SFB cohort) -- findings below are compared against IOB specifically since both are recent-NPA-cycle-turnaround, government-owned, Nifty-Smallcap/Midcap-adjacent PSU banks, not treated as a generic template. DATA QUALITY -- WELL-SOURCED (Tier 3, cross-corroborated via multiple independent press/aggregator search results this session, standalone basis unless noted): FY26 standalone PAT Rs10,527 Cr (+14.19% YoY, matches FY25's Rs9,219 Cr exactly); FY25 PAT Rs9,219 Cr (+45.9% YoY vs FY24's Rs6,318 Cr, matches an independently reported '+57% YoY FY23->FY24' and '+46% YoY FY24->FY25' framing); FY24 PAT Rs6,318 Cr; FY23 PAT Rs4,023 Cr; FY22 PAT Rs2,221 Cr (RBI-identified divergence of Rs1,819 Cr cut this from an originally-reported Rs3,405 Cr -- a real, disclosed earnings-quality event, not smoothed over here); FY26 total income ~Rs85,649.56 Cr (+6.51% YoY from FY25's ~Rs80,412.44 Cr) -- these two years only are directly filed/press-quoted gross Total Income figures; FY24 NII ~Rs23,053 Cr (+14% YoY from FY23's ~Rs20,275 Cr), FY24 non-interest income ~Rs6,095 Cr (vs FY23's ~Rs7,100 Cr) -- a real net-total-income data point on a different (net) basis from the FY25/26 gross figures, both are reported here rather than force-fit into one series; Gross NPA improved from ~9.98% (FY22) to ~1.81% (Jun-2026 / Q1FY27), Net NPA from ~2.34% to ~0.51% over the same window; CRAR ~18.69% (30-Jun-2026), well above regulatory minimums, broadly in line with the ~16-17% Tier-1/~19-20% total CRAR range reported across FY23-Q1FY25 snapshots; CASA ratio (global) ~40.28% (Mar-2025) declining to ~37.64% (Mar-2026), a genuine ~2.6pp YoY erosion; domestic/global NIM ~3.10%/2.82% (FY25); FY26 dividend Rs4.65/share (payout described by one source as '46.5%', which this session's own arithmetic (Rs1,553.5 Cr paid to a ~73.38%-holding government implies ~Rs2,117 Cr total dividend against Rs10,527 Cr PAT, i.e. ~20%) does not corroborate -- the 46.5% headline figure is treated as unreliable and NOT used; FY25 dividend Rs4.50/share, Rs1,353.05 Cr paid to GoI; FY23 dividend Rs2.00/share (record date Jun-2023); no FY22 dividend found (consistent with PSU banks broadly resuming payouts from FY23); government/promoter shareholding ~73.38% as of the Jun-2026 quarter (Indian promoter shareholding per an IIFL/IndiaInfoline-sourced pattern), down from ~81.41% after an Aug-2021 QIP (which itself cut the stake from ~90.34%) -- this is BELOW the 75% ceiling implied by SEBI's 25% minimum-public-shareholding norm, and BOI is reported as one of the PSU banks already compliant with the norm as of Mar-2024, NOT among the four (Indian Overseas Bank, UCO Bank, Punjab & Sind Bank, Central Bank of India) named this quarter as seeking a further deadline extension beyond Aug-2026 -- this is the key, genuinely different finding versus IOB's live ~92.44%-government/non-compliant situation found earlier this week, and is reported plainly rather than assumed to generalise from the IOB case; current price ~Rs141.20 (a ~Rs141-178 range appeared across sources dated within the same week -- Sep-2026 -- and is treated as ordinary cross-source/intraday noise, not reconciled to a single tick); market cap ~Rs64,128.88 Cr; shares outstanding ~455.3 Cr (~4.55 billion, cross-checked against market-cap/price back-calculation); P/E ~6.31x, book value per share ~Rs165.21 implying P/B ~0.72-0.85x depending on source (one source's P/B of 0.72 does not fully reconcile with price/BVPS as independently computed here, ~0.85x -- both are plausible given cross-source date mismatches, and the discrepancy is flagged rather than silently resolved); Nifty PSU Bank index P/E ~7.43x and P/B ~1.32x (17-Sep-2026, reused from this week's IOB dossier as the same sector benchmark, same date window) -- BOI trades at a discount to this peer median on both metrics, the opposite of IOB's premium-to-peer situation. DATA QUALITY -- RECONSTRUCTED/APPROXIMATE (Tier 5, flagged, NOT independently pulled from a primary filing this session): the entire revenue series for FY22-FY24 (~Rs60,415-73,102 Cr) is back-calculated from the two real FY25/FY26 gross Total Income points at an assumed ~10%/yr growth rate, not filing-verified; the interest_expense/ebitda-proxy split (interest_expense modelled as a flat ~57% of revenue, close to but not identical to IOB's ~55% convention) is a modelling assumption, not observed; the entire net_worth series (~Rs44,551-75,238 Cr, FY22-FY26) is walked back from a current book-value-per-share x shares-outstanding estimate at an assumed ~14%/yr growth rate -- it does not attempt a clean retained-earnings roll-forward and should be treated as illustrative only, per the same G1 v2.2 BFSI amendment noted for IOB (this gate is informational/TEAL for BFSI names); total_debt, cash_equiv, capex, net_fixed_assets, cwip, 'net_working_capital' and ocf are all Tier-5 ratio-based reconstructions against net_worth/pat (same modelling convention as IOB.json/SBIN.json/SOUTHBANK.json in this repo); dividend_paid for FY22-FY26 combines a real per-share figure with a constant current-share-count assumption (ignoring historical share-count changes from QIP dilution), so the derived total-payout Cr figures and hence any payout_ratio_3y_avg the code computes should be read as approximate, not filing-exact; adtv_cr (~Rs65 Cr) is extrapolated from a single observed day's traded value (~Rs69.3 Cr on ~16-Sep-2026), not a genuine 30-day average; ten_year_gsec_yield (~6.95%) is reused from this week's IOB dossier as an approximate current-market figure, not independently re-pulled. STRUCTURAL CAVEAT (not a data-quality issue): Section 5e's ROIIC/reinvestment-rate formula does not describe a bank's real economics for the same reasons noted in IOB.json -- this dossier's computed engine-growth 'g' should not be read as a genuine measure of BOI's compounding capacity. QUALITATIVE JUDGEMENT CALLS (honest, not manufactured, and deliberately NOT a copy of IOB's writeup): moat_sources scored one notch better than IOB's on efficient_scale (AMBER vs IOB's RED) because BOI's larger, genuinely evidenced scale (global business ~2.5x IOB's) and unusual-for-a-PSU-bank international branch network are real, not asserted -- but this stops at AMBER because no superior unit economics (NIM, ROE, valuation multiple) were found to flow from that scale; every other moat source is RED or AMBER for the same reasons as IOB, and no source is rated BUILDING, so BOI fails the Section 5b-T moat-trajectory gate for Multibagger Candidate tier exactly as IOB did. governance scored marginally better than IOB's on capital_allocation_discipline (5 vs 4) and management_stability (5 vs 4), reflecting BOI's calibrated, sustainable ~20% payout policy (versus IOB's zero-dividend capital-conservation stance) and the absence of a live MPS overhang requiring emergency dilution -- but the FY22 RBI provisioning-divergence finding is treated as a genuine, disclosed earnings-quality flag and keeps earnings_quality capped at 5, the same score given to IOB. industry_context.share_gain_3y_vs_sector is set False for the same reason as IOB: BOI's fast recent advances growth (~15.82% YoY) is plausibly systemwide-credit-cycle and low-base driven, shared by essentially every PSU bank this session has looked at, not evidenced BOI-specific share capture. variant_perception.answered is honestly set False: BOI presents a genuinely different setup from IOB (a peer-relative valuation DISCOUNT rather than premium, and no live MPS-compliance overhang), but I could not construct a credible, evidenced case that the discount reflects coverage neglect or mispricing rather than a fair-to-reasonable discount for a lower, declining CASA ratio, a disclosed FY22 earnings-quality event, and a thinner-margin overseas book -- none of which this session's evidence disproves. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction (Screener, Moneycontrol, IndMoney and other data-vendor pages returned egress-blocked this session and were not directly fetched; all figures came from search-result snippets and press coverage), not a completed adversarial (M5) review with a logged hostile source and cooling period."
+}

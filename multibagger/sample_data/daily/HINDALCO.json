@@ -1,0 +1,227 @@
+{
+  "symbol": "HINDALCO.NS",
+  "name": "Hindalco Industries Limited",
+  "sector": "Metals & Mining",
+  "industry": "Integrated primary aluminium and copper producer (India upstream smelting/refining plus downstream extrusions, foils and rolled products) combined with Novelis Inc., its wholly-owned, US-headquartered subsidiary that is the world's largest aluminium rolling and recycling company (automotive sheet, beverage-can sheet, specialty products) -- Novelis contributed roughly 60% of FY26 consolidated revenue and roughly 56% of consolidated EBITDA per company/press disclosures, i.e. a lower-margin mix than the India business. Both aluminium and copper are globally LME/MCX-priced commodities: Hindalco is fundamentally a price-taker on primary metal, with margin captured mainly through conversion premiums, backward integration into captive bauxite/alumina/coal-power, and (at Novelis) recycled-scrap content and long-term customer supply agreements, not through pricing power over the metal itself.",
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      196195.0,
+      223202.0,
+      216000.0,
+      238496.0,
+      274944.0
+    ],
+    "ebitda": [
+      30056.0,
+      24045.0,
+      25728.0,
+      35496.0,
+      38097.0
+    ],
+    "depreciation": [
+      6337.1,
+      7209.42,
+      6976.8,
+      7703.42,
+      8880.69
+    ],
+    "interest_expense": [
+      4332.44,
+      3410.08,
+      3196.92,
+      3806.35,
+      4910.83
+    ],
+    "pat": [
+      13730.0,
+      10097.0,
+      10155.0,
+      16002.0,
+      13391.0
+    ],
+    "ocf": [
+      21640.32,
+      17312.4,
+      18524.16,
+      25557.12,
+      27429.84
+    ],
+    "capex": [
+      8828.77,
+      10044.09,
+      9720.0,
+      10732.32,
+      12372.48
+    ],
+    "net_fixed_assets": [
+      74554.1,
+      84816.76,
+      82080.0,
+      90628.48,
+      104478.72
+    ],
+    "cwip": [
+      15695.6,
+      17856.16,
+      17280.0,
+      19079.68,
+      21995.52
+    ],
+    "net_working_capital": [
+      39239.0,
+      44640.4,
+      43200.0,
+      47699.2,
+      54988.8
+    ],
+    "total_debt": [
+      50969.85,
+      40118.61,
+      37610.88,
+      44780.64,
+      57774.42
+    ],
+    "cash_equiv": [
+      5885.85,
+      6696.06,
+      6480.0,
+      7154.88,
+      8248.32
+    ],
+    "net_worth": [
+      78478.0,
+      83022.86,
+      74287.96,
+      75338.17,
+      79143.04
+    ],
+    "dividend_paid": [
+      554.9,
+      665.9,
+      776.9,
+      1109.8,
+      1109.8
+    ],
+    "tax_rate": [
+      0.26,
+      0.26,
+      0.26,
+      0.26,
+      0.26
+    ]
+  },
+  "market": {
+    "price": 981.5,
+    "market_cap_cr": 217863.6,
+    "adtv_cr": 450.0,
+    "shares_outstanding": 221.97,
+    "diluted_shares_outstanding": 221.97,
+    "sector_median_pe": 20.37,
+    "sector_median_pb": 2.2,
+    "ten_year_gsec_yield": 0.0702,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": null
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Both primary aluminium and copper are globally fungible, LME/MCX-priced commodities. Hindalco's India business sells at LME-linked prices plus a conversion/regional premium it does not control, and Novelis's rolled-product contracts are structured as a 'metal price pass-through plus a conversion premium' model, explicitly designed so Novelis (and by extension Hindalco) is largely insulated from, rather than able to profit from, LME price moves. This is the opposite of Section 5 pricing power by construction, not a data gap -- definitional for this business model, so not scored against a specific Tier 1-3 source this session."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Novelis has long-standing, multi-year supply agreements and customer-qualification cycles with global beverage-can makers (e.g. Ball, Crown) and automotive OEMs for specialty aluminium sheet/alloys, plus closed-loop scrap-recycling relationships with can customers that are genuinely sticky and take years to requalify elsewhere. Real, but this is industry-standard practice for large rolled-aluminium suppliers generally (peers such as Novelis's direct competitors run similar closed-loop/qualification models), so rated HOLDING not BUILDING, and capped at AMBER since the evidence here is general industry/management-narrative knowledge, not a Tier 1-3 source pulled this session quantifying a customer-retention or re-qualification-cost premium."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Metal smelting/rolling and sale does not become more valuable to one customer as more customers join -- structurally absent for this business model, as for any commodity metals producer."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Hindalco's India upstream business is backward-integrated into captive bauxite mines, in-house alumina refining (Utkal) and largely captive coal-based power for its smelters, which is a genuine, widely cited structural cost edge placing it in the lower half of the global aluminium cost curve. Novelis separately has a real, distinct cost advantage from being the largest aluminium recycler globally -- recycled metal requires roughly 5% of the energy of primary smelting. Rated GREEN for a real, structural (not merely scale) advantage, HOLDING rather than BUILDING since this is a long-standing position being defended, not something demonstrably widening this year. No independent Tier 1-3 source (e.g. a specific cost-curve-percentile filing or audited cost disclosure) was pulled this session to move this above T4."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Novelis holds real proprietary alloy and continuous-casting process know-how for automotive-grade and can-sheet aluminium, and the Aditya Birla Group carries some brand equity, but neither is a strong intangible moat in Section 5's sense for a commodity metals business -- primary metal itself carries no brand premium. Capped at AMBER on general/media-level knowledge, not an independently sourced Tier 1-3 quantification of a price or margin premium attributable to this IP this session."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Novelis is the world's largest aluminium rolling and recycling company by volume, and Hindalco Group is among India's largest aluminium/copper producers; the group is mid-way through a large, disclosed multi-year capex programme (Novelis's ~$4.1bn Bay Minette, Alabama greenfield rolling/recycling mill -- its first new US integrated mill in decades -- plus Indian alumina/smelter capacity expansions), which is genuine, evidenced scale EXPANSION rather than a flat incumbency being merely defended, hence BUILDING rather than HOLDING. IMPORTANT CAVEAT: the underlying evidence for the capex programme's scale and status is company press releases and secondary media/analyst coverage of them (T5_MEDIA per this session's sourcing), not an independently pulled Tier 1-3 filing -- per the moat-trajectory gate's own Tier 1-3 requirement, this BUILDING rating is not expected to clear that gate on its stated evidence tier, consistent with how this repo's NTPC.json dossier treats an analogous case."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 7,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 6,
+    "management_stability": 8,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 6,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 34.7,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "The INFLECTION call rests on a genuine, evidenced GLOBAL SUPPLY-SIDE structural shift in aluminium, not a Hindalco-specific competitive-position change: China -- ~58-60% of global primary aluminium output -- hit its government-imposed 45 million-tonne annual primary capacity cap for the first time in calendar 2025 (multiple press/trade sources, cross-corroborated), meaning incremental global supply must now come from slower-growing capacity in India, Indonesia and the Middle East. On the demand side, EV lightweighting (EVs typically use 25-40% more aluminium per vehicle than ICE vehicles) and China's own NEV/renewable-energy buildout are credibly forecast (Fastmarkets/industry trade press) to push China's own NEV-linked aluminium demand from roughly 2 million tonnes (2023) toward ~10 million tonnes by 2030. Copper carries an analogous, even more widely discussed electrification/grid-buildout demand thesis. This is a real, cited supply/demand tightening argument for the aluminium and copper INDUSTRY globally -- but it is a commodity-price/margin cycle argument, not evidence that Hindalco is winning share or widening a company-specific moat within that industry; the company remains a price-taker on the underlying metal throughout. Framed honestly as an industry-level tailwind, not a company-quality upgrade.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 15.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "No margin-expansion assumption is made. Hindalco/Novelis operate a metal-price-pass-through plus conversion-premium model; EBITDA margin swings this dossier's own 5-year series shows (FY23 trough on a compressed conversion spread, FY25/FY26 highs on a favourable LME cycle) look substantially cyclical/commodity-price-driven rather than the product of a structural, reinvestment-independent margin improvement. Per Section 6A's own rule, an unevidenced margin delta is set to zero and the bridge is run on revenue-driven growth and a modest, roughly flat exit-multiple assumption (15x, close to the current Nifty Metal sector median of ~20.4x on a conservative/no-re-rating basis) instead."
+  },
+  "variant_perception": {
+    "market_belief": "The market prices Hindalco as a large, well-covered, LME-linked commodity cyclical trading at a discount to the broader market and roughly in line with or below the Nifty Metal index (~20.4x, Sep-2026): trailing consolidated P/E is ~16.3x on FY26's reported (post-exceptional) PAT of Rs13,391 Cr, or ~11.6x on the company-disclosed pre-exceptional PAT of Rs18,733 Cr. Sell-side coverage is extensive and already uses explicit sum-of-the-parts (SOTP) frameworks that separately value the India aluminium/copper business and Novelis (e.g. Axis Securities SOTP with distinct EV/EBITDA multiples per segment, ICICI Securities SOTP target ~Rs720) -- consensus 12-month targets span roughly Rs700-1,074 (bull case ~Rs950, bear case ~Rs420 per one aggregator's range), already bracketing both the recovery and the downside case. The near-term overhang the market is actively pricing is well known and dated: two 2025 fires at Novelis's Oswego, NY plant, with a disclosed pre-insurance free cash flow impact of roughly $1.3-1.6 billion and an expected hot-mill restart in the Apr-Jun 2026 quarter, with 70-80% of the impact expected to be recovered through insurance over time.",
+    "whats_wrong_with_belief": "I could not construct a credible, evidenced case that the market has this meaningfully wrong. Hindalco is a Nifty 50 constituent with heavy institutional ownership and dense, current sell-side coverage; the Oswego disruption, its dollar cash-flow impact, insurance recovery expectations and restart timeline are all specific, dated, and already publicly disclosed and analysed (not a hidden or under-appreciated fact). The SOTP framework sell-side analysts already apply is exactly the kind of segment-level analysis a genuine variant-perception case would need to improve on, and I have no independent basis (no primary data pulled this session beyond what is already reflected in public target prices) to argue the consensus SOTP inputs are wrong in Hindalco's favour. The genuine structural aluminium/copper supply-tightening argument (China's capacity cap, EV demand) is itself widely discussed in trade press and by commodity strategists, not a proprietary insight. A reasonable ordinary-analyst view here is 'cyclical recovery once Oswego normalises, priced roughly for that already' -- which is not a rigorous N7 case with a nameable persistence mechanism and a catalyst the market has not already substantially absorbed.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence. The nearest dated, observable event -- Novelis's Oswego hot-mill restart and ramp (guided Apr-Jun 2026 quarter) and eventual insurance-recovery cash inflow -- is already the specific, named catalyst sell-side analysts are tracking and have priced into current targets, so it does not constitute a market blind spot.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "RANDOMLY ASSIGNED NIFTY 50 PICK, single-pass web-search reconstruction (FMP/aggregator sites -- Screener, Moneycontrol, Tijori, ICICI Direct, Groww, Trendlyne, hindalco.com, Business Standard, Business Today, Whalesbook -- were unreachable via WebFetch from this environment, egress-blocked; only WebSearch snippets were available). DATA QUALITY -- WELL-SOURCED (Tier 3, cross-corroborated across multiple independent press/aggregator search snippets reporting company press-release figures, all dated as of this session, Sep-2026): consolidated revenue FY22 ~Rs1,96,195 Cr (reported as 'total income'), FY23 Rs2,23,202 Cr (all-time high at the time, +14% YoY), FY24 ~Rs2,16,000 Cr (-3.2% YoY), FY25 Rs2,38,496 Cr (+10% YoY), FY26 Rs2,74,944 Cr (+15% YoY, record); consolidated PAT FY22 ~Rs13,730 Cr, FY23 ~Rs10,097 Cr, FY24 Rs10,155 Cr (+1%), FY25 Rs16,002 Cr (+58%), FY26 Rs13,391 Cr reported (-16.3% YoY) vs Rs18,733 Cr pre-exceptional (+10% YoY) -- the FY26 gap is a disclosed, dated one-off (two 2025 Novelis Oswego plant fires, ~$1.3-1.6bn pre-insurance FCF impact, 70-80% expected insurance recovery, hot-mill restart guided Apr-Jun 2026), not an earnings-quality red flag being obscured; consolidated EBITDA FY22 Rs30,056 Cr, FY24 Rs25,728 Cr (+7%), FY25 Rs35,496 Cr (+38%, all-time high), FY26 Rs38,097 Cr (all-time high); dividend Rs3/share FY23 (300%), Rs3.5/share FY24 (350%), Rs5/share FY25 and FY26 (500%, flagged as possibly the same board recommendation appearing in adjacent-year press coverage -- not independently reconciled against the FY25 vs FY26 annual reports this session); current price Rs981.5 (14-Sep-2026), shares outstanding ~221.97 Cr (2,219,658,120, per a companies-market-cap aggregator), promoter (Aditya Birla Group / Birla Group Holdings) holding 34.7% (Jun-2026) with a signed FY26 declaration of NO share encumbrance/pledge; Novelis contributes ~60% of consolidated revenue and ~56% of consolidated EBITDA (FY26-entering, per aggregator/press commentary); Nifty Metal index P/E ~20.37x (Trendlyne, Sep-2026) used as sector_median_pe; 10-year G-Sec yield ~7.02% (11-Sep-2026, reused from this session's NTPC.json reference point, same economy-wide series); D/E ~0.73x and net-debt/EBITDA readings ranging ~1.06x-2.0x depending on aggregator and definition (gross vs net, average vs point-in-time) were found but were MUTUALLY INCONSISTENT across sources -- flagged rather than silently reconciled, same treatment as the cross-basis gaps noted in this repo's SBIN.json/NTPC.json. DATA QUALITY -- RECONSTRUCTED/ASSUMED (Tier 5, NOT independently pulled from a primary filing this session): FY23 EBITDA (Rs24,045 Cr) is backed out from FY24's cited '+7% YoY' growth figure rather than independently cited; depreciation (~8.5%/yr of an assumed net-fixed-asset base at 38% of revenue), interest_expense (~8.5% blended cost on a total-debt base derived from assumed net-debt/EBITDA multiples of 1.5x/1.39x/1.21x/1.06x/1.30x FY22-FY26), capex (4.5% of revenue), cwip (8% of revenue), net_working_capital (20% of revenue), net_worth (a declining ratio to revenue from 40% to ~28.8%, back-solved only at the FY26 endpoint from a cited D/E of 0.73x), cash_equiv (3% of revenue), ocf (72% of EBITDA), effective tax_rate (flat 26% assumption), FY22 and FY25 dividend-per-share figures (Rs2.5 and Rs5 -- FY25 is a citation, FY22 is an unsourced estimate), market.adtv_cr (Rs450 Cr) and market.sector_median_pb (2.2x) are all Tier 5 modeled/estimated, not filed or independently pulled figures -- treat none of the balance-sheet-derived ratios (ROCE, D/E series, interest coverage) as filing-verified; only the revenue/EBITDA/PAT/dividend/price/promoter-holding anchors above carry real (Tier 3) sourcing. MOAT ASSESSMENT -- deliberately NOT inflated for a large-cap name: this is fundamentally a commodity metals producer with real cyclicality tied to LME aluminium/copper prices (pricing_power and network_effects both rated RED); Novelis's recycling scale/closed-loop customer relationships and Hindalco's backward-integrated low-cost India upstream position are real, evidenced partial offsets (cost_advantage GREEN, switching_costs AMBER) but do not add up to a business the analyst would call moated in the way a branded consumer or platform business is. INDUSTRY CONTEXT: rated INFLECTION on a genuine, cited global aluminium/copper supply-tightening and EV-demand thesis (China's 45Mt capacity cap first hit in 2025; EV lightweighting demand growth) -- explicitly flagged as an industry-level, price/margin-cycle argument, not evidence of Hindalco-specific share gain or moat-widening; addressable_profit_pool_cr and current_profit_share_pct are left null since no clean product-market TAM/profit-pool concept was evidenced for a global commodity price-taker this session, and share_gain_3y_vs_sector is left null (no peer revenue-CAGR comparison was sourced) rather than guessed. VARIANT PERCEPTION: answered=False, honestly -- Hindalco is heavily covered, already SOTP-valued by multiple brokerages with a wide, already-bracketing consensus target range, and its one live overhang (the Oswego fires) is a specific, dated, already-disclosed and already-analysed event with a guided restart timeline, not an under-appreciated fact a credible N7 case could be built around from the partial evidence available this session. m5_protocol_complete is honestly False -- single-pass, web-search-only reconstruction, not a completed adversarial (M5) review."
+}

@@ -1,0 +1,222 @@
+{
+  "symbol": "TITAN.NS",
+  "name": "Titan Company Limited",
+  "sector": "Consumer Discretionary",
+  "industry": "Jewellery, watches, eyewear retail",
+  "financials": {
+    "years": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014
+    ],
+    "revenue": [
+      4069.991777053734,
+      4965.389968005556,
+      6057.775760966777,
+      7390.486428379468,
+      9016.393442622952,
+      11000.0
+    ],
+    "ebitda": [
+      386.64921882010475,
+      471.7120469605278,
+      575.4886972918438,
+      702.0962106960494,
+      856.5573770491804,
+      1045.0
+    ],
+    "depreciation": [
+      40.69991777053735,
+      49.65389968005557,
+      60.57775760966778,
+      73.9048642837947,
+      90.16393442622953,
+      110.00000000000003
+    ],
+    "interest_expense": [
+      27.472444495112704,
+      33.5163822840375,
+      40.88998638652574,
+      49.885783391561404,
+      60.860655737704924,
+      74.25
+    ],
+    "pat": [
+      251.59949167241263,
+      306.9513798403434,
+      374.48068340521894,
+      456.866433754367,
+      557.3770491803278,
+      680.0
+    ],
+    "ocf": [
+      309.3193750560838,
+      377.36963756842226,
+      460.39095783347506,
+      561.6769685568396,
+      685.2459016393444,
+      836.0
+    ],
+    "capex": [
+      81.39983554107468,
+      99.30779936011112,
+      121.15551521933554,
+      147.80972856758936,
+      180.32786885245903,
+      220.0
+    ],
+    "net_fixed_assets": [
+      406.9991777053734,
+      496.5389968005556,
+      605.7775760966778,
+      739.0486428379468,
+      901.6393442622953,
+      1100.0
+    ],
+    "cwip": [
+      203.4995888526867,
+      248.2694984002778,
+      302.8887880483389,
+      369.5243214189734,
+      450.8196721311476,
+      550.0
+    ],
+    "net_working_capital": [
+      1139.5976975750457,
+      1390.3091910415558,
+      1696.1772130706977,
+      2069.3361999462513,
+      2524.5901639344265,
+      3080.0000000000005
+    ],
+    "total_debt": [
+      305.24938327903004,
+      372.4042476004167,
+      454.33318207250824,
+      554.2864821284601,
+      676.2295081967213,
+      825.0
+    ],
+    "cash_equiv": [
+      162.79967108214936,
+      198.61559872022224,
+      242.31103043867108,
+      295.6194571351787,
+      360.65573770491807,
+      440.0
+    ],
+    "net_worth": [
+      2238.495477379554,
+      2730.9644824030556,
+      3331.7766685317274,
+      4064.7675356087075,
+      4959.016393442624,
+      6050.000000000001
+    ],
+    "dividend_paid": [
+      75.47984750172378,
+      92.08541395210302,
+      112.34420502156568,
+      137.0599301263101,
+      167.21311475409834,
+      204.0
+    ],
+    "tax_rate": [
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3
+    ]
+  },
+  "market": {
+    "price": 230.0,
+    "market_cap_cr": 20400.0,
+    "adtv_cr": 12.0,
+    "shares_outstanding": 88.7,
+    "diluted_shares_outstanding": 88.7,
+    "sector_median_pe": 30.0,
+    "sector_median_pb": 8.0,
+    "ten_year_gsec_yield": 0.087,
+    "gsec_date": "2014-03-31",
+    "forward_eps": null,
+    "book_value_per_share": null
+  },
+  "moat_sources": [
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Tanishq brand trust vs unorganized jewellers on purity/hallmarking"
+    },
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Making-charge premium sustained despite gold price volatility"
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "National retail footprint entrenching first-mover advantage as organized jewellery share rises"
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 9,
+    "board_audit_independence": 9,
+    "ownership_transparency": 9,
+    "capital_allocation_discipline": 8,
+    "management_stability": 9,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 8,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 52.9,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "Organized jewellery retail share of India's gold market rising from a low base (~India Gold Policy Committee era discussions)",
+    "addressable_profit_pool_cr": 15000.0,
+    "current_profit_share_pct": 4.5,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": true
+  },
+  "bridge_assumptions": {
+    "target_multiple": 6.0,
+    "horizon_years": 7,
+    "assumed_exit_pe": 42.0,
+    "own_10y_75th_pctile_pe": 45.0,
+    "sector_10y_75th_pctile_pe": 42.0,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.025,
+    "margin_delta_mechanism_note": "Studded/diamond jewellery mix shift (higher margin than plain gold) and owned-retail operating leverage as the store network matures"
+  },
+  "variant_perception": {
+    "market_belief": "Priced as a discretionary-spend, gold-price-sensitive retailer",
+    "whats_wrong_with_belief": "Structural formalization of jewellery buying (hallmarking, trust, organized retail) is a multi-decade share shift the market is pricing as a cyclical gold story",
+    "persistence_mechanism": "Large-cap but a multi-decade structural theme the market re-prices only as each year's data confirms it -- time-horizon mismatch",
+    "m3_edge": "time_horizon",
+    "gap_closing_event": "Successive years of same-store-sales growth outpacing gold price moves",
+    "reverse_dcf_implied_growth": null,
+    "answered": true
+  },
+  "g3_state": "D",
+  "candidate_source": "peer_mention",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "Tier 5 reconstructed dossier, general-knowledge anchors only (aggregator sites and search unreachable for FY2014-era Titan data in this session) -- weakest-sourced of the six, flagged accordingly."
+}

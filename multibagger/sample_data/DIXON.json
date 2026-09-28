@@ -1,0 +1,215 @@
+{
+  "symbol": "DIXON.NS",
+  "name": "Dixon Technologies (India) Limited",
+  "sector": "Consumer Electronics",
+  "industry": "Electronics manufacturing services (EMS)",
+  "financials": {
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "revenue": [
+      1280.5685400962827,
+      1639.1277313232422,
+      2098.0834960937495,
+      2685.546875,
+      3437.5,
+      4400.0
+    ],
+    "ebitda": [
+      57.62558430433272,
+      73.7607479095459,
+      94.41375732421872,
+      120.849609375,
+      154.6875,
+      198.0
+    ],
+    "depreciation": [
+      12.80568540096283,
+      16.391277313232425,
+      20.9808349609375,
+      26.855468750000004,
+      34.37500000000001,
+      44.00000000000001
+    ],
+    "interest_expense": [
+      14.40639607608318,
+      18.440186977386475,
+      23.60343933105468,
+      30.21240234375,
+      38.671875,
+      49.5
+    ],
+    "pat": [
+      27.357600629329674,
+      35.017728805542,
+      44.822692871093736,
+      57.37304687500001,
+      73.4375,
+      94.0
+    ],
+    "ocf": [
+      46.10046744346618,
+      59.00859832763672,
+      75.53100585937499,
+      96.6796875,
+      123.75,
+      158.4
+    ],
+    "capex": [
+      38.41705620288848,
+      49.173831939697266,
+      62.942504882812486,
+      80.56640625,
+      103.125,
+      132.0
+    ],
+    "net_fixed_assets": [
+      128.05685400962827,
+      163.91277313232422,
+      209.80834960937497,
+      268.5546875,
+      343.75,
+      440.0
+    ],
+    "cwip": [
+      64.02842700481413,
+      81.95638656616211,
+      104.90417480468749,
+      134.27734375,
+      171.875,
+      220.0
+    ],
+    "net_working_capital": [
+      192.08528101444242,
+      245.86915969848633,
+      314.71252441406244,
+      402.83203125,
+      515.625,
+      660.0
+    ],
+    "total_debt": [
+      160.07106751203534,
+      204.89096641540527,
+      262.2604370117187,
+      335.693359375,
+      429.6875,
+      550.0
+    ],
+    "cash_equiv": [
+      51.22274160385131,
+      65.56510925292969,
+      83.92333984374999,
+      107.421875,
+      137.5,
+      176.0
+    ],
+    "net_worth": [
+      704.3126970529555,
+      901.5202522277833,
+      1153.9459228515623,
+      1477.0507812500002,
+      1890.6250000000002,
+      2420.0
+    ],
+    "dividend_paid": [
+      0.5471520125865935,
+      0.70035457611084,
+      0.8964538574218748,
+      1.1474609375000002,
+      1.46875,
+      1.8800000000000001
+    ],
+    "tax_rate": [
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3
+    ]
+  },
+  "market": {
+    "price": 2088.8,
+    "market_cap_cr": 2590.1,
+    "adtv_cr": 4.0,
+    "shares_outstanding": 1.24,
+    "diluted_shares_outstanding": 1.26,
+    "sector_median_pe": 35.0,
+    "sector_median_pb": 6.0,
+    "ten_year_gsec_yield": 0.065,
+    "gsec_date": "2020-03-31",
+    "forward_eps": null,
+    "book_value_per_share": null
+  },
+  "moat_sources": [
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Scale/vendor-qualification lead over smaller domestic EMS players ahead of the PLI-scheme buildout"
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "OEM design-in relationships, management-narrative only at this tier/snapshot"
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 7,
+    "ownership_transparency": 7,
+    "capital_allocation_discipline": 8,
+    "management_stability": 7,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 35.0,
+    "promoter_holding_3y_direction": "FALLING",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "EMERGENT",
+    "phase_evidence": "India electronics-manufacturing PLI scheme about to launch (announced 2020), domestic EMS a near-greenfield category at this scale",
+    "addressable_profit_pool_cr": 2500.0,
+    "current_profit_share_pct": 6.0,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 8.0,
+    "horizon_years": 4,
+    "assumed_exit_pe": 55.0,
+    "own_10y_75th_pctile_pe": 60.0,
+    "sector_10y_75th_pctile_pe": 58.0,
+    "annual_dilution_rate": 0.03,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.09,
+    "margin_delta_mechanism_note": "PLI production-linked incentive accrual and backward integration into higher-margin sub-assembly manufacturing, reducing low-margin trading-goods mix"
+  },
+  "variant_perception": {
+    "market_belief": "Priced as a thin-margin contract manufacturer with commodity economics",
+    "whats_wrong_with_belief": "A pending government PLI scheme is about to change the industry's unit economics and reshoring incentives in a way a trailing-margin view cannot see",
+    "persistence_mechanism": "Optical ugliness -- low reported margins mask the coming policy-driven volume and margin inflection",
+    "m3_edge": "coverage_neglect",
+    "gap_closing_event": "PLI scheme notification and Dixon's scheme approval (dated, observable)",
+    "reverse_dcf_implied_growth": null,
+    "answered": true
+  },
+  "g3_state": "D",
+  "candidate_source": "news_or_media",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "Tier 5 reconstructed dossier, general-knowledge anchors only. Promoter holding falling is real and documented (subsequent ESOP/QIP dilution funding growth capex, not a promoter exit) -- a genuine Section 5f Gate 1 case worth carrying through to the report."
+}

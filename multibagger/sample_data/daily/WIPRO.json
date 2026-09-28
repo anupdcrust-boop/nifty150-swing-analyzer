@@ -1,0 +1,110 @@
+{
+  "symbol": "WIPRO.NS",
+  "name": "Wipro Limited",
+  "sector": "Information Technology",
+  "industry": "IT services (Tier-1) -- IT consulting, application development/maintenance, BPO, engineering & cloud services",
+  "financials": {
+    "years": [2023, 2024, 2025, 2026],
+    "revenue": [90487.6, 89760.3, 89088.4, 92624.0],
+    "ebitda": [14206.6, 14630.9, 15145.0, 15931.3],
+    "depreciation": [4072.0, 4039.2, 4009.0, 4168.1],
+    "interest_expense": [1500.0, 1550.0, 1600.0, 1725.0],
+    "pat": [11401.4, 11045.2, 13135.4, 13197.4],
+    "ocf": [11649.4, 11997.3, 12418.9, 13063.7],
+    "capex": [3619.5, 3590.4, 3563.5, 3705.0],
+    "net_fixed_assets": [14478.0, 14361.6, 14254.1, 14819.8],
+    "cwip": [904.9, 897.6, 890.9, 926.2],
+    "net_working_capital": [16287.8, 16156.9, 16035.9, 16672.3],
+    "total_debt": [21000.0, 21500.0, 22500.0, 24645.0],
+    "cash_equiv": [25336.5, 25132.9, 24944.8, 25934.7],
+    "net_worth": [92000.0, 94500.0, 96800.0, 88018.3],
+    "dividend_paid": [5130.6, 4970.3, 6567.7, 7659.9],
+    "tax_rate": [0.24, 0.24, 0.24, 0.24]
+  },
+  "market": {
+    "price": 171.61,
+    "market_cap_cr": 165808.62,
+    "adtv_cr": 450.0,
+    "shares_outstanding": 966.0,
+    "diluted_shares_outstanding": 968.0,
+    "sector_median_pe": 15.6,
+    "sector_median_pb": 3.8,
+    "ten_year_gsec_yield": 0.071,
+    "gsec_date": "2026-09-15",
+    "forward_eps": null,
+    "book_value_per_share": 91.1
+  },
+  "moat_sources": [
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Real, long-tenure enterprise relationships (large deal bookings of $16.4B in FY26, up 14% YoY, with $7.8B of large-deal TCV; Q1 FY27 large-deal bookings of $1.6B, +12.9% QoQ, across 13 deals) evidence genuine multi-year account embedding and vendor-consolidation dynamics. Rated HOLDING rather than BUILDING because strong bookings have not translated into revenue growth -- IT services revenue grew only ~0.9-1.0% YoY in Q1 FY27 and roughly 0.8% CAGR over FY23-FY26 -- so the switching-cost moat is retaining wallet share inside existing accounts without visibly expanding it."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Wipro remains a top-4 Indian IT-services company by revenue ($10.5B FY26) with global delivery scale that smaller/mid-cap IT vendors cannot match -- a real efficient-scale advantage over the next tier down. Rated only AMBER/HOLDING, not GREEN/BUILDING, because this scale has not closed the gap to Tier-1 peers: FY26 IT-services operating margin was 17.2% versus TCS's mid-20s% and HCLTech's high-teens, and revenue has been flat-to-declining for three straight years (FY24 -0.8%, FY25 -0.75% YoY) while TCS and Infosys grew, i.e. Wipro's scale has not been converted into share gains or margin leadership within its own peer set."
+    },
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "No credible evidence of differentiated pricing power versus Tier-1 peers was found. IT services operating margin (15.7% FY23 -> ~17.2% FY26) sits structurally below TCS (~24-25%) and HCLTech (high-teens), and the FY26 improvement is described in coverage as cost/cash-optimisation and utilisation recovery rather than price realisation. This is rated honestly as a genuine gap versus peers, not talked up into a moat source Wipro does not currently evidence."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 8,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 7,
+    "management_stability": 6,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 72.66,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Indian Tier-1 IT services broadly is a mature, single-digit-growth industry in FY26-27 (TCS FY27 CC guidance 1-4%, Infosys 4-6%), and Wipro specifically has been the weakest grower in that cohort for several years running: consolidated revenue was essentially flat over FY23-FY26 (Rs90,487.6 Cr -> Rs92,624.0 Cr, ~0.8% 3yr CAGR modelled here), Q4 FY26 sequential CC growth of 0.2% trailed TCS's 1.2%, and Q1 FY27 IT-services revenue grew only ~0.9-1.0% YoY against Infosys's higher guided growth band. This is a share-losing/laggard position within a maturing industry, not an inflecting or emergent one -- the AI-led large-deal bookings growth (FY26 bookings +14% YoY) is a real pipeline signal but has not yet shown up as above-peer revenue growth.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": false
+  },
+  "bridge_assumptions": {
+    "target_multiple": 1.5,
+    "horizon_years": 5,
+    "assumed_exit_pe": 15.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": -0.01,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "No credible evidence of durable margin EXPANSION versus Tier-1 peers exists at this snapshot -- FY26's margin uptick (16.0% Q1FY27 IT-services margin, a 15-quarter low, down from 17.2% FY26 full-year) is described in coverage as recovering/normalising off a trough via cost actions, not a structural re-rating driver, and margin remains well below TCS/HCLTech. Per the Section 6A rule, the unevidenced margin delta is set to zero and the bridge is run on modest revenue-driven assumptions plus continued buyback-driven share-count shrinkage (hence a small negative annual_dilution_rate) rather than a re-rating bet."
+  },
+  "variant_perception": {
+    "market_belief": "The market treats Wipro as the structurally slowest-growing, lowest-margin of the four large Tier-1 Indian IT services vendors, and prices it at a persistent discount to TCS/Infosys/HCLTech (trailing PE ~12.6x vs Infosys ~14.0x, TCS ~15.6x, HCLTech ~18-20x) reflecting years of underperformance, several CEO transitions, and revenue that has been flat to declining since FY24.",
+    "whats_wrong_with_belief": "I could not construct a credible, evidence-backed case that this discount is a mispricing rather than a fair reflection of fundamentals. The bear case is well documented and, on the evidence gathered here, looks basically correct: revenue CAGR over FY23-FY26 is roughly flat (~0.8% modelled) while peers grew; IT-services operating margin (17.2% FY26, then down to a 15-quarter-low 16.0% in Q1 FY27) sits structurally below TCS and HCLTech; Q2 FY27 guidance is itself -1.5% to +0.5% sequential CC growth; and the entire IT-services sector has also re-rated down in 2026 (TCS ~15.6x, Infosys ~14.0x), so Wipro's discount is now a valuation gap within an already-cheap sector rather than a uniquely oversold outlier. Strong FY26 large-deal bookings (+14% YoY) and Q1 FY27 deal momentum (+12.9% QoQ) are a real, dateable positive data point, but management's own guidance does not yet promise the growth re-acceleration that would be needed to re-underwrite a re-rating thesis.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "If a thesis exists here it is forward-looking and unconfirmed: two to three consecutive quarters of IT-services CC revenue growth re-accelerating toward or above the Infosys/TCS guided range, alongside margin recovering back above 17%, would be the evidence needed to re-underwrite a durable re-rating case -- but that is a future test, not something demonstrable from today's data.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DATA QUALITY: This is a single-pass WebSearch reconstruction; no primary filing (SEC 20-F/6-K, NSE/BSE filing, or the company's own investor-relations PDF) was directly read in this session, only search-engine-synthesized snippets of them and of financial media/aggregators -- so, per M6, nothing here clears Tier 1/2 and no figure should be allowed to swing a NAVY/binding gate on its own. REAL, CITED (Tier 3, cross-corroborated across multiple independent sources -- Wipro press releases, SEC 6-K/20-F filings, Business Standard, Bajaj Broking, Kotak Neo, India Infoline, TipRanks): FY23 revenue Rs90,487.6 Cr (from $11B / 11.5% CC growth commentary); FY24 revenue Rs89,760.3 Cr, PAT Rs11,045.2 Cr; FY25 revenue Rs89,088.4 Cr, PAT Rs13,135.4 Cr (+18.9% YoY); FY26 revenue Rs92,624.0 Cr ($10.5B, -1.6% CC YoY), PAT (attributable to equity holders) Rs13,197.4 Cr, IT-services operating margin 17.2% (+0.2pp YoY), FY26 bookings $16.4B (+14%) incl. $7.8B large-deal TCV; Q1 FY27 (quarter ended 30-Jun-2026) IT-services revenue +0.9-1.0% YoY / -1.2 to -1.4% QoQ CC, operating margin 16.0% (a 15-quarter low), net income Rs3,356 Cr (~flat YoY), large-deal bookings $1.6B (+12.9% QoQ); Q2 FY27 IT-services guidance -1.5% to +0.5% sequential CC. Current price Rs171.61 and market cap Rs1,65,808.62 Cr are as of 15-Sep-2026 (trailing PE ~12.55x, -37% off 52-week high of Rs273.10); the 10-year G-sec yield (7.10%, 15-Sep-2026) is reused from the same-dated cross-check in sample_data/daily/TATAELXSI.json. Promoter/promoter-group holding of 72.66% (family control via Azim Premji individually plus Azim Premji Trust, Zash Traders and Prazim Traders) and 0% pledge are real, cited figures; Premji's own effective stake nudged marginally up (4.10%->4.12%) after tendering shares into the FY26 buyback, treated here as STABLE rather than RISING since it is a mechanical buyback effect, not open-market accumulation. Debt-to-equity of 0.28x (22% above Wipro's own 10-year median of 0.23x, GuruFocus) and dividend payout ratio of 58.04% (GuruFocus) are real, cited figures used as anchors for the modelled FY26 total_debt and dividend_paid. Peer trailing PEs (TCS ~15.6x, Infosys ~14.0x, HCLTech ~18-20x) are real and cited, used to derive sector_median_pe; Nifty IT index PE was reported inconsistently across sources searched (16.9x vs 21.2x on the same date across two aggregators) and was NOT used for that reason -- the direct peer PEs were preferred as the more internally consistent anchor. TIER 5 RECONSTRUCTED (flagged, not to be trusted for gate-clearing precision): EBITDA/depreciation/interest for FY23-FY25 are interpolated from the cited FY23 (15.7%) and FY26 (17.2%) IT-services operating-margin endpoints using typical asset-light IT-services capital-intensity ratios (net fixed assets ~16% of revenue, capex ~4%, NWC ~18%, OCF ~82% of EBITDA); net worth, cash & equivalents and total debt for FY23-FY25 are backward-modelled from the FY26 net-worth anchor (Rs88,018.3 Cr / Rs880,183mn) adjusted for the FY26 buyback, NOT read from any actual balance sheet -- treat the derived interest-coverage (~6.8x) and ROCE series (~11.6-13.6% modelled here) as illustrative only. This modelled ROCE does NOT reliably cross-check against external sources, which themselves disagree sharply (GuruFocus/Smart-Investing FY25 full-year ROCE ~20.3% vs. a Q4-FY26-annualised figure of ~29.6% quoted elsewhere) -- unlike the TATAELXSI dossier's reassuring ROCE cross-check, this one is an open discrepancy and is disclosed as such rather than papered over. Book value per share is also internally inconsistent across sources searched (Rs83.92 vs Rs60.71 for the same FY26 year-end); Rs91.1 used here is simply net_worth/shares_outstanding for internal consistency, not a verified figure. ADTV (Rs450 Cr/day) and sector_median_pb (3.8x) are unsourced order-of-magnitude estimates for a heavily-traded Nifty50 large-cap, not cited figures. Cash-and-investments figures returned by search for the FY26 balance sheet (e.g. one snippet implying >Rs1,00,000 Cr in cash alone, and investment sub-line-items summing to over Rs4,00,000 Cr) were internally implausible relative to Wipro's Rs88,018.3 Cr net worth and Rs1,65,809 Cr market cap -- almost certainly a units/scraping artifact in the source -- and were discarded rather than used. management_stability (6/10) reflects the CEO turnover documented across public sources (Neemuchwala -> Delaporte -> Pallia within under a decade), a real, if not freshly re-verified, governance-relevant fact. m5_protocol_complete is honestly set to False (single-pass search reconstruction, not an adversarial multi-analyst review), and variant_perception.answered is honestly set to False: no credible, evidence-backed mispricing thesis in either direction could be constructed -- the market's chronic-laggard framing of Wipro among Tier-1 IT names appears substantially correct on the evidence found, not an overreaction to be exploited."
+}

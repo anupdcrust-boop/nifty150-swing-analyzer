@@ -1,0 +1,222 @@
+{
+  "symbol": "ASTRAL.NS",
+  "name": "Astral Limited",
+  "sector": "Industrials",
+  "industry": "Plastic pipes / building materials",
+  "financials": {
+    "years": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "revenue": [
+      920.5563804735083,
+      1086.2565289587399,
+      1281.7827041713128,
+      1512.5035909221492,
+      1784.754237288136,
+      2106.01
+    ],
+    "ebitda": [
+      124.27511136392363,
+      146.64463140942988,
+      173.04066506312725,
+      204.18798477449016,
+      240.94182203389838,
+      284.31135000000006
+    ],
+    "depreciation": [
+      32.21947331657279,
+      38.01897851355589,
+      44.86239464599595,
+      52.93762568227522,
+      62.46639830508475,
+      73.71035
+    ],
+    "interest_expense": [
+      22.78377041671933,
+      26.884849091728814,
+      31.724121928239995,
+      37.434463875323196,
+      44.17266737288137,
+      52.12374750000001
+    ],
+    "pat": [
+      76.77823383088005,
+      90.59831592043847,
+      106.9060127861174,
+      126.14909508761855,
+      148.85593220338984,
+      175.65
+    ],
+    "ocf": [
+      99.4200890911389,
+      117.31570512754391,
+      138.4325320505018,
+      163.35038781959213,
+      192.7534576271187,
+      227.44908000000007
+    ],
+    "capex": [
+      64.43894663314559,
+      76.0379570271118,
+      89.72478929199191,
+      105.87525136455045,
+      124.93279661016953,
+      147.42070000000004
+    ],
+    "net_fixed_assets": [
+      322.1947331657279,
+      380.1897851355589,
+      448.6239464599595,
+      529.3762568227522,
+      624.6639830508476,
+      737.1035
+    ],
+    "cwip": [
+      46.02781902367542,
+      54.312826447937,
+      64.08913520856565,
+      75.62517954610746,
+      89.2377118644068,
+      105.30050000000001
+    ],
+    "net_working_capital": [
+      202.52240370417184,
+      238.97643637092278,
+      281.99219491768883,
+      332.7507900028728,
+      392.6459322033899,
+      463.32220000000007
+    ],
+    "total_debt": [
+      253.1530046302148,
+      298.7205454636535,
+      352.4902436471111,
+      415.9384875035911,
+      490.8074152542374,
+      579.1527500000001
+    ],
+    "cash_equiv": [
+      36.822255218940334,
+      43.4502611583496,
+      51.27130816685251,
+      60.50014363688597,
+      71.39016949152544,
+      84.24040000000001
+    ],
+    "net_worth": [
+      506.3060092604296,
+      597.441090927307,
+      704.9804872942221,
+      831.8769750071822,
+      981.6148305084748,
+      1158.3055000000002
+    ],
+    "dividend_paid": [
+      7.677823383088006,
+      9.059831592043848,
+      10.69060127861174,
+      12.614909508761855,
+      14.885593220338984,
+      17.565
+    ],
+    "tax_rate": [
+      0.33,
+      0.33,
+      0.33,
+      0.33,
+      0.33,
+      0.33
+    ]
+  },
+  "market": {
+    "price": 405.6,
+    "market_cap_cr": 6145.6,
+    "adtv_cr": 8.0,
+    "shares_outstanding": 15.15,
+    "diluted_shares_outstanding": 15.15,
+    "sector_median_pe": 28.0,
+    "sector_median_pb": 5.0,
+    "ten_year_gsec_yield": 0.078,
+    "gsec_date": "2018-06-30",
+    "forward_eps": null,
+    "book_value_per_share": null
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Brand premium in CPVC plumbing, price hikes passed through"
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Plumber/dealer loyalty, moderate switching cost"
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Scale + Lubrizol JV resin sourcing advantage widening vs regional players"
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 8,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 8,
+    "management_stability": 9,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 8,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 54.2,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "Organized-vs-unorganized pipe market share shift post-GST/demonetisation; CPVC penetration rising",
+    "addressable_profit_pool_cr": 3500.0,
+    "current_profit_share_pct": 5.0,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": true
+  },
+  "bridge_assumptions": {
+    "target_multiple": 4.0,
+    "horizon_years": 3,
+    "assumed_exit_pe": 45.0,
+    "own_10y_75th_pctile_pe": 50.0,
+    "sector_10y_75th_pctile_pe": 48.0,
+    "annual_dilution_rate": 0.005,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.04,
+    "margin_delta_mechanism_note": "Rising mix of higher-margin bathware/adhesives segment plus fixed manufacturing-overhead absorption as volume scales"
+  },
+  "variant_perception": {
+    "market_belief": "Priced as a cyclical building-materials name tied to real estate",
+    "whats_wrong_with_belief": "Mix shift toward branded CPVC (higher margin, less cyclical) and unorganized-to-organized share gain are structural, not cyclical",
+    "persistence_mechanism": "Small/mid-cap industrial, thin sell-side coverage relative to size",
+    "m3_edge": "coverage_neglect",
+    "gap_closing_event": "Segment-wise margin disclosure in FY19/FY20 annual report",
+    "reverse_dcf_implied_growth": null,
+    "answered": true
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "Tier 5 reconstructed dossier for engine demonstration. Verified anchors: FY17/FY18 revenue+PAT (web search). All other figures modeled from typical industrial capital-intensity ratios."
+}

@@ -1,0 +1,131 @@
+{
+  "symbol": "UJJIVANSFB.NS",
+  "name": "Ujjivan Small Finance Bank Limited",
+  "sector": "Financials",
+  "industry": "Small finance bank -- microfinance-origin, diversifying into secured MSME/housing/vehicle lending",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [3800.0, 5148.0, 6487.0, 7201.0, 8039.0],
+    "ebitda": [1950.0, 2697.9, 3409.5, 3636.3, 4550.0],
+    "depreciation": [75.0, 87.0, 98.0, 113.0, 128.0],
+    "interest_expense": [2500.0, 3400.0, 4200.0, 4700.0, 5600.0],
+    "pat": [55.0, 1099.9, 1281.5, 726.1, 692.63],
+    "ocf": [60.0, 1210.0, 1410.0, 800.0, 760.0],
+    "capex": [120.0, 150.0, 200.0, 230.0, 280.0],
+    "net_fixed_assets": [500.0, 580.0, 650.0, 750.0, 850.0],
+    "cwip": [50.0, 58.0, 65.0, 75.0, 85.0],
+    "net_working_capital": [50.0, 58.0, 65.0, 75.0, 85.0],
+    "total_debt": [2200.0, 2800.0, 3200.0, 3600.0, 4200.0],
+    "cash_equiv": [2500.0, 3200.0, 3800.0, 4500.0, 5200.0],
+    "net_worth": [3200.0, 4300.0, 5300.0, 5900.0, 6674.0],
+    "dividend_paid": [0.0, 212.0, 290.0, 0.0, 10.0],
+    "tax_rate": [0.26, 0.26, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 65.46,
+    "market_cap_cr": 12700.0,
+    "adtv_cr": 45.0,
+    "shares_outstanding": 193.7,
+    "diluted_shares_outstanding": 193.7,
+    "sector_median_pe": 14.0,
+    "sector_median_pb": 1.8,
+    "ten_year_gsec_yield": 0.065,
+    "gsec_date": "2026-09-12",
+    "forward_eps": null,
+    "book_value_per_share": 34.45
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Microfinance carries high headline yields (~20-24%) but this is a regulator-capped, competitively benchmarked rate, not discretionary pricing power -- RBI/MFIN qualifying-asset and pricing guardrails cap what can be charged, and the deliberate mix-shift toward secured MSME/housing/vehicle loans (48-49% of book by late FY26, up from 44% at FY25-end, per company disclosures) is structurally margin-dilutive by design, trading yield for asset-quality stability. No evidence of company-specific price-hike-through-cycle capability; general industry-structure inference plus disclosed mix-shift data, not a line-by-line NIM decomposition pulled from filings this session."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "The JLG/group-lending model is sometimes cited as creating soft retention via peer accountability, but the sector's own well-documented over-leveraging crisis -- borrowers taking loans from multiple MFIs/SFBs simultaneously, which MFIN and RBI have since moved to cap via lender-count guardrails -- is direct evidence AGAINST durable switching costs: customers routinely multi-bank across lenders with low friction. This is the same root cause of the FY25 sector-wide microfinance stress cycle. Rated RED, not AMBER, deliberately, to avoid crediting a lock-in effect the crisis itself disproves."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No platform/network dynamic in deposit-taking and secured/unsecured lending -- the product does not become more valuable to one customer as more customers join. Structurally absent for this business model, same as any traditional lender."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "SFBs as a class run structurally higher cost-to-income than large private/public banks: a low-cost CASA base is harder to build than for an incumbent bank, and last-mile microfinance distribution (centre meetings, small-ticket collections) is inherently costly per rupee lent. No evidence found this session of Ujjivan achieving a peer-beating cost structure -- this is a genuine cost DISADVANTAGE relative to scaled banks, not a scale-only-capped-AMBER case. Rated HOLDING rather than ERODING because no clear multi-year worsening trend was evidenced either way in this search-only pass."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No documented price premium, patent, or unique licence versus the ~10-12 other small finance banks and NBFC-MFIs competing for the same underserved-borrower segment. Brand recognition among its existing microfinance customer base is real but is a soft trust factor, not a monetised intangible-asset premium versus peers -- no Tier 1-3 evidence of a price premium was found this session."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "India's SFB licences are scarce by regulatory design, which is a genuine industry-level entry barrier -- but that barrier is shared across ~10-12 licensed SFBs plus NBFC-MFIs and universal banks re-entering microfinance post-cleanup, so it is not a duopoly/oligopoly structure, and Ujjivan is not clearly earning above-cost-of-capital returns on it (ROE ~7.9-12.4% depending on the period/measure, likely below a reasonable ~13-15% cost of equity for a bank). Rated ERODING: AU SFB has already converted to a universal bank (approved), Jana SFB and Ujjivan itself have both had universal-bank applications RETURNED by RBI in 2026, and competitive intensity in the core microfinance segment is rising as it recovers from the stress cycle, not falling."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 6,
+    "ownership_transparency": 7,
+    "capital_allocation_discipline": 5,
+    "management_stability": 5,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 6,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 0.0,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "India's small finance bank model is now ~10 years old (licences issued 2015-16), not an emergent or clearly inflecting structure -- it is a maturing, competitively saturated segment currently mid-way through a sector-wide microfinance credit-cost cycle (industry-wide MFI slippages/credit costs spiked through FY25 on borrower over-leveraging, prompting MFIN/RBI guardrails), from which it is recovering but has not yet fully exited: Ujjivan's own slippages ran 2.25% (FY24) -> 4.21% (FY25) -> 3.60% (9MFY26), and GNPA/NNPA ran 2.2%/0.3% (FY24) -> 4.5%/0.5% peak stress (FY25) -> 2.16%/0.34% (Q1FY27), i.e. genuinely improving but only a few clean quarters into the recovery, not several years. AU SFB has already converted to a universal bank; Ujjivan's and Jana's universal-bank applications were both RETURNED by RBI in 2026 for insufficient loan-book diversification, evidence the regulator itself views the model as maturing/transitioning rather than expanding into new addressable space. Loan-book growth (27-29% YoY in FY26/Q1FY27) is fast but is substantially a low-base recovery plus a deliberate mix-shift into secured MSME/housing/vehicle lending -- segments where Ujjivan is a small, sub-scale new entrant against seasoned housing-finance and NBFC incumbents, not a demonstrated share-gainer with any evidenced moat in those adjacent products. Classified MATURE + share-flat (not a documented, evidenced 3-year revenue-CAGR-above-sector share gain in a comparable segment) -- this caps at Steady Compounder under Section 6A and fails the consolidated industry-phase gate as coded.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": false
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 15.0,
+    "own_10y_75th_pctile_pe": 22.0,
+    "sector_10y_75th_pctile_pe": 20.0,
+    "annual_dilution_rate": 0.02,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": ""
+  },
+  "variant_perception": {
+    "market_belief": "The market appears to be pricing Ujjivan as a microfinance-heritage SFB now past the worst of its FY25 asset-quality stress -- Q1FY27 GNPA/NNPA of 2.16%/0.34% (both below Q1FY26 and Q4FY26 levels), Q1FY27 PAT of Rs317 Cr (+207% YoY off a depressed base) and 28.9% YoY loan-book growth are read as a credible recovery, with a future universal-bank licence as a re-rating optionality catalyst. The stock is up ~40% over the past year and ~29% over six months, and trades at ~1.9x book (versus book value per share of Rs34.45) and roughly 18x trailing EPS -- both full multiples for a bank with FY26 ROE in the high single digits to low teens (7.9-12.4% depending on the measure/period) and only a few clean quarters of improving credit metrics.",
+    "whats_wrong_with_belief": "I could not construct a confident, evidence-backed case that the recovery is being systematically UNDERPRICED rather than already substantially reflected, and there is a concrete, recent negative the rally does not appear to fully digest: RBI returned Ujjivan's universal-bank-licence application in April 2026, explicitly citing insufficient loan-book diversification -- the same secured-lending mix-shift the bull case leans on is, per the regulator itself, not yet far enough along. The underlying microfinance segment's credit-cost volatility is structurally real and industry-wide (Ujjivan's own credit cost swung from 0.5% in FY24 to a peak near 1.6-2.45% in FY25), and the current recovery is only 2-4 quarters deep against a multi-year stress cycle that is plausibly still playing out for the sector rather than clearly over. Promoter holding is now 0% (Ujjivan Financial Services was reverse-merged into the bank), which removes rather than adds an alignment/skin-in-the-game signal, and a fresh equity raise (QIP) alongside a near-zero (Rs0.05/share) FY26 dividend both point to a bank still prioritising capital preservation over demonstrated durable compounding. A modest, ordinary-analyst 'asset-quality recovery, re-rate toward peer SFB multiples' observation is plausible, but that is different from a rigorous N7 case with a nameable, persistent M3 edge and a dated catalyst that is genuinely distinct from what the last 12 months of share-price re-rating already appears to be pricing in.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence -- see whats_wrong_with_belief. A credible case would need several more consecutive quarters of sub-1% annualised credit cost across the FULL loan book (not just the improving MFI slice) AND either a successful re-application/approval of the universal bank licence or clear, evidenced share gains in the new secured segments, none of which is demonstrated by the (partial, search-only) evidence gathered here.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "other",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": false,
+  "notes": "BFSI name -- is_regulated_utility_or_bfsi=True per the G1/Section 5e/6B BFSI carve-outs in FRAMEWORK_v2.2.md; industry_context.addressable_profit_pool_cr is left null since a lender has no product-market TAM concept, per the v2.2 6B implementation note. 'EBITDA' in the financials series is a rough NII (+some fee income) proxy, not comparable to a non-financial company's EBITDA -- same convention used for the BAJFINANCE.json and SOUTHBANK.json reference dossiers in this repo. DATA QUALITY -- WELL-SOURCED (Tier 3, cross-corroborated across multiple independent aggregator/press results, but not independently pulled from a primary exchange filing or audited annual report PDF in this session): FY23/FY24/FY25 net interest income (Rs2,697.9 / 3,409.5 / 3,636.3 Cr), FY23-FY26 PAT (Rs1,099.9 / 1,281.5 / 726.1 / 692.63 Cr, the last two explicitly reported/audited full-year figures), FY25/FY26 total income (Rs7,201 / 8,039 Cr), gross/net NPA trend across FY24-Q1FY27 (2.2%/0.3% -> 4.5%/0.5% peak -> 2.5%/0.7% (Q1FY26) -> 2.26%/0.43% (Q4FY26) -> 2.16%/0.34% (Q1FY27)), FY25 slippages 4.21% vs FY24 2.25%, CAR (Q1FY27 20.36%, down from 22.77% Q1FY26), current price (Rs65.46, 14-Sep-2026), market cap (~Rs12,700-12,755 Cr), P/B (~1.9x), shares outstanding (~193.7 Cr), 52-week range (Rs43.88-73.90, +40% 1yr), promoter holding (0% as of Jun-2026, post reverse-merger of Ujjivan Financial Services into the bank), FY26 dividend (Rs0.05/share final, recommended), and the RBI's April 2026 return of the universal-bank-licence application citing insufficient diversification. RECONSTRUCTED (Tier 5, this session, NOT independently verified): the entire non-interest-income balance-sheet series -- FY22 revenue/PAT/depreciation/interest-expense, and ALL years' capex, net fixed assets, CWIP, 'net working capital', total borrowings (total_debt, deliberately excludes deposits, which are not treated as 'debt' for the D/E concept any more than for the SOUTHBANK/BAJFINANCE reference dossiers), cash & balances, net worth (built to match the reported book-value-per-share x shares-outstanding anchor at FY26 and the FY25 ROE~12.4%/PAT~726 Cr anchor, walked backward), OCF, and dividend_paid for years other than the FY26 Rs0.05/share figure -- are Tier 5 reconstructions built from a small number of real anchors (NII, PAT, total income, book value per share, ROE) plus bank-typical ratio assumptions, walked to be internally consistent. Sector median P/E (14x) and P/B (1.8x), the 10-year G-sec yield (6.5%), ADTV (Rs45 Cr/day) and all bridge_assumptions are Tier 5 analyst estimates, not sourced this session. STRUCTURAL CAVEAT (not a data-quality issue, same one flagged in SOUTHBANK.json): Section 5e's ROIIC/reinvestment-rate formula (net fixed assets + CWIP + net working capital as 'invested capital') does not describe a bank's real economics -- a bank's true growth capital is its loan book funded by deposits/borrowings, not fixed assets -- so this dossier's computed ROIIC/engine-growth figures are a known artifact of a near-zero, non-representative denominator and should NOT be read as a genuine measure of this bank's compounding capacity in either direction. A genuine BFSI-specific Section 5e variant (incremental spread income / incremental risk-weighted assets, book-value-per-share CAGR, credit-cost-adjusted ROE) does not yet exist in this framework (v2.2 denominator ledger: 'proposed, not yet specified, n=0'). Moat sources were rated skeptically and deliberately given the MFI-heritage, sector-stress context: 0 GREEN, 0 AMBER, 6 RED -- the framework's own expectation for a small, sub-scale, commoditised lender under real credit-cost stress, arguably an even more skeptical read than the SOUTHBANK.json comparable (0 GREEN, 1 AMBER, 5 RED) because Ujjivan's core MFI franchise shows direct, sector-wide evidence AGAINST a switching-costs moat (documented borrower over-leveraging/multi-lending) rather than merely an absent one. variant_perception.answered is honestly set to False: a plausible, ordinary 'asset-quality recovery not yet fully re-rated' narrative exists, but I could not construct a rigorous, evidence-backed N7 case with a nameable, persistent M3 edge and a dated gap-closing catalyst genuinely distinct from what the stock's own +40% one-year re-rating and heavily-covered quarterly 'profit surge' press coverage already appear to reflect -- and RBI's April 2026 licence-application return is a concrete, recent negative the bull case does not squarely address. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction, not a completed adversarial (M5) review with a logged hostile source and a cooling period."
+}

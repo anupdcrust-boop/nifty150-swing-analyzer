@@ -1,0 +1,131 @@
+{
+  "symbol": "EICHERMOT.NS",
+  "name": "Eicher Motors Limited",
+  "sector": "Automobiles",
+  "industry": "Premium/mid-size motorcycles (Royal Enfield) + Commercial Vehicles JV (VECV, equity-accounted)",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025],
+    "revenue": [7232.0, 9451.0, 13395.0, 16537.6, 18870.35],
+    "ebitda": [1301.8, 1984.7, 3080.9, 4002.1, 4717.6],
+    "depreciation": [144.6, 189.0, 267.9, 330.8, 377.4],
+    "interest_expense": [20.0, 25.0, 40.0, 70.0, 94.0],
+    "pat": [818.8, 1292.6, 2052.0, 4001.2, 4734.44],
+    "ocf": [1041.4, 1587.8, 2464.7, 3201.7, 3774.1],
+    "capex": [361.6, 472.6, 669.8, 826.9, 943.5],
+    "net_fixed_assets": [1446.4, 1890.2, 2679.0, 3307.5, 3774.1],
+    "cwip": [217.0, 283.5, 401.9, 496.1, 566.1],
+    "net_working_capital": [-361.6, -472.6, -669.8, -826.9, -943.5],
+    "total_debt": [185.0, 205.0, 235.0, 265.0, 298.0],
+    "cash_equiv": [3616.0, 4726.0, 6698.0, 8269.0, 9435.0],
+    "net_worth": [18500.0, 20500.0, 23500.0, 26500.0, 29800.0],
+    "dividend_paid": [123.0, 258.5, 615.6, 1400.4, 1875.7],
+    "tax_rate": [0.28, 0.27, 0.26, 0.26, 0.25]
+  },
+  "market": {
+    "price": 7530.0,
+    "market_cap_cr": 206312.34,
+    "adtv_cr": 150.0,
+    "shares_outstanding": 27.4,
+    "diluted_shares_outstanding": 27.4,
+    "sector_median_pe": 27.5,
+    "sector_median_pb": 6.0,
+    "ten_year_gsec_yield": 0.065,
+    "gsec_date": "2026-09-18",
+    "forward_eps": 200.0,
+    "book_value_per_share": 1102.0
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Royal Enfield has genuinely sustained a premium over domestic alternatives in the 250-450cc category for years and FY25 EBITDA margin (~25%, up ~89bps YoY per company release) shows continued, if modest, pricing/mix strength. But Q1 FY26 shows a real early crack: EBITDA grew only 3.2% YoY (Rs1,203cr vs Rs1,165cr) while revenue grew 14.8% (Rs5,042cr vs Rs4,393cr) -- margin growth clearly lagging volume/revenue growth in the most recent reported quarter. Newly launched, aggressively priced rivals (Hero-Harley X440 at Rs2.29-2.69 lakh, Bajaj-Triumph Speed 400/Scrambler 400X) are entering exactly the price band Royal Enfield has historically owned, which is a real, not hypothetical, test of this pricing power going forward. Held at AMBER/HOLDING rather than GREEN/BUILDING because the trend is not unambiguously widening any more."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "There is no structural switching cost in motorcycle ownership -- a Royal Enfield owner can buy a Triumph, Harley-Davidson X440, or Honda CB350 at the next purchase with no lock-in, data, or integration cost. Brand loyalty and an active owners'/riding-club culture soften churn emotionally but do not create a real economic switching barrier. Rated honestly as a genuinely weak leg of the moat, not an underrated one."
+    },
+    {
+      "name": "network_effects",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "A motorcycle is a private good with no direct network effect in the platform-economics sense -- one owner's purchase does not mechanically make the product more valuable to another. Royal Enfield does have an unusually active global rider-club/community culture (organised rides, owners' groups across 80+ export markets) that provides a soft, reputational reinforcement of the brand rather than a hard economic moat. Rated AMBER rather than RED/NOT_RATED to reflect this genuine (if weak, non-quantifiable) community effect, without overstating it as a real structural barrier to entry."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Royal Enfield's volume lead is real and large -- FY25 volumes crossed 1,002,893 units (+10% YoY) and FY26 full-year volumes reportedly reached ~1,238,659 units (+23% YoY per trade press), dwarfing the still-small volumes of Bajaj-Triumph and Hero-Harley in the same category, which supports a genuine manufacturing-scale cost edge today. Held at AMBER/HOLDING rather than GREEN/BUILDING because the new entrants are themselves backed by India's largest two-wheeler manufacturers (Bajaj Auto, Hero MotoCorp) with substantial cross-segment manufacturing scale of their own, so it is not yet clear this specific-segment cost gap will keep widening rather than being competed away."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Royal Enfield is a genuine heritage brand (in continuous motorcycle production since the early 1900s) with real, evidenced international momentum: export volumes grew 23% for full FY26 to 131,316 units (49% YoY growth in H1 FY26 alone) across 80+ international markets, and trade press credits the brand with the number-one position in SAARC markets and overtaking Harley-Davidson as the fastest-expanding middleweight motorcycle brand globally. This is a real, structural, evidenced brand/intangible-asset strength, not a media narrative alone -- rated GREEN/BUILDING on that basis."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "ERODING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Royal Enfield still holds a commanding ~93% share of the narrower 250-350cc segment (FY26, per trade press), but the fastest-growing adjacent band -- the 350-450cc segment, up 32.3% YoY in May 2026 alone -- is precisely where Bajaj-Triumph, Hero-Harley (X440) and Honda (CB350) are concentrating their new launches. A once near-exclusive niche is now being directly and simultaneously targeted by three large, well-capitalized domestic/global rivals, which is real evidence the efficient-scale barrier is being tested rather than reinforced. Rated ERODING honestly rather than left at BUILDING/HOLDING; this is not yet a collapse (RE remains dominant and is itself accelerating volumes and international share), but the trend in the contested sub-segment is toward more competitors profitably coexisting, not fewer."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 8,
+    "ownership_transparency": 9,
+    "capital_allocation_discipline": 8,
+    "management_stability": 8,
+    "leverage_pledge_legal": 10,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 49.06,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "India's mid-size (250-450cc) motorcycle segment is growing well above overall two-wheeler industry rates (350-450cc band up 32.3% YoY in May 2026; the 250-350cc segment itself grew 26.4% in FY26 to 1.1 million units) on rising premiumization, while Royal Enfield's own export volumes grew 23% for FY26 (49% YoY in H1 FY26) across 80+ markets -- both the domestic premiumization trend and the international expansion are genuine, evidenced, still-early structural drivers rather than a mature, flat category. At the same time this inflection is now attracting simultaneous entry from Bajaj-Triumph, Hero-Harley and Honda, so the category is inflecting for the segment as a whole, not guaranteed to inflect Eicher's profit share within it at the same rate.",
+    "addressable_profit_pool_cr": 12000.0,
+    "current_profit_share_pct": 65.0,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": true
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.5,
+    "horizon_years": 7,
+    "assumed_exit_pe": 35.0,
+    "own_10y_75th_pctile_pe": 42.0,
+    "sector_10y_75th_pctile_pe": 32.0,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "No credible, evidenced structural margin-EXPANSION lever was identified beyond the current ~25% EBITDA margin level -- the most recent reported quarter (Q1 FY26) actually shows margin growth lagging revenue growth (EBITDA +3.2% vs revenue +14.8% YoY), and rising competitive intensity in the core price band is a real headwind to margin, not a tailwind. Per the 6A rule this term is set to zero and the bridge is run on revenue-driven growth only (backed by exports/premiumization volume growth and new-platform launches such as the Himalayan 750 and the Flying Flea electric range), not on assumed further margin expansion."
+  },
+  "variant_perception": {
+    "market_belief": "The market prices Eicher Motors as a best-in-class, structurally-moated compounder (dominant Royal Enfield brand, near-debt-free balance sheet, ~25% EBITDA margins, accelerating export growth, new EV optionality via Flying Flea, steady VECV JV profit contribution) and awards it a large premium to two-wheeler sector peers (trailing P/E roughly 40-44x vs an estimated two-wheeler sector median in the high-20s).",
+    "whats_wrong_with_belief": "Honestly: I could not build a credible, evidence-backed case that the market is currently UNDERvaluing this business, which is what a genuine N7 answer requires. The bull case here (export acceleration, Himalayan 750, Flying Flea EV platform, VECV steady-state contribution) is exactly the case that is already being actively covered and celebrated in trade press, earnings-call commentary and sell-side notes on this heavily-tracked Nifty50 large-cap -- there is no coverage-neglect edge available. A time-horizon argument (the market underweights how much bigger exports/EV can become over a decade) is plausible but not something I can evidence as currently mispriced rather than already-priced-in at a ~40x+ multiple. Meanwhile there is a real, current headwind the bull case tends to understate: Q1 FY26 already shows EBITDA growth (+3.2%) badly lagging revenue growth (+14.8%), and three large, well-funded domestic/global rivals (Bajaj-Triumph, Hero-Harley, Honda) are now launching directly into Royal Enfield's core 350-450cc price band. At an already-rich valuation, the more defensible reading is that the market is paying up for continued flawless execution against a genuinely intensifying competitive backdrop, not that it is missing an underappreciated upside case -- the opposite of a variant-perception multibagger setup.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": 0.16,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "DATA QUALITY: WELL-SOURCED (Tier 3, cross-validated across multiple independent business-press articles this session -- Screener/Moneycontrol/Tijori/NSE archives and most aggregator sites were unreachable from this environment): FY25 (Apr'24-Mar'25) consolidated total revenue Rs18,870.35 Cr (+14.11% YoY) and PAT Rs4,734.44 Cr (+18.33% YoY); FY25 EBITDA ~Rs4,710 Cr at ~25% margin (+89bps YoY); Royal Enfield FY25 volumes crossed 1,002,893 units (+10% YoY), the brand's first year above 1 million units; FY26 (reported as already complete as of this Sep-2026 snapshot) Royal Enfield volumes ~1,238,659 units (+23% YoY) with export volumes of 131,316 units (+23% YoY, +49% YoY in H1 FY26 alone) across 80+ international markets; Q1 FY26 revenue Rs5,042 Cr (+14.8% YoY), PAT Rs1,205 Cr (+9.4% YoY), EBITDA Rs1,203 Cr (+3.2% YoY -- margin growth clearly lagging revenue growth, a genuine and current data point, not editorializing); VECV (54.4%-owned JV, EQUITY-ACCOUNTED under Ind AS 28, NOT line-by-line consolidated into Eicher's revenue/EBITDA -- confirmed via search, and this is an important structural fact: Royal Enfield contributes over 80% of Eicher's own consolidated revenue, with VECV's profit entering only as a single 'share of profit of joint venture' PAT line, e.g. Rs174.6 Cr in Q1 FY25 alone) reported FY25 standalone revenue Rs23,548 Cr (+7.7%), EBITDA Rs2,023 Cr, PAT Rs1,286 Cr, volumes ~90,000 units (+5.4%); promoter holding 49.06-49.02% (Jun/Jul 2026 filings), explicitly confirmed via an April 2026 SEBI filing as having NO share encumbrance/pledge; ROCE ~31.7% and ROE ~25.1% (Screener, current), Debt/Equity ~0.01 i.e. virtually debt-free (Mar 2025); current price ~Rs7,516-7,555 and market cap ~Rs2,06,312 Cr as of 18-Sep-2026 (cross-validated across multiple snapshots); FY25 basic EPS Rs156.15/diluted EPS Rs155.80, FY25 dividend payout ratio ~39.62% (Rs70/share final dividend); Royal Enfield holds ~93% share of the 250-350cc segment in FY26 even as the adjacent, faster-growing 350-450cc segment (+32.3% YoY in May 2026) is being directly contested by Bajaj-Triumph (Speed 400, Scrambler 400X), Hero-Harley-Davidson (X440, priced Rs2.29-2.69 lakh) and Honda (CB350); confirmed upcoming FY26/27 launches: Himalayan 750 (new 750cc platform), Flying Flea C6/S6 (Royal Enfield's first dedicated electric motorcycle/scrambster range), Interceptor 750/Continental GT-R 750, Bullet 650. RECONSTRUCTED/APPROXIMATE (Tier 5, flagged accordingly and NOT fit to clear a NAVY-binding gate): the full FY2021-FY2024 annual balance-sheet series and FY2021-2023 revenue/PAT/EBITDA figures (only FY24-25 revenue/PAT are real, search-derived anchors -- FY24 was itself back-solved algebraically from the FY25 YoY growth percentages rather than independently sourced; FY21-23 are general-knowledge-informed backcasts reflecting the real, publicly known COVID-dip-then-recovery shape of this business, not independently re-verified via search this session); depreciation, interest expense, OCF (modelled as a flat 80% of EBITDA, a simplifying convention not evidenced from filings), capex, net fixed assets, CWIP, net working capital, total debt, cash and net worth for every year are modelled from assumed two-wheeler-style capital-intensity ratios (low capex, structurally negative working capital from dealer advances, large surplus cash treasury), calibrated so the resulting FY25 Debt/Equity (~0.01) matches the real cited figure, but this is a coincidence of calibration, not independent verification of the balance sheet; the resulting computed ROCE (~21%, per this framework's own EBIT/capital-employed formula) is MATERIALLY LOWER than the externally reported ~31.7% (Screener) -- flagged as a genuine, unresolved discrepancy (most likely explained by a narrower operating-capital-employed base used by aggregators that nets out the large surplus cash/investment balance differently) rather than smoothed over; shares outstanding (~27.4 Cr) was triangulated from TTM EPS/PAT rather than sourced directly; sector median P/E (~27.5x, from Hero MotoCorp's cited industry-average comparison) and P/B (~6.0x), ADTV (~Rs150 Cr/day), the addressable profit pool (~Rs12,000 Cr) and current profit share (~65%), the 10-year G-sec yield (6.5%, Sep-2026) and both bridge-assumption PE percentiles are all Tier 5 analyst-style estimates, not directly sourced. variant_perception.answered is honestly set to False: no credible, evidence-backed market-is-underpricing-this thesis could be constructed for an already richly-valued (~40x+ trailing), heavily-covered Nifty50 large-cap facing a real, current margin-growth-lagging-revenue-growth signal and simultaneous entry by three large rivals into its core price band -- per the engine's own N7/M3 rule this dossier should cap at WATCH regardless of its composite score."
+}

@@ -1,0 +1,227 @@
+{
+  "symbol": "NESTLEIND.NS",
+  "name": "Nestle India Limited",
+  "sector": "FMCG / Consumer Staples",
+  "industry": "Packaged foods, beverages and infant nutrition",
+  "financials": {
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "revenue": [
+      15300.0,
+      16896.96,
+      18100.0,
+      19200.0,
+      20201.6
+    ],
+    "ebitda": [
+      3213.0,
+      3632.85,
+      4163.0,
+      4608.0,
+      5050.4
+    ],
+    "depreciation": [
+      459.0,
+      540.7,
+      615.4,
+      672.0,
+      720.0
+    ],
+    "interest_expense": [
+      46.0,
+      50.0,
+      55.0,
+      58.0,
+      60.0
+    ],
+    "pat": [
+      1950.0,
+      2283.26,
+      2750.0,
+      3000.0,
+      3207.6
+    ],
+    "ocf": [
+      2731.0,
+      3124.0,
+      3622.0,
+      4055.0,
+      4545.0
+    ],
+    "capex": [
+      535.5,
+      760.4,
+      995.5,
+      1248.0,
+      1414.1
+    ],
+    "net_fixed_assets": [
+      4284.0,
+      5069.0,
+      5973.0,
+      6912.0,
+      8080.6
+    ],
+    "cwip": [
+      300.0,
+      450.0,
+      650.0,
+      900.0,
+      1100.0
+    ],
+    "net_working_capital": [
+      -1200.0,
+      -1300.0,
+      -1350.0,
+      -1400.0,
+      -1450.0
+    ],
+    "total_debt": [
+      650.0,
+      750.0,
+      850.0,
+      950.0,
+      1045.0
+    ],
+    "cash_equiv": [
+      1000.0,
+      1150.0,
+      1350.0,
+      1550.0,
+      1800.0
+    ],
+    "net_worth": [
+      3600.0,
+      3900.0,
+      4200.0,
+      4500.0,
+      4850.0
+    ],
+    "dividend_paid": [
+      1560.0,
+      1826.6,
+      2200.0,
+      2400.0,
+      2566.1
+    ],
+    "tax_rate": [
+      0.28,
+      0.26,
+      0.26,
+      0.25,
+      0.25
+    ]
+  },
+  "market": {
+    "price": 1383.3,
+    "market_cap_cr": 266743.72,
+    "adtv_cr": 180.0,
+    "shares_outstanding": 192.8,
+    "diluted_shares_outstanding": 192.8,
+    "sector_median_pe": 55.0,
+    "sector_median_pb": 15.0,
+    "ten_year_gsec_yield": 0.068,
+    "gsec_date": "2026-09-11",
+    "forward_eps": 21.5,
+    "book_value_per_share": 25.16
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Maggi/Nescafe/KitKat/Cerelac carry a durable premium over unbranded and regional competitors and the company has historically passed through commodity-cost inflation via price hikes without losing category leadership (EBITDA margin held/expanded from ~21% to ~25% over the reconstructed 2021-2025 series even through cocoa/coffee/edible-oil cost cycles). Trajectory held at HOLDING rather than BUILDING because FY26 quarters have shown volume softness in rural/value segments, suggesting the pricing ceiling for the mass-market portfolio may be tightening, not widening."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Packaged foods carry structurally low consumer switching costs -- there is no lock-in, contract, or data/integration cost stopping a shopper from buying ITC's Yippee!, HUL's Knorr, or a regional/D2C noodle or coffee brand at the next purchase. Habitual brand loyalty softens this but does not create a real switching barrier; this is a genuinely weak leg of Nestle India's moat, not an underrated one."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Not applicable to a packaged-goods manufacturing/distribution business -- one consumer's purchase of Maggi does not make the product more valuable to another consumer. Structurally absent, not eroding."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "EBITDA margins in the 23-25% range (Q3 FY25 reported at 24.8%, search-sourced) sit well above most Indian mid-cap packaged-food peers, reflecting decades of amortized manufacturing scale, parent-group procurement/R&D leverage, and category-leadership volume. An ongoing multi-year capacity-expansion capex program (capex rising from ~3.5% to ~7% of revenue in the reconstructed series) is being framed by the company as widening this scale-cost gap further, though the near-term effect is capital intensity rising faster than EBIT."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Maggi, Nescafe, Cerelac and KitKat are among the most trusted FMCG brands in India, built over 30-40+ years; infant-nutrition and staple-food categories in particular reward exactly this kind of trust, which is slow to build and slow to lose. The brand's full recovery from the 2015 Maggi lead-content ban is itself evidence of durability. Held at HOLDING rather than BUILDING because no material new brand-equity investment or IP disclosure was found in this search to justify an upgrade; younger D2C/direct-to-Gen-Z challenger brands are a real, if still small, erosion risk to monitor."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Nestle India has expanded its direct rural distribution reach from an estimated 1.2 million villages in 2022 to 1.5 million in 2024, targeting 2 million by FY28 (search-sourced trade coverage) -- a genuine distribution-scale barrier versus smaller regional players. Rated AMBER rather than GREEN because, unlike a true natural-monopoly/efficient-scale category, Indian packaged foods comfortably supports several large national players (HUL, ITC, Britannia, Dabur, Mondelez) side by side, so scale alone is not a hard barrier to entry or profitable coexistence."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 6,
+    "board_audit_independence": 8,
+    "ownership_transparency": 9,
+    "capital_allocation_discipline": 7,
+    "management_stability": 8,
+    "leverage_pledge_legal": 10,
+    "earnings_quality": 8,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 62.76,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Nestle India's core categories (instant noodles, coffee, infant/dairy nutrition, chocolates) are large, deeply penetrated, mature staple categories in urban India with mid-single-digit volume growth; FY26 quarters (Q1 FY26 PAT down 13.4% YoY on cost pressure, alongside repeated commentary on rural-demand softness) show a maturing, not inflecting, growth algorithm. Pockets of INFLECTION-like growth remain (premiumization, rural distribution expansion from 1.2mn to a targeted 2mn villages by FY28, new product lines such as 'Maggi Hot Heads'), but they are not yet large enough to re-characterize the consolidated business as anything other than MATURE.",
+    "addressable_profit_pool_cr": 25000.0,
+    "current_profit_share_pct": 17.0,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": false
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 10,
+    "assumed_exit_pe": 55.0,
+    "own_10y_75th_pctile_pe": 65.0,
+    "sector_10y_75th_pctile_pe": 58.0,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "No structural, evidenced margin-expansion mechanism was identified (margin moves in the reconstructed series track commodity cost cycles, not a durable structural lever) -- per the 6A rule this is set to zero and the bridge is run on revenue-driven growth only, which given ~6% recent revenue CAGR and an already-rich ~70x trailing multiple cannot credibly clear a large multi-bagger target within a normal horizon."
+  },
+  "variant_perception": {
+    "market_belief": "The market prices Nestle India as a best-in-class, all-weather FMCG compounder that deserves a structural premium to the sector (trailing P/E ~70x vs an estimated ~55x FMCG staples median) on the strength of its brand moat, margin profile, MNC capital discipline, and near-90%+ historical capital efficiency.",
+    "whats_wrong_with_belief": "Honestly: I could not construct a credible, evidence-backed case that the market is UNDERvaluing this business, which is what a real N7 variant-perception answer requires. Revenue growth has been mid-single-digit (~6% CAGR on the anchors found here) with real signs of rural/volume softness (Q1 FY26 PAT down 13.4% YoY on cost pressure); the ~80% payout ratio limits reinvestment-driven compounding; two of the six moat sources (switching_costs, network_effects) are genuinely weak/absent, not just under-covered; and the stock is a heavily tracked, consensus 'quality' Nifty50 name, not a neglected one. At ~70x trailing earnings the market already appears to be pricing near-flawless execution for years to come -- if anything the more defensible read is that this is a business the market may be OVER-rating relative to its realistic growth algorithm, which is the opposite of a multibagger setup.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": 0.11,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "DATA QUALITY: WELL-SOURCED (Tier 3, cross-validated across multiple independent web search snippets/quarters -- Screener/Moneycontrol/Tijori/NSE archives were unreachable from this environment): CY2022 revenue Rs16,896.96 Cr / PAT Rs2,283.26 Cr; FY2025 (Apr'24-Mar'25) full-year revenue ~Rs20,201.6 Cr / PAT ~Rs3,207.6 Cr (reconciled by summing/cross-checking quarterly Q3/Q4 FY25 releases, since one aggregator snippet's 'FY2025 revenue Rs24,437 Cr' figure looks internally inconsistent with the quarterly run-rate and was discarded as likely conflated with the company's earlier 15-month transition-period accounts, Jan-2023 to Mar-2024); promoter (Nestle S.A.) holding 62.76%, stable, 0% pledge; current price Rs1,383.3 and market cap ~Rs2,66,744 Cr as of 11-Sep-2026 (cross-validated across 4 independent snapshots in the Rs2.67-2.93 lakh Cr range); trailing P/E ~69.7-70x and TTM diluted EPS ~Rs19.77 (as of Jun-2026), which are internally consistent via price/EPS; analyst-consensus forward EPS ~Rs21.50. Real qualitative facts used in the moat section: rural distribution reach 1.2mn->1.5mn villages (2022->2024), Maggi's ~60-65% instant-noodle category share, and a long-standing, proxy-advisor-flagged related-party royalty arrangement paying Nestle S.A. an evergreen ~4.5%-of-net-sales royalty without a fresh shareholder vote (reflected in the related_party_conduct=6 governance score). RECONSTRUCTED/APPROXIMATE (Tier 5, flagged accordingly, not fit to clear a NAVY-binding gate): the full FY2021-FY2024 annual balance-sheet series (only FY2022 and FY2025 revenue/PAT are real anchors; depreciation, interest, OCF, capex, net fixed assets, CWIP, net working capital, total debt, cash and net worth for every year are modelled from typical Nestle-India-style capital-intensity/negative-working-capital assumptions, not sourced); ROCE/ROE/D-E -- aggregator search snippets disagreed sharply and non-reconcilably (one snippet gave ROCE 58% / ROE 68% / D-E 18.8%, which are not jointly consistent with a simple balance sheet at the reported PAT and EBIT), so the reconstructed balance sheet here instead targets Nestle India's long-documented reputation for extreme (80-100%+) capital efficiency on a near-zero-debt base, which mechanically produces a computed ROCE over 100% in FY2025 -- materially higher than the single 58% data point found, and flagged as a genuine, unresolved discrepancy rather than smoothed away; shares outstanding (192.8 Cr) was itself only resolvable by triangulating market-cap/price/P/E-implied share count across multiple searches, since a naive face-value calculation from one snippet ('equity capital Rs96.42 Cr') implied a materially different (and, given the cross-validated market cap and EPS, less credible) count; sector median P/E (~55x) and P/B (~15x), ADTV (~Rs180 Cr/day), addressable profit pool (~Rs25,000 Cr) and the 10-year G-sec yield (6.8%, Sep-2026) are all Tier 5 analyst estimates, not directly sourced. variant_perception.answered is honestly set to False: no credible, evidence-backed market-is-underpricing-this thesis could be constructed at a ~70x trailing multiple on a mid-single-digit-growth staples business, so per the engine's own N7/M3 rule this dossier should cap at WATCH regardless of its composite score."
+}

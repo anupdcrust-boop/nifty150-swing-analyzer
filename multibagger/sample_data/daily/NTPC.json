@@ -1,0 +1,131 @@
+{
+  "symbol": "NTPC.NS",
+  "name": "NTPC Limited",
+  "sector": "Utilities",
+  "industry": "Government-owned, regulated-return power generation utility -- India's largest thermal (coal/gas) generator with a fast-growing renewable-energy arm (NTPC Green Energy); tariffs set under CERC cost-plus regulations with an assured RoE on regulated equity, not market-priced",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025],
+    "revenue": [103552.71, 120042.43, 167724.0, 165707.0, 174414.0],
+    "ebitda": [31066.0, 34812.3, 40253.8, 44740.9, 50580.1],
+    "depreciation": [11088.0, 11731.0, 12391.0, 13134.0, 13936.0],
+    "interest_expense": [4678.5, 4772.6, 7630.1, 9825.0, 12681.8],
+    "pat": [13769.52, 16111.42, 17197.0, 18079.0, 19649.0],
+    "ocf": [23299.5, 26109.2, 30190.4, 33555.7, 37935.1],
+    "capex": [14000.0, 16500.0, 18500.0, 20500.0, 23000.0],
+    "net_fixed_assets": [277193.0, 293285.0, 309783.0, 328347.0, 348394.0],
+    "cwip": [78183.0, 82742.0, 87375.0, 92611.0, 98265.0],
+    "net_working_capital": [5178.0, 6002.0, 8386.0, 8285.0, 8721.0],
+    "total_debt": [200102.0, 211914.0, 224569.0, 237776.0, 252180.0],
+    "cash_equiv": [3107.0, 3601.0, 5032.0, 4971.0, 5232.0],
+    "net_worth": [158308.9, 167653.5, 177627.8, 188113.6, 199510.0],
+    "dividend_paid": [5783.2, 6787.67, 7223.0, 7593.0, 8099.5],
+    "tax_rate": [0.10, 0.12, 0.15, 0.17, 0.18]
+  },
+  "market": {
+    "price": 333.4,
+    "market_cap_cr": 323286.85,
+    "adtv_cr": 450.0,
+    "shares_outstanding": 969.90,
+    "diluted_shares_outstanding": 969.90,
+    "sector_median_pe": 15.0,
+    "sector_median_pb": 1.8,
+    "ten_year_gsec_yield": 0.0702,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": 205.70
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "NTPC does not set its own prices in any market sense: tariffs for the large majority of its regulated generating capacity are fixed by CERC under a cost-plus formula (capacity charge covering fixed costs plus an assured Return on Equity, historically ~15.5% on regulated equity for eligible plants, subject to plant-availability norms) with full fuel-cost pass-through to offtaking discoms. This gives real revenue CERTAINTY (a different and genuine quality) but is the opposite of pricing power as Section 5 defines it -- NTPC cannot raise realizations to capture excess value; the regulator sets the return ceiling. Rated RED for this specific source rather than inflated to reflect the (real, but differently-named) regulated-return certainty, which is captured qualitatively in the dossier notes and the is_regulated_utility_or_bfsi carve-out instead of forced into this box."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "NTPC's offtake is contracted through long-term (typically 25-year) Power Purchase Agreements with state discoms and other bulk buyers under Section 62/79 of the Electricity Act, plus 'must-run'/merit-order status for large baseload plants -- these are genuine, multi-decade structural lock-ins, not soft brand loyalty; a discom cannot costlessly walk away from an existing PPA. Rated HOLDING, not BUILDING: this is the standard structure for the entire regulated-generation industry (every large gencos, private and PSU, sells under similarly long PPAs), so it is not something NTPC is uniquely widening -- it is being defended/maintained, industry-wide, not expanded as a company-specific edge."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Electricity generation and sale under a regulated PPA does not get more valuable to one customer as more customers join -- structurally absent for this business model, as for any single-generator utility name."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "NTPC is reported to run plant load factors (PLF) above the all-India fleet average and benefits from decades-old coal linkages, in-house O&M expertise and scale in fuel procurement/logistics across ~90 GW of installed capacity (NTPC Group, per company press releases, May-2026) -- a real, evidenced operating-cost edge over smaller gencos. Rated AMBER rather than GREEN per the framework's own 'scale-only capped AMBER' rule: this reads as a scale/incumbency-driven efficiency advantage (bigger fleet, longer operating history, deeper linkages) rather than a documented, transferable technology or process edge a similarly-scaled new entrant could not eventually replicate."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "As a Maharatna CPSE with sovereign ownership (~51.1% GoI stake), NTPC carries an implicit sovereign-backing / domestic AAA-credit-rating advantage that lowers its cost of debt relative to private IPPs -- a genuine, funding-cost-relevant intangible. No Tier 1-3 evidence was pulled this session quantifying this as a monetised spread (e.g. a specific bps cost-of-debt gap vs. Adani Power/Tata Power/JSW Energy), so capped at AMBER rather than GREEN per Section 5's own price/margin-premium evidentiary bar."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "NTPC Group is India's largest power generation utility, having crossed 90 GW installed capacity in 2026 (~19% of India's total generation capacity) with a stated target of 149 GW by 2032 (including 60 GW renewable) -- a ~65% capacity increase in six years, funded by a disclosed ~Rs 16-17 lakh crore, multi-decade group capex plan skewed toward renewables and nuclear. This is genuine, evidenced scale EXPANSION (not merely flat incumbency being defended), which is why it is rated BUILDING rather than HOLDING, unlike a mature, share-flat name. IMPORTANT CAVEAT: the underlying evidence is company press releases and secondary media coverage of them (T5_MEDIA), not an independently audited or regulatory-filed capacity/capex figure pulled this session -- per Section 5b-T / the moat-trajectory gate's own Tier 1-3 requirement, this BUILDING rating does NOT clear the gate on its stated evidence tier, and the composite engine is expected to (correctly) treat the moat-trajectory gate as failed on this dossier despite the qualitative BUILDING call being, in the analyst's honest judgement, the right one."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 6,
+    "ownership_transparency": 9,
+    "capital_allocation_discipline": 6,
+    "management_stability": 5,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 51.1,
+    "promoter_holding_3y_direction": "FALLING",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "NTPC's legacy coal thermal fleet is a large, MATURE, regulated-return business tracking India's ~5-6%/yr power-demand growth -- on that slice alone this would be a MATURE classification, same as SBI's banking book. The INFLECTION call rests specifically on the industry-wide renewable-energy build-out NTPC is now central to: NTPC Group's own installed-capacity target rises from ~90 GW (2026) to 149 GW by 2032 (+65% in six years, ~60 GW of it renewable, per company press releases), against a backdrop of India's broader post-2022 power-demand supercycle (data centres, EV charging, manufacturing/PLI-driven industrial load, and a decade-long capacity-addition lull 2015-2022 now reversing into a fresh investment cycle) -- a materially different growth/capital-intensity regime than the flat-to-slow-growing thermal-only era. This is a genuine, evidenced structural shift, not a hoped-for one, but it is NOT the same as a normal company gaining product-market share: NTPC's addressable market is effectively 'India's total dispatched electricity,' allocated substantially through regulation/central planning rather than won through customer choice, which is why addressable_profit_pool_cr is left null below (no conventional product-market TAM/profit-pool concept applies to a centrally-planned, cost-plus generation utility, analogous to the BFSI carve-out's treatment of a lender's balance sheet).",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 1.8,
+    "horizon_years": 5,
+    "assumed_exit_pe": 15.0,
+    "own_10y_75th_pctile_pe": 18.0,
+    "sector_10y_75th_pctile_pe": 17.0,
+    "annual_dilution_rate": 0.02,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "No margin-expansion assumption is made: NTPC's regulated equity return is capped by CERC tariff regulations (assured RoE on approved capital, not a market-determined margin), so per Section 6A's own rule this dossier's N1 bridge is run entirely on revenue/capacity-driven growth plus a modest exit-multiple re-rating (13.6x current standalone-basis P/E toward a ~15-17x sector/own-history range), not on any assumed structural margin uplift."
+  },
+  "variant_perception": {
+    "market_belief": "The market prices NTPC as a safe, low-growth, high-payout, government-owned utility bond-proxy: trading around ~13.6x trailing consolidated earnings (a discount to the Nifty Energy index's ~15x and a much larger discount to the Nifty 50's ~19.8x, both 11-Sep-2026), ~1.6x book, with a policy-mandated high dividend payout (~41-42% of PAT, ~Rs8.35/share FY25) and a well-known, decades-long, policy-driven government stake sell-down (GoI holding cut from 75% in 2013 to ~51.1% by 2026). The renewable pivot (NTPC Green Energy, ~11 GW and growing toward a 60 GW-by-2032 target) is already a well-publicised story -- NTPC Green itself completed a large, heavily-covered IPO -- so the market's base case already assigns some value to the energy-transition angle, priced as a steady, regulated-return compounder rather than a re-rating candidate.",
+    "whats_wrong_with_belief": "I could not construct a credible, evidenced case that this is a genuine mispricing rather than a reasonably efficient price for what NTPC actually is. NTPC is one of the most heavily tracked PSU large-caps in India -- constant sell-side coverage, near-universal institutional/index ownership (it is a Nifty 50 constituent), and the renewable buildout, capacity targets, and government stake-sale program are all long-standing, extensively reported facts, not a fresh discovery. Its regulated cost-plus tariff structure genuinely caps the upside a normal 'engine' analysis would credit it for -- the ROCE trend this dossier reconstructs (~5.6% to ~8.2% FY21-FY25, Tier 5 estimate) sits below a typical ~10-11% cost-of-capital assumption, which is a real structural ceiling, not a market misperception to arbitrage. The discount to the broader market is a rational reflection of regulated-return, government-ownership-governance, and capital-intensity characteristics that are already well known and priced, not evidence of an exploitable gap. A modest re-rating toward NTPC's own or the sector's historical multiple range, funded by capacity growth, is a plausible ordinary-analyst view -- but that is not a rigorous N7 variant-perception case with a nameable persistence mechanism and a dated, distinct catalyst the market has not already largely absorbed.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence -- see whats_wrong_with_belief. No dated, observable catalyst distinct from what already appears reflected in NTPC's current multiple (e.g. successful, on-schedule delivery of the 149 GW-by-2032 target, or a CERC tariff-regulation change raising the regulated RoE ceiling) was identified from the partial, web-search-only evidence gathered this session.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": false,
+  "notes": "REGULATED-UTILITY NAME -- is_regulated_utility_or_bfsi=True per the G1/Section 5e/6B utility carve-outs in FRAMEWORK_v2.2_FULL.md (Part 2): NTPC is a cost-plus, CERC-tariff-regulated power generator, so its D/E and ROCE/reinvestment economics are structurally different from a normal business and the G1 leverage gate is informational/TEAL for this name (moot in practice here since the reconstructed D/E of ~1.26x sits well under the 2.0x G1 threshold anyway). addressable_profit_pool_cr is left null since a centrally-planned, cost-plus generation utility has no conventional product-market TAM/profit-pool concept, per the same v2.2 implementation logic used for BFSI names (see SBIN.json in this repo for the analogous BFSI treatment). DATA QUALITY -- WELL-SOURCED (Tier 3, cross-corroborated via multiple independent press/company-release search results, standalone basis unless noted): standalone total income/PAT FY21 Rs1,03,552.71 Cr / Rs13,769.52 Cr, FY22 Rs1,20,042.43 Cr / Rs16,111.42 Cr (PAT +17.01% YoY per company FY22 results release), FY23 Rs1,67,724 Cr / Rs17,197 Cr, FY24 Rs1,65,707 Cr / Rs18,079 Cr, FY25 Rs1,74,414 Cr (+5% YoY) / Rs19,649 Cr (+9% YoY, standalone); FY22 dividend paid Rs6,787.67 Cr (~42% of FY22 PAT, company release); FY25 total dividend Rs8.35/share (final Rs3.35 + prior interim, company release); current price Rs333.4, market cap ~Rs3,23,286.85 Cr, standalone-basis share count back-calculated at ~969.90 Cr shares, trailing consolidated P/E ~13.62x, GoI promoter holding 51.1% (all dated 11-Sep-2026); D/E ~1.26-1.35x and ROE ~13.6-13.7% (FY25, consolidated, multiple aggregator sources); 10-year G-Sec yield ~7.02% (11-Sep-2026); Nifty Energy index P/E ~15.0-15.3x (Aug-2026), used as sector_median_pe; NTPC Group crossed 90 GW installed capacity in 2026 with a 149 GW-by-2032 target (60 GW renewable), ~9.6 GW added in FY26 (~5.5 GW green), NTPC Green Energy Group at ~10.8 GW as of Sep-2026 (company press releases, cross-corroborated by trade press); GoI stake reduced from 89.5% at 2004 IPO to 75% (2013) to 51.1% (2026) via a long-running, publicly documented OFS/disinvestment program. DATA QUALITY -- RECONSTRUCTED/APPROXIMATE (Tier 5, flagged, NOT independently pulled from a primary filing this session): the entire EBITDA/depreciation/interest-expense split, net_fixed_assets, cwip, net_working_capital, total_debt, cash_equiv, net_worth, capex and ocf series are Tier 5 reconstructions built by ratio assumptions (EBITDA margin assumed 24-30%, materially depressed for FY23-24 to reflect fuel-cost pass-through inflating revenue without proportional margin during the 2022-23 global coal-price spike; depreciation ~4%/yr of an assumed net-fixed-asset base; total_debt derived from a constant ~1.26-1.35x D/E against a net-worth roll-forward; interest_expense solved as the residual needed to reconcile the assumed EBIT with each year's REAL, cited PAT at an assumed rising effective tax rate of 10%-18% FY21-FY25, reflecting NTPC's known pattern of Section 80-IA tax-holiday benefits phasing out over time) -- treat none of these as filing-verified, exactly as for the SBIN.json/SOUTHBANK.json reference dossiers in this repo. The FY25 net_worth (Rs1,99,510 Cr) and total_debt (Rs2,52,180 Cr) anchors are themselves a single, unreconciled aggregator source (likely consolidated basis) rolled backward against STANDALONE PAT -- an internal cross-basis inconsistency flagged rather than silently resolved, same caveat class as SBIN.json's book-value gap. market.adtv_cr (Rs450 Cr) and market.sector_median_pb (1.8x) are unsourced analyst estimates for a highly liquid Nifty 50 name, not pulled figures. shares_outstanding is back-calculated from market_cap/price, not a directly filed share count. STRUCTURAL CAVEAT (not a data-quality issue): the reconstructed ROCE trend (~5.6% FY21 to ~8.2% FY25) sits below a typical ~10-11% Indian-equity cost-of-capital assumption -- if directionally correct, this means NTPC's engine-growth/ROIIC gate (Section 5e) should legitimately fail or run close to the cost-of-capital floor, which is an honest reflection of a regulated-return generator's structurally capped economics, not a data error to be smoothed away. Moat sources were rated without inflation for a mega-cap regulated PSU: 2 GREEN (switching_costs -- HOLDING, defended not widened, industry-standard long-PPA structure; efficient_scale -- rated BUILDING given a genuinely evidenced ~65% six-year capacity-target expansion, unlike a flat-share incumbent, but its evidence tier is T5_MEDIA so it does NOT clear the Section 5b-T Tier-1-3 BUILDING requirement -- the moat-trajectory gate is expected to fail on this dossier despite the qualitative BUILDING judgement being intentional and honest, not an oversight), 2 AMBER (cost_advantage, intangible_assets -- real but scale/sovereign-driven and unquantified, capped per the framework's own 'scale-only AMBER' rule), 2 RED (pricing_power -- a cost-plus regulated tariff is the opposite of market pricing power by construction, even though it delivers real revenue certainty; network_effects -- structurally absent). governance.promoter_holding_3y_direction is honestly set to FALLING (a decades-long, policy-driven government disinvestment program, not an insider conviction signal) -- the composite engine's promoter-alignment gate does not distinguish policy-driven PSU divestment from an ordinary promoter cashing out, so this dossier expects that gate to read as an open flag; that is a known, disclosed limitation of applying a generic-company gate to a government promoter, not a real governance concern in this case. variant_perception.answered is honestly set to False: NTPC's regulated-return ceiling, government-ownership overhang, and renewable-transition story are all long-standing, extensively covered facts already substantially reflected in its below-market multiple -- no credible, evidenced 'market has it wrong' case with a nameable persistence mechanism and a dated, distinct catalyst could be constructed from the (partial, web-search-only) evidence gathered this session. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction (FMP data-vendor access to Indian/NSE fundamentals was unavailable on the current plan tier -- both quote and statements endpoints returned ACCESS DENIED/plan-upgrade errors when tried directly; Screener/Moneycontrol/Tijori/Equitymaster full financials were unreachable from this environment), not a completed adversarial (M5) review with a logged hostile source and cooling period."
+}

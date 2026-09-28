@@ -1,0 +1,131 @@
+{
+  "symbol": "MAHASTEEL.NS",
+  "name": "Mahamaya Steel Industries Limited",
+  "sector": "Materials",
+  "industry": "Secondary/structural steel -- MS billets, sponge iron, TMT bars and structural sections (angles, beams, joists, channels) for construction, railway and power applications",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025],
+    "revenue": [250.91, 490.0, 650.74, 782.0, 802.0],
+    "ebitda": [9.28, 18.13, 24.08, 28.93, 29.67],
+    "depreciation": [5.02, 9.80, 13.01, 15.64, 16.04],
+    "interest_expense": [2.30, 2.64, 3.13, 3.83, 4.33],
+    "pat": [0.88, 4.90, 5.46, 6.72, 7.60],
+    "ocf": [6.96, 13.60, 18.06, 21.70, 22.25],
+    "capex": [5.02, 9.80, 19.52, 31.28, 32.08],
+    "net_fixed_assets": [50.18, 98.00, 130.15, 156.40, 160.40],
+    "cwip": [2.51, 4.90, 9.76, 19.55, 24.06],
+    "net_working_capital": [30.11, 58.80, 78.09, 93.84, 96.24],
+    "total_debt": [23.00, 26.38, 31.34, 38.30, 43.30],
+    "cash_equiv": [7.53, 14.70, 19.52, 23.46, 24.06],
+    "net_worth": [115.00, 119.90, 125.36, 132.08, 139.68],
+    "dividend_paid": [0.0, 0.0, 0.0, 0.0, 0.0],
+    "tax_rate": [0.25, 0.25, 0.26, 0.27, 0.27]
+  },
+  "market": {
+    "price": 737.15,
+    "market_cap_cr": 1360.0,
+    "adtv_cr": 3.0,
+    "shares_outstanding": 1.833,
+    "diluted_shares_outstanding": 1.833,
+    "sector_median_pe": 24.0,
+    "sector_median_pb": 2.3,
+    "ten_year_gsec_yield": 0.0706,
+    "gsec_date": "2026-09-18",
+    "forward_eps": null,
+    "book_value_per_share": 76.2
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "MS billets, sponge iron and TMT bars are priced off import-parity/regional scrap-and-ore cost benchmarks, not company-set. ICRA's FY26 secondary-steel commentary (via search-aggregated coverage) notes incremental industry capacity additions have created a temporary surplus keeping prices and margins soft sector-wide -- no evidence of company-specific pricing power, and the trend is if anything eroding, not building."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "TMT bars, billets and structural sections are bought by dealers/fabricators on price, spec-conformance (IS codes) and delivery lead time. No brand loyalty, certification lock-in or long-term offtake evidence was found for this company specifically."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Not applicable to a commodity steel manufacturer selling through dealer/distributor channels -- no network-effect mechanism identified or plausible."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Company runs a partially backward-integrated chain (captive sponge iron -> billets -> TMT/structural rolling, reported installed capacity ~112,000 MT sponge iron / 125,000 MT billets / 125,000 MT TMT per annum per company-site-derived listings), which trims input-cost pass-through volatility versus a pure re-roller. But reported ROCE of ~6.9-7.4% (aggregator consensus) sits well below the ~14% Metals & Mining industry average cited by the same sources, so no realized, evidenced cost advantage shows up in returns today -- capacity is also small versus large integrated producers (JSW Steel, Tata Steel, SAIL), limiting scale-cost leverage."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No identified consumer/dealer brand premium, proprietary process IP, or differentiated product grade beyond standard IS-spec structural steel and TMT bars."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Installed capacity (~1.1-1.25 lakh MT per stream) is a small fraction of India's ~164 MT/yr finished-steel consumption base (FY26, per search-aggregated industry coverage). The secondary/induction-furnace segment as a whole supplies ~45-50% of national production and is itself undergoing sector-wide capacity additions (ICRA), which dilutes rather than concentrates any local scale advantage for a sub-scale single-location player."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 6,
+    "board_audit_independence": 5,
+    "ownership_transparency": 6,
+    "capital_allocation_discipline": 5,
+    "management_stability": 6,
+    "leverage_pledge_legal": 6,
+    "earnings_quality": 5,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 72.8,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Indian finished-steel consumption reached ~164 MT in FY26 (+7-8% YoY, per search-aggregated industry coverage), a healthy but ordinary-cycle volume growth rate, not an emergent or inflecting category. The secondary/induction-furnace steel segment (where this company sits) already supplies ~45-50% of national output and is itself seeing industry-wide capacity additions that ICRA flags as having created a temporary oversupply keeping prices and margins soft in FY26 -- classic late-cycle/mature commodity dynamics for an undifferentiated structural-steel and TMT producer, not a share-gain or category-formation story specific to this company.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 3.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 20.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "No Tier 1-3 evidence of a structural, repeatable margin-expansion mechanism (e.g. value-added product mix shift, captive power/raw-material cost lock-in) was found. Reported EBITDA/PAT margins are thin (roughly 1% net margin in FY25) and historically volatile with the steel-price cycle (PAT growth decelerated sharply from FY22's cyclical low-base surge to ~13% YoY in FY25). Per Section 6A, an unevidenced margin delta is set to zero and any bridge is run on revenue/volume growth alone -- and even that revenue growth has itself been decelerating (FY22 +95% YoY off a COVID-trough base, to FY25 +2.6% YoY)."
+  },
+  "variant_perception": {
+    "market_belief": "The stock has re-rated roughly +240% over the trailing year (52-week range Rs312-Rs1,050, currently ~Rs737) to a trailing P/E of ~126-150x, far above the ~24x steel-sector median -- consistent with a retail-momentum narrative treating a small, capacity-expanding secondary-steel/TMT producer as a levered proxy for India's structural steel-demand growth story.",
+    "whats_wrong_with_belief": "No credible case could be built that the market is UNDER-pricing this name -- the evidence points the other way. ROCE (~7%) and ROE (~5.2%) are well below the sector average and below the cost of capital implied by a ~7.06% risk-free rate; net margins are under 1%; dividend payout has been zero despite consistent (if thin) profits; and none of the six Section 5 moat sources clear even an AMBER-with-evidence bar except a modest, return-unproven backward-integration cost point. A 126x+ trailing multiple on a sub-10%-ROCE commodity steel producer with decelerating revenue growth (FY25 revenue +2.6% YoY vs FY22's +95%) looks like a speculative small-cap re-rating running well ahead of demonstrated fundamentals, not a market failing to notice a quality compounder.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "TICKER VERIFICATION: MAHASTEEL.NS = Mahamaya Steel Industries Limited (CIN L27107CT1988PLC004607), Raipur, Chhattisgarh, incorporated 1988, listed on both NSE (MAHASTEEL) and BSE (513554/ISIN INE451L01014). Confirmed via multiple independent sources (Yahoo Finance, stockanalysis.com, Trendlyne, NSE India listing page title, FMP symbol-search) and NOT to be confused with the similarly-named 'Maa Mahamaya Industries Limited' (Vizianagaram, Andhra Pradesh), a separate, differently-domiciled sponge-iron/billet company that surfaced in some search results for related queries -- data attributed to that entity was explicitly excluded from this dossier. DATA ACCESS: this environment's egress proxy blocked every primary/aggregator site directly (screener.in, nseindia.com, bseindia.com, mahamayagroup.in company site, tradingview.com, stockanalysis.com, moneyworks4me.com all returned EGRESS_BLOCKED on WebFetch), and the FMP MCP tool's data endpoints (quote, statements) are gated to a higher paid tier than is available here (symbol-search only succeeded) -- consistent with the prior constraint noted in build_backtest_dossiers.py. All figures below are therefore sourced only via WebSearch result snippets of aggregator/wire coverage (Tier 3) or general/media-level claims (Tier 5); no Tier 1 (audited statement) or Tier 2 (direct exchange filing) access was possible. VERIFIED (T3, cross-checked across >=2 independent aggregator snippets): FY21 revenue Rs250.91cr/PAT Rs0.88cr; FY22 revenue ~Rs490cr (485.76-495.32cr across sources)/PAT ~Rs4.90cr; FY23 revenue Rs650.74cr/PAT Rs5.46cr (MarketScreener, INR-million sourced); FY24 revenue ~Rs782cr/PAT ~Rs6.72cr; FY25 revenue ~Rs802cr/PAT ~Rs7.60cr (Yahoo Finance-style aggregator); TTM/most-recent figures cited separately as revenue ~Rs856cr and profit ~Rs8.86cr, market cap Rs1,351-1,384cr (up ~240% in 1yr), current price ~Rs737, 52-week range Rs312.20-Rs1,050.00, trailing stock P/E ~126.28x, ROCE ~6.9-7.4%, ROE ~5.24%, D/E ~0.31, promoter holding 72.8% with 0% pledge (promoters: Ramanand Agrawal, Anand Kumar Agrawaal, Jaiprakash Agarwal), no dividends paid despite repeated profits, installed capacity ~112,000MT sponge iron / 125,000MT billets / 125,000MT TMT per annum with a reported (unverified timeline) capacity-doubling expansion plan. India 10Y G-sec yield 7.06% (18-Sep-2026, TradingEconomics-sourced). Iron & Steel industry P/E ~26.04x (Q2 2026) / large-peer P/Es Tata Steel ~21x, SAIL ~24x informed the 24.0x sector-median-PE estimate used here. A historical item was found and deliberately NOT treated as a G3/kill-gate trigger: a SEBI document (Oct-2018 PDF) references a promoter disclosure under PIT Regulations 7(2)(a) dated 30-Nov-2017 -- this reads as a routine (if late/notable) trade-disclosure compliance matter typical of many small-caps, not an active PFUTP/fraud finding against a sitting MD/CMD/CFO, so g3_state is kept at D (clean) rather than elevated to C, but this is flagged here rather than silently omitted given it could not be independently confirmed or dismissed with certainty from available sources. RECONSTRUCTED (Tier 5, NOT independently sourced): EBITDA, depreciation, interest expense, OCF, capex, net fixed assets, CWIP, net working capital, total debt, cash and net-worth LEVELS across all five years are modelled from typical secondary-steel capital-intensity ratios calibrated to land approximately on the verified FY25 anchors (ROCE ~7%, ROE ~5.2%, D/E ~0.31, PAT Rs7.60cr) -- these do not reconcile to audited line items and should not be treated as point-in-time-accurate; only the revenue and PAT series, dividend history, promoter-holding/pledge figures, and the market-data block carry Tier-3 (or better) support. adtv_cr (Rs3cr/day) and sector_median_pb (2.3x) are unverified Tier-5 placeholder estimates, not sourced. JUDGEMENT CALLS: (1) all six Section 5 moat sources rated RED except cost_advantage (AMBER/HOLDING) -- this is a genuinely low-differentiation commodity secondary-steel producer and the framework is not stretched to manufacture a moat story it doesn't have; (2) industry phase set to MATURE, not INFLECTION/EMERGENT, because the cited FY26 sector commentary describes oversupply and soft margins, i.e. a late-cycle commodity dynamic, not a structural share-gain or category-formation story for this specific company; (3) variant_perception.answered is deliberately FALSE -- the evidence gathered points to the market having already priced in (and likely over-priced) an optimistic growth story via a >240%/1yr re-rating to ~126-150x trailing earnings against a sub-10% ROCE, which is the opposite of an overlooked-compounder setup, and inventing a bull case here would misrepresent the research; (4) m5_protocol_complete set FALSE to honestly reflect a single-session, WebSearch-snippet-only pass with zero primary-filing or paid-data-terminal access, not a completed adversarial M5 protocol; (5) promoter_holding_3y_direction set to STABLE by default in the absence of any found evidence of a rising or falling multi-year trend -- this is an unconfirmed default, not a sourced fact, and should be verified before this dossier is used for anything beyond the framework's illustrative screening pass."
+}

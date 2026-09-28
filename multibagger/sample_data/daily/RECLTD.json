@@ -1,0 +1,117 @@
+{
+  "symbol": "RECLTD.NS",
+  "name": "REC Limited",
+  "sector": "Financials",
+  "industry": "NBFC -- wholesale power-sector infrastructure financing (government-owned)",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025, 2026],
+    "revenue": [34000, 36500, 40500, 47146, 55911, 59187],
+    "ebitda": [33320, 35770, 39690, 46203, 54793, 58003],
+    "depreciation": [15, 15, 15, 15, 15, 15],
+    "interest_expense": [22156, 22360, 24935, 27328, 33827, 36279],
+    "pat": [8362, 10046, 11055, 14145, 15713, 16282],
+    "ocf": [-21638, -19954, -38945, -45855, -39287, -22718],
+    "capex": [25, 25, 30, 35, 35, 40],
+    "net_fixed_assets": [120, 130, 140, 155, 170, 185],
+    "cwip": [15, 15, 18, 20, 22, 25],
+    "net_working_capital": [15, 15, 18, 20, 22, 25],
+    "total_debt": [297500, 319600, 360100, 406517, 451012, 482190],
+    "cash_equiv": [3500, 3800, 4200, 5000, 5500, 6000],
+    "net_worth": [42000, 49000, 57000, 68783, 77638, 84290],
+    "dividend_paid": [2927, 3014, 3317, 4737, 6584, 4896],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 308.5,
+    "market_cap_cr": 81235.0,
+    "adtv_cr": 180.0,
+    "shares_outstanding": 263.3,
+    "diluted_shares_outstanding": 263.3,
+    "sector_median_pe": 15.0,
+    "sector_median_pb": 2.0,
+    "ten_year_gsec_yield": 0.068,
+    "gsec_date": "2026-09-19",
+    "forward_eps": null,
+    "book_value_per_share": 320.0
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "REC's lending spread on power-sector infra loans is set largely with reference to government policy priorities (e.g. concessional/priority financing for state discoms, RDSS/DDUGJY-linked schemes, renewable-energy push) rather than differentiated underwriting or brand pricing power. Reported NIM/spread has been broadly stable (~3% range) but this reflects a regulated-return posture, not market-earned pricing power -- there is no evidence REC can raise spreads unilaterally the way a retail/consumer lender with underwriting-data or brand advantages can."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "AAA domestic rating, sovereign linkage (Maharatna CPSE under Ministry of Power) and access to tax-free/54EC bonds and multilateral credit lines give REC a real cost-of-funds edge over private infra NBFCs. CRAR reported at 23.1% (FY26) versus a 15% regulatory floor -- comfortable, not stretched. Rated AMBER rather than GREEN because this advantage is policy-conferred (implicit sovereign backing) rather than competitively earned, and would be diluted, not strengthened, if the government reduced its stake below the level markets price as an implicit guarantee."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "REC is one of only two dedicated large-scale central-government power-sector infrastructure lenders (with PFC); loan book ~Rs5.9 lakh crore (Jun 2026) and decades of origination relationships with state generation/transmission/distribution utilities constitute a genuine niche-scale advantage most banks and private NBFCs do not specialise in replicating. Scale is set to increase further via the approved REC-into-PFC merger (combined loan book >Rs11 lakh crore), though this also removes REC as a standalone listed vehicle (see notes)."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Quasi-mandated nodal-agency role in central government power-sector schemes gives REC privileged deal flow into state-utility infrastructure financing. This is a real, evidenced advantage but is a government-relationship asset, not an economic moat that would survive a shift in policy priorities, and is shared essentially identically by PFC -- it does not differentiate REC from its only real peer."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 7,
+    "ownership_transparency": 9,
+    "capital_allocation_discipline": 6,
+    "management_stability": 6,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 6,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 52.63,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "India's power sector is mid-supercycle: FY26 saw record 52,537MW of new capacity addition, of which 39,657MW was renewable (T3); ~Rs9.15 lakh crore of transmission investment is planned through 2032 (T3/T5); PFC's renewable-energy loan book is reported growing ~35% YoY and IREDA's loan approvals grew 29% YoY in 9M FY26 (T5); REC itself states a target of ~30% renewable-energy exposure by 2030 versus ~12% today (T4/T5). This supports INFLECTION for the sector's financing demand, though REC's own loan-book growth (~9-11% CAGR estimated) has been considerably more muted than the headline renewable-capacity growth, since a large share of its book remains conventional generation/transmission/distribution financing to state utilities.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 8.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": ""
+  },
+  "variant_perception": {
+    "market_belief": "Priced as a low-growth, policy-directed PSU lender permanently capped in ROE-to-multiple conversion by government ownership and policy-priority lending, now further discounted for REC-into-PFC merger execution and 88:100 share-swap uncertainty -- trailing P/E ~5x and P/B ~1.0x against a reported ~20% ROE.",
+    "whats_wrong_with_belief": "No credible mispricing case could be built. Improving asset quality (gross NPA down from 3.28% to 2.61% YoY, net NPA 0.97% to 0.82%) and a genuine renewable-financing growth tailwind (targeting ~30% RE exposure by 2030 vs ~12% now) are real positives, but they are already visible to the same large, well-covered institutional base (FII ~16%, MF ~9%, insurance ~5%) that prices REC, PFC and IREDA on broadly similar terms -- the low multiple looks like a reasonably efficient price for concentration risk to state-utility/discom credit, a lending spread set largely by policy rather than competition, and a real, near-term corporate-action overhang (the pending all-stock merger into PFC, effective ~April 2027), not an emotional or neglect-driven mispricing.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": false,
+  "notes": "BFSI/regulated-lender name -- G1 (D/E) scored TEAL per the v2.2 carve-out, not pass/fail; the sector-appropriate leverage test the framework calls for but has 'not yet specified' is approximated here only informally via CRAR (23.1% FY26, T3, vs 15% regulatory floor) and the gross/net NPA trend (T3/T5) -- treat as an open item, not a clean pass, exactly as the framework text warns. Section 6B addressable-profit-pool gate is deliberately left unscored (null) -- there is no product-market TAM concept for a loan book, per the v2.2 implementation note.\n\nMAJOR STRUCTURAL FACT (not itself part of the v2.2 rule set but decision-relevant): the Government of India approved (10 Jun 2026) and both boards approved (28 Jun 2026) a merger of REC into Power Finance Corporation (PFC) at an 88:100 REC:PFC share-swap ratio, with a proposed effective date of 1 April 2027, pending shareholder/creditor/regulatory approval. If completed, REC ceases to exist as a standalone listed entity within the framework's own multi-year holding horizon -- this is a first-order consideration for any 'durable multi-year compounder' thesis on RECLTD.NS specifically, independent of the underlying business's quality.\n\nDATA QUALITY: Well-sourced (T3, cross-checked across 2+ independent sources): FY26 PAT Rs16,282cr, FY24-26 total income (Rs47,146cr / Rs55,911cr / Rs59,187cr), Q1 FY27 PAT Rs4,149cr, gross NPA 2.61% (from 3.28% YoY) / net NPA 0.82% (from 0.97%), CRAR 23.1%, net worth ~Rs84,290cr (FY26) rising to Rs91,836cr (Jun 2026, +15% YoY), loan book Rs5.84 lakh cr (Mar 2026) / Rs5.90 lakh cr (Jun 2026), promoter (Govt of India) holding 52.63-52.70% and stable over recent periods, current price ~Rs308-313 and market cap ~Rs81,235cr (Sep 2026), shares outstanding ~263.3cr, EPS FY26 ~Rs61.71, FY26 dividend Rs18.55/share, REC-PFC merger terms and timeline. RECONSTRUCTED / LOW-CONFIDENCE (T5, triangulated, not from as-reported line items -- flagged per M6): the full FY21-FY23 revenue/PAT-margin/interest-expense split, all years' 'EBITDA' (an NII+fee-income-less-opex proxy, not comparable across sectors, per the same convention used in the BAJFINANCE.json template), net worth for FY21-FY22, total_debt/borrowings for all years (backed out from loan-book-minus-net-worth-minus-a-small-other-liabilities assumption, not reported borrowings figures), cash_equiv, net_fixed_assets/cwip/net_working_capital (immaterial placeholder magnitudes for a balance-sheet lender), OCF (estimated as PAT minus estimated net loan-book growth, following Ind AS treatment of loan disbursement/collection as an operating rather than financing activity for a financial company -- REC's real OCF is deeply negative every year precisely because the loan book is growing, which is normal and sector-standard, NOT an earnings-quality red flag in the way it would be for a non-financial company), sector median P/E and P/B (rough estimates, not a verified BFSI-sector index figure), and the 10-year G-sec yield (approximate current level, not a dated RBI print).\n\nMETHODOLOGY LIMITATION SURFACED BY THIS RUN (beyond the v2.2-documented G1/6B gaps): Section 5e's ROIIC/reinvestment-rate engine defines invested capital as net_fixed_assets + cwip + net_working_capital, which is the right base for a manufacturer but excludes a lender's actual invested capital (the loan book, funded by borrowings + equity) entirely. For REC this denominator is trivially small (~Rs150-185cr) against NOPAT growth in the thousands of crores, so any ROIIC/engine-growth figure this run reports for REC is a numerical artifact of an invested-capital definition that does not fit a BFSI balance sheet -- it should not be read as evidence REC is (or is not) a compounding engine. Flag this the same way v2.2 flags the G1/6B gaps: an open item for a BFSI-specific Section 5e variant, not yet specified by this suite.\n\nAlso note: the Irani 'Leverage Trap' and 'Accounting Gap' flags in gates.py do not carry the BFSI carve-out that the framework's own text (Irani flags table, 'Leverage Trap ... non-BFSI names only') calls for -- both are expected to fire here (D/E ~5.7-7x with rising total debt and ~1.5-1.7x interest coverage; PAT>OCF for 3+ years) as a structural feature of any wholesale lender's accounts, not as a governance or earnings-quality problem. Interpret any RED on those two rows in this specific run as a known implementation gap, not a genuine red flag on REC.\n\nFinally: REC's actual current market cap (~Rs81,235cr) places it well above the N8 funnel screen's Rs300-15,000cr band and above the framework's own 'large' market-cap threshold (>Rs50,000cr) -- it is a large-cap, not a mid/small-cap compounding candidate, regardless of the 'Nifty Midcap 100 representative sample' framing this dossier was drawn from; treat the N8 funnel-screen failure here as expected on scale grounds alone, separate from any BFSI-specific gate gap. m5_protocol_complete is honestly set to false: the steelman-the-short and disconfirming-evidence work is folded into moat_sources/variant_perception/notes above, but no real 48-hour cooling period or hostile-source-logged review occurred in this single-session screening exercise, so G4 should show incomplete, not locked."
+}

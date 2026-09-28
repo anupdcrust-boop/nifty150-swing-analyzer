@@ -1,0 +1,117 @@
+{
+  "symbol": "BAJAJFINSV.NS",
+  "name": "Bajaj Finserv Limited",
+  "sector": "Financials",
+  "industry": "Diversified BFSI holding company -- consumer/SME/commercial lending (via Bajaj Finance), life insurance and general insurance (via Bajaj Allianz Life and Bajaj Allianz General, post-Allianz-buyout Bajaj-owned insurers), asset management and broking",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025],
+    "revenue": [73131, 76788, 88306, 110383, 133822],
+    "ebitda": [6282.4, 6408.8, 9020.9, 11456.9, 12488.1],
+    "depreciation": [30, 35, 45, 60, 80],
+    "interest_expense": [2200, 2350, 2900, 3800, 5000],
+    "pat": [4470.46, 4556.77, 6417.28, 8147.79, 8872.31],
+    "ocf": [5200, 5300, 7200, 9000, 9800],
+    "capex": [60, 65, 80, 100, 130],
+    "net_fixed_assets": [300, 340, 410, 520, 650],
+    "cwip": [50, 55, 65, 80, 100],
+    "net_working_capital": [800, 900, 1050, 1300, 1600],
+    "total_debt": [19000, 21500, 26000, 33000, 40000],
+    "cash_equiv": [3000, 3400, 4100, 5200, 6500],
+    "net_worth": [24000, 28457, 34764, 42782, 51494],
+    "dividend_paid": [90, 100, 110, 130, 160],
+    "tax_rate": [0.285, 0.285, 0.285, 0.285, 0.285]
+  },
+  "market": {
+    "price": 1837.0,
+    "market_cap_cr": 294298.70,
+    "adtv_cr": 600.0,
+    "shares_outstanding": 160.2,
+    "diluted_shares_outstanding": 160.2,
+    "sector_median_pe": 20.0,
+    "sector_median_pb": 3.5,
+    "ten_year_gsec_yield": 0.066,
+    "gsec_date": "2026-09-16",
+    "forward_eps": null,
+    "book_value_per_share": 321.4
+  },
+  "moat_sources": [
+    {
+      "name": "switching_costs",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Inherited from Bajaj Finance's own moat, not a Finserv-level asset: 100mn+ customer franchise, deep merchant/POS distribution and cross-sell into lending, cards, insurance and wealth. Real and still compounding, but the value accrues first to a ~51%-owned subsidiary, not directly to BAJAJFINSV shareholders."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Bajaj Allianz General is #2 private general insurer (~7.5% GDPI share, 10M FY25) and Bajaj Allianz Life holds ~9% private individual-rated-new-business share -- solid scale, but LIC still dominates life and ICICI Lombard/others contest general insurance hard. Not a category-defining scale advantage the way Bajaj Finance's lending distribution is."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "The 'Bajaj' brand across financial services is a real asset, but the insurance JVs are mid-rebrand: Allianz SE fully exited both insurance JVs (tranches completing Jan-Mar 2026), and the 'Allianz' name is being dropped from products/marketing over FY26-27. A quarter-century of global-partner brand equity is a live transition risk, not yet proven to be brand-neutral for renewals and agent/bancassurance channels."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Cross-sell across lending/insurance/wealth is a distribution advantage, not a true two-sided network effect with increasing returns to new participants. Rated RED to avoid over-crediting a moat source that isn't really present here."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 7,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 8,
+    "management_stability": 8,
+    "leverage_pledge_legal": 7,
+    "earnings_quality": 6,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 58.81,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "India's formal-credit and insurance penetration both remain structurally low (life+general insurance penetration well under global averages per IRDAI-cited commentary; retail/SME credit-to-GDP still rising). Consolidated AUM +25% YoY (Rs4.41 lakh Cr, Jun-2025) well above system credit growth of roughly 12-14%, and life/general insurance premium growth (mid-teens to ~46% YoY in general insurance GWP, FY25) also outpacing nominal GDP -- consistent with an inflecting, not yet mature, addressable base across all three underlying businesses.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": true
+  },
+  "bridge_assumptions": {
+    "target_multiple": 3.0,
+    "horizon_years": 10,
+    "assumed_exit_pe": 30.0,
+    "own_10y_75th_pctile_pe": 35.0,
+    "sector_10y_75th_pctile_pe": 22.0,
+    "annual_dilution_rate": 0.01,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": ""
+  },
+  "variant_perception": {
+    "market_belief": "Consensus already treats Bajaj Finserv as a high-quality, structurally-growing compounding financial-services franchise -- a large, heavily-covered (30+ sell-side analysts), richly-valued (~33x trailing consolidated attributable P/E, ~184x on the frequently-misquoted standalone-EPS basis) holding company whose main value driver (Bajaj Finance) is itself one of the most closely tracked NBFCs in India.",
+    "whats_wrong_with_belief": "No credible, evidenced gap identified. The Allianz-JV buyout (control now ~97% Bajaj Group vs 74% before, completing in tranches Jan-Mar 2026) is a genuine structural re-rating catalyst -- it removes a 26% minority-interest drag on insurance earnings attribution going forward -- but it is fully public, widely reported, and plausibly already reflected in consensus estimates and the stock's 52-week range. We could not build a good-faith case that the market is currently mispricing this name in either direction.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": true,
+  "notes": "BFSI holding company -- see G1 (Part 2) and Section 5e/6B BFSI notes in FRAMEWORK_v2.2_FULL.md. addressable_profit_pool_cr left null per the 6B BFSI guidance (no product-market TAM concept for a lender/insurer's balance sheet); the Runway/profit-pool gate below will therefore always show as not-clearing for this name -- that is the framework's documented, expected behaviour for BFSI, not a business flaw. Section 5e's ROIIC/reinvestment-rate math (net fixed assets + CWIP + NWC as 'invested capital') is even less meaningful here than for a pure lender like BAJFINANCE.json: it produces an economically meaningless >400% ROIIC because a holding company's own balance sheet has almost no fixed assets/working capital relative to the earnings power sitting inside its subsidiaries. Disregard the Section 5e numeric outputs entirely for this name. HOLDING-COMPANY / SUM-OF-THE-PARTS CAVEAT (the key structural difference from BAJFINANCE, its own subsidiary): BAJFINANCE.json prices a single regulated lender directly. BAJAJFINSV is instead a holdco whose consolidated P&L blends three very different economics -- a ~51%-owned NBFC (Bajaj Finance, the dominant profit contributor: FY25 segment PBT ~Rs22,249 Cr from lending vs ~Rs2,295 Cr combined from the two insurance segments), a life insurer (embedded value reported around Rs1.55 lakh Cr for the insurance businesses combined per market commentary, VNB margin ~14.5% FY25, Tier 3/5), and a general insurer (~7.5% GDPI share). Group consolidated PAT (before minority interest, i.e. 100% of subsidiary profit) was ~Rs17,558 Cr in FY25, but PAT ATTRIBUTABLE to Bajaj Finserv's own shareholders was materially lower, ~Rs8,872 Cr, because large minority stakes existed in both Bajaj Finance (~49% public/other) and, until the FY26 Allianz buyout, the insurance JVs (26% Allianz-owned). This dossier's financials.pat series uses the attributable figure (it is what should drive per-share valuation), while financials.revenue uses undivided group total income -- an inherent mismatch for any partly-owned-subsidiary holdco that a pure operating company like BAJFINANCE does not have, and that mechanically distorts margin/ROCE-style ratios computed from this series. The FY26 Allianz exit (Bajaj Group stake in both insurers raised from 74% to ~97%, completing Jan-Mar 2026) is the single most important recent structural event: it will shrink the minority-interest drag on insurance earnings going forward, a real (if already well-publicized) tailwind to attributable EPS that a pure sum-of-the-parts read should not ignore, but which does not by itself constitute an unpriced 'variant' view. DATA QUALITY: Well-sourced (Tier 3, current news/financial-press, internally cross-checked): FY25 consolidated group revenue ~Rs1,33,822 Cr (+21% YoY) and PAT before minority interest ~Rs17,558 Cr (+12.6% YoY); PAT attributable to owners ~Rs8,872 Cr; FY21-24 attributable PAT trend (Rs4,470/4,557/6,417/8,148 Cr); current price ~Rs1,837 and market cap ~Rs2.94 lakh Cr (16-Sep-2026); promoter holding 58.81% (down from ~60.6% over the past year, attributed in press reports to a block-deal sale that helped fund the Allianz stake buyout rather than a multi-year erosion trend -- treated here as STABLE, not FALLING, given only one data point); dividend Re.1/share, payout ratio ~3%; segment PBT split (lending vs insurance); Allianz JV exit and rebranding timeline. Reconstructed/estimated (Tier 5, NOT independently sourced, built only for schema completeness): the full FinancialSeries balance-sheet and cash-flow line items (ebitda, depreciation, interest_expense, capex, net_fixed_assets, cwip, net_working_capital, total_debt, cash_equiv, net_worth, ocf, tax_rate, and the FY21-23 revenue figures) -- these are plausible, internally-consistent placeholders, not disclosed figures, exactly as flagged in the BAJFINANCE.json precedent this dossier follows. Book value per share (Rs321.4) is a reconstructed figure; public aggregators disagreed wildly on this (P/B quoted anywhere from 2.3x to 63.5x across sources depending on standalone vs consolidated basis and stale caches), and none could be trusted enough to use directly. Sector median P/E (20x) and the 10yr-75th-percentile P/E inputs are rough analyst-style estimates, not a rigorously computed percentile series; Nifty Financial Services index P/E (~17x, bank-heavy) was used as a floor reference only, since it is not a close comparator set for a lending+insurance holdco. VARIANT PERCEPTION: answered=false deliberately -- this is a 30+ analyst, large-cap, extremely well-covered name; we could not construct a credible, evidenced 'market has it wrong' case in either direction, and the framework (N7/M3) caps such names at WATCH rather than forcing a fabricated thesis."
+}

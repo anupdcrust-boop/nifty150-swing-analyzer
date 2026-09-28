@@ -1,0 +1,131 @@
+{
+  "symbol": "ICICIBANK.NS",
+  "name": "ICICI Bank Limited",
+  "sector": "Financials",
+  "industry": "Private-sector universal bank -- retail, corporate, SME, agri and treasury banking; India's second-largest bank by assets",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [107384.0, 133157.0, 167778.0, 191770.0, 214782.0],
+    "ebitda": [52506.0, 60382.0, 73122.0, 81165.0, 89282.0],
+    "depreciation": [3800.0, 4100.0, 4450.0, 4850.0, 5300.0],
+    "interest_expense": [54878.0, 72775.0, 94656.0, 110605.0, 125500.0],
+    "pat": [23339.0, 31896.0, 40888.0, 47227.0, 50147.0],
+    "ocf": [28007.0, 38275.0, 49066.0, 56672.0, 60176.0],
+    "capex": [1200.0, 1400.0, 1600.0, 1850.0, 2100.0],
+    "net_fixed_assets": [8200.0, 8900.0, 9700.0, 10600.0, 11600.0],
+    "cwip": [350.0, 380.0, 410.0, 450.0, 490.0],
+    "net_working_capital": [350.0, 380.0, 410.0, 450.0, 490.0],
+    "total_debt": [284885.0, 320130.0, 365312.0, 417498.0, 472910.0],
+    "cash_equiv": [65743.0, 73876.0, 84303.0, 96346.0, 109133.0],
+    "net_worth": [219142.0, 246254.0, 281009.0, 321152.0, 363777.0],
+    "dividend_paid": [3501.0, 5600.0, 7000.0, 7700.0, 8609.0],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 1353.3,
+    "market_cap_cr": 970805.45,
+    "adtv_cr": 1400.0,
+    "shares_outstanding": 717.4,
+    "diluted_shares_outstanding": 718.5,
+    "sector_median_pe": 15.5,
+    "sector_median_pb": 2.5,
+    "ten_year_gsec_yield": 0.0702,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": 507.03
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "ICICI has run one of the best net interest margins among large Indian banks for several years (NIM reported around 4.3-4.5% in FY24-25, versus ~3.0-3.3% for SBI and a similar-or-lower band for most PSU peers), reflecting a genuinely strong low-cost CASA/retail-deposit franchise and disciplined risk-based loan pricing rather than pure balance-sheet scale. Rated HOLDING, not BUILDING: NIM has been gently compressing over the last few quarters (system-wide deposit repricing/competition for deposits), so the edge is being defended at a high level, not visibly widening further. No Tier 1-3 multi-year margin trend was pulled this session to confirm the compression is temporary rather than structural."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Deep, widely-reported cross-sell across savings/current accounts, cards, loans, wealth and insurance via a large owned digital stack (iMobile Pay, InstaBIZ) and one of the largest branch/ATM networks among private banks; press commentary consistently cites high digital engagement and cross-sell ratios as a distinguishing feature versus most peers. Rated BUILDING on continued reported growth in digital transaction volumes and loan originations sourced digitally, though this session did not pull a Tier 1-3 cross-sell-ratio time series to quantify the trend precisely."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Traditional deposit-taking and lending does not get structurally more valuable to one customer as more customers join. ICICI's UPI/merchant-payment footprint rides NPCI-shared rails available industry-wide, not an ICICI-specific network effect -- structurally absent for this business model, same conclusion applied to any single-bank name in this framework (see BAJFINANCE.json/SBIN.json)."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "ICICI's cost-to-income ratio is reported as among the better ones for a large Indian bank, aided by digital-first servicing and a large low-cost deposit base, but this session found no Tier 1-3 line-item comparison isolating a structural (non-scale) cost edge versus HDFC Bank or Kotak, which run comparably or better on the same metric in various periods. Per the framework's own 'scale-only capped AMBER' rule, capped at AMBER rather than GREEN absent that evidence."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Strong brand and a widely-used, well-regarded digital banking platform, but no patent, unique licence or documented, quantified pricing premium beyond the (industry-wide) universal banking licence itself. Capped at AMBER for the same reason as SBIN.json and BAJFINANCE.json -- a real but unquantified intangible."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "India's second-largest bank by assets among a small set of large, well-capitalised private banks (a genuine, hard-to-replicate scale/licence barrier), with FY26 advances growth (~15.8% YoY, per the bank's own quarter-ended-March-2026 performance review) reported running ahead of typical system credit growth (~11-13%), suggesting continued share gain rather than a purely defensive scale position. Rated BUILDING on this one-year data point; this session did not verify a documented 3-consecutive-year revenue/loan-CAGR-above-sector series (Section 5f's own evidentiary bar), so the BUILDING trajectory should be treated as suggestive, not fully proven."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 8,
+    "ownership_transparency": 9,
+    "capital_allocation_discipline": 8,
+    "management_stability": 7,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 0.0,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Indian banking is a large, mature, competitively saturated industry -- system credit growth running roughly 11-15%/yr -- though digital/formal-credit penetration is still inflecting upward in some underpenetrated retail/MSME segments. ICICI is one of a small number of dominant large private banks (second-largest by assets) and its FY26 advances growth (~15.8% YoY) ran ahead of typical system credit growth, a one-year data point suggestive of continued share gain, not a documented 3-consecutive-year revenue-CAGR-above-sector case per Section 5f's own bar. Classified MATURE; the share-gain question is left unresolved below rather than asserted either way.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 18.0,
+    "own_10y_75th_pctile_pe": 20.0,
+    "sector_10y_75th_pctile_pe": 20.0,
+    "annual_dilution_rate": 0.005,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": ""
+  },
+  "variant_perception": {
+    "market_belief": "The market prices ICICI Bank as India's best-run large private bank -- strong CASA franchise, industry-leading NIM (~4.3-4.5%), clean and improving asset quality (net NPA reported around 0.33-0.41% through FY26, gross NPA around 1.4-1.7%), consistent ~16-17% ROE and a stable, credible management team under CEO Sandeep Bakhshi since 2018 -- trading at roughly 16x trailing standalone earnings and ~2.6x book, a well-recognised quality premium versus most PSU and several private peers, but not pricing in any special re-rating catalyst beyond continued steady, above-system loan growth.",
+    "whats_wrong_with_belief": "This session could not construct a credible, evidenced case that this is a genuine, exploitable mispricing rather than a reasonably efficient price. ICICI is one of the most heavily covered and most widely institutionally owned stocks in India -- FII, mutual-fund and insurance holdings together are reported well above 70% of the register, near the opposite of the coverage-neglect/structural-non-participation conditions this framework's M3 edges require. Its asset-quality turnaround and NIM leadership are multi-year-old, extensively reported facts (including its own 2018 CEO-conflict-of-interest episode and subsequent governance clean-up, all long since public and priced), not a fresh discovery. A modest continued re-rating on above-system loan growth is a plausible ordinary-analyst view, but that is not the same as a rigorous, evidenced N7 variant-perception case with a nameable persistence mechanism and a dated, distinct catalyst -- none was identified from the partial, search-only evidence gathered this session.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence -- see whats_wrong_with_belief. No dated, observable catalyst distinct from what already appears reflected in ICICI's current premium-to-most-peers multiple was identified.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "other",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": false,
+  "notes": "BFSI name -- is_regulated_utility_or_bfsi=True per the G1/Section 5e/6B BFSI carve-outs in FRAMEWORK_v2.2_FULL.md; industry_context.addressable_profit_pool_cr is left null since a lender has no product-market TAM concept, per the v2.2 6B implementation note. 'ebitda' in the financials series is a rough NII (+ implied fee-income) proxy (revenue minus interest_expense), not comparable to a non-financial company's EBITDA -- same convention used for BAJFINANCE.json and SBIN.json. Assigned by random draw from the Nifty 50 band; candidate_source='other' accordingly, not a systematic-screen hit. DATA QUALITY -- WELL-SOURCED (Tier 3, cross-corroborated via multiple independent press/aggregator search results, standalone basis unless noted): standalone PAT FY22 Rs23,339 Cr, FY23 Rs31,896 Cr, FY24 Rs40,888 Cr, FY25 Rs47,227 Cr, FY26 Rs50,147 Cr (multiple consistent press citations, each described as a 'highest ever' annual result at the time); FY25 total income ~Rs1,91,770 Cr (14.3% YoY, bank's own 'at a glance' figures); Net NPA ~0.33% and Gross NPA ~1.40% at FY26 year-end (Mar-2026), improving from ~0.41%/1.67% at Q1FY26 (Jun-2025); Return on Assets ~2.33% FY26; ROE ~16.3% FY25 (down from ~17.4% FY24, per one aggregator); Total Capital Adequacy Ratio ~17.18% and CET1 ~16.35% at Mar-2026 (bank's own performance review), both well above regulatory minimums (11.70%/8.20%); CASA ratio ~38.1% (Q1 FY27, quarter ended Jun-2026); Net Interest Margin ~4.3-4.5% through FY24-FY26; book value per share ~Rs507.03 (Mar-2026); FY26 dividend Rs12/share, described as the bank's highest payout in 12 years (up from Rs11/share FY25); current price Rs1,353.30, market cap ~Rs9,70,805.45 Cr, trailing P/E ~16.24x, P/B ~2.60x (all dated 16-17-Sep-2026); shareholding -- ICICI Bank has had NO identifiable promoter since its 2002 reverse-merger with erstwhile ICICI Ltd (a structural fact, not a data gap): FII ~34.5%, domestic mutual funds ~27.8%, insurance ~8.1%, other DIIs ~4.2%, retail/other ~7.4%+ of the register (as of mid-2026), i.e. institutional ownership well above 70%. DATA QUALITY -- RECONSTRUCTED/APPROXIMATE (Tier 5, flagged, NOT independently pulled from a primary filing this session, built as internally-consistent ratio walks against the Tier-3 PAT/total-income/BVPS anchors above -- same method as SBIN.json/BAJFINANCE.json): the full revenue/ebitda/interest_expense split for FY22-FY24 (only FY25's total income and an FY25 NII figure derived by summing four separately-reported quarterly NII prints are directly sourced; FY26 total income, and all NII figures other than the FY25 quarterly sum, are modelled by applying assumed YoY growth rates informed by (but not identical to) reported aggregate NII-growth commentary); the entire non-interest balance-sheet series (depreciation, net fixed assets, CWIP, 'net working capital', total_debt, cash_equiv, capex, OCF) is a Tier 5 reconstruction built by ratio assumptions against net worth/revenue/PAT, exactly as for SBIN.json/BAJFINANCE.json -- treat none of these as filing-verified; net_worth is a roll-forward chain from the Mar-2026 BVPS x shares-outstanding anchor using PAT less an assumed flat ~15% payout ratio for years other than FY25/FY26 (whose per-share dividends of Rs11/Rs12 are directly reported); shares_outstanding (~717.4 Cr) is back-calculated from market_cap / price, not a directly filed share count; dividend_paid for FY22-FY24 is a Tier 5 estimate from an assumed per-share dividend history, not a filed figure; adtv_cr and sector_median_pe/pb are session estimates (source searches returned inconsistent sector P/E figures ranging from ~10.6x to ~22x for private banks depending on the aggregator and date -- a mid-value of ~15.5x was used and should not be treated as authoritative); bridge_assumptions.own_10y_75th_pctile_pe / sector_10y_75th_pctile_pe are unverified estimates, not a pulled 10-year percentile series. IMPORTANT UNRESOLVED INCONSISTENCY (flagged rather than silently reconciled): one search result cited FY26 standalone 'total income' at ~Rs3,12,118 Cr and FY25 at ~Rs2,94,587 Cr -- roughly 60% higher than this dossier's Rs1,91,770/Rs2,14,782 Cr figures for the same years and implying an unrealistically low ~9% YoY total-income growth inconsistent with the separately-cited 14.3% FY25 YoY growth figure. This session judged the smaller, internally-consistent figures (tied to the bank's own 'at a glance' FY25 total-income citation and its stated 14.3% growth rate) as more likely standalone-bank-only, and the larger figures as possibly consolidated-group (including ICICI Prudential Life, ICICI Lombard, ICICI Securities, ICICI AMC) or otherwise definitionally different -- but this was not independently confirmed against a primary filing this session, exactly the same category of unresolved standalone-vs-consolidated ambiguity flagged in SBIN.json's notes. GOVERNANCE NOTE (evidenced, not reconstructed): ICICI Bank's former MD & CEO Chanda Kochhar was removed by the board in 2018 following an internal/external inquiry into a conflict-of-interest matter involving loans to the Videocon Group and financial dealings connected to her husband's business, with subsequent CBI/ED proceedings against the former CEO and her husband -- a genuine historical governance lapse at the top of the organisation, now several years resolved, with no finding against the current sitting CEO (Sandeep Bakhshi, in office since Oct-2018) identified in this session's searches. This is reflected as a moderate cap on related_party_conduct/management_stability/earnings_quality (7/7/7) rather than a G3 kill-gate, since no active SEBI PFUTP action against a SITTING MD/CMD/CFO/WTD was found this session -- g3_state is set to D (clean) on that basis, but this is a judgement call the person reviewing this dossier should weigh, not a certainty. Moat sources were rated deliberately without inflation for one of India's most closely watched large-cap banks: 3 GREEN (pricing_power, switching_costs, efficient_scale -- all genuine and evidence-backed at the qualitative level, but only switching_costs and efficient_scale rated BUILDING; pricing_power rated HOLDING given recent NIM compression), 2 AMBER (cost_advantage, intangible_assets -- real but scale-driven or unquantified, explicitly capped per the framework's own 'scale-only capped AMBER' rule), 1 RED (network_effects -- structurally absent for traditional banking, same conclusion as SBIN/BAJFINANCE). variant_perception.answered is honestly set to False: ICICI is among the hardest names in the Nifty 50 to construct a genuine N7 variant-perception case for -- extremely heavy sell-side and institutional-investor coverage (>70% institutional ownership), a well-known and already-priced quality/turnaround story dating to 2018-2020, and no dated, distinct catalyst this session could identify that is not already substantially reflected in its current premium-to-most-peers multiple. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction (no data-vendor/filing-PDF access was used this session; Screener.in was unreachable from this environment), not a completed adversarial (M5) review with a logged hostile source and cooling period. Per the G1 v2.2 BFSI carve-out, the leverage discard gate is scored TEAL/informational for this name rather than pass/fail; CAR (~17.18%, well above the ~11.70% regulatory minimum) and the NPA trend (improving, GNPA 1.40%/NNPA 0.33% at FY26 year-end) are offered qualitatively above as the sector-appropriate replacement evidence the framework calls for, pending a coded BFSI-specific leverage test."
+}

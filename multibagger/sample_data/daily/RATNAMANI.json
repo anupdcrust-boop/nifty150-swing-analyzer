@@ -1,0 +1,110 @@
+{
+  "symbol": "RATNAMANI.NS",
+  "name": "Ratnamani Metals & Tubes Limited",
+  "sector": "Industrials",
+  "industry": "Stainless & carbon steel welded/seamless pipes and tubes (oil & gas, process industry)",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025, 2026],
+    "revenue": [2038.0, 3157.0, 4461.2, 5027.5, 5188.0, 4493.96],
+    "ebitda": [326.1, 536.7, 780.7, 904.9, 882.0, 880.9],
+    "depreciation": [50.0, 68.0, 86.0, 104.0, 122.0, 144.0],
+    "interest_expense": [10.0, 12.0, 15.0, 18.0, 21.0, 25.0],
+    "pat": [191.0, 275.0, 512.3, 625.1, 427.0, 534.47],
+    "ocf": [260.9, 429.4, 624.6, 723.9, 705.6, 704.7],
+    "capex": [80.0, 110.0, 160.0, 220.0, 300.0, 450.0],
+    "net_fixed_assets": [550.0, 750.0, 950.0, 1150.0, 1350.0, 1600.0],
+    "cwip": [40.0, 55.0, 70.0, 100.0, 150.0, 220.0],
+    "net_working_capital": [570.6, 883.96, 1249.1, 1407.7, 1452.6, 1258.3],
+    "total_debt": [120.0, 150.0, 180.0, 220.0, 260.0, 304.0],
+    "cash_equiv": [81.5, 126.3, 178.4, 201.1, 207.5, 179.8],
+    "net_worth": [2123.0, 2362.0, 2807.4, 3351.1, 3722.6, 4187.0],
+    "dividend_paid": [24.8, 35.75, 66.6, 81.3, 55.5, 70.1],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 2859.2,
+    "market_cap_cr": 20040.7,
+    "adtv_cr": 20.0,
+    "shares_outstanding": 7.0092,
+    "diluted_shares_outstanding": 7.0092,
+    "sector_median_pe": 26.0,
+    "sector_median_pb": 3.0,
+    "ten_year_gsec_yield": 0.071,
+    "gsec_date": "2026-09-15",
+    "forward_eps": null,
+    "book_value_per_share": 597.4
+  },
+  "moat_sources": [
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Long qualification/vendor-approval cycles with oil & gas and process-industry customers (API/ASME-type standards); hydrogen-compliant pipes independently tested at RINA & ROSEN per company/trade-press reporting. Plausible and industry-typical, but not independently confirmed at Tier 1-3 for Ratnamani specifically -- general-knowledge-adjacent claim."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Reported (trade press + company channels) as India's first commercial producer of 100%-hydrogen-compliant line pipes, >100km supplied to date, plus a May-2026 MoU with Tata Steel on hydrogen-compliant HRC/pipes. Real and specific, not generic PR fluff -- but sourced only via trade media / company self-reporting (Tier 4-5), with no disclosed revenue or order-book figure attributable to hydrogen-grade pipe specifically. Treat as a genuine, evidenced technical capability whose economic materiality is currently unproven, not as a demonstrated structural moat source yet."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "FY26 consolidated EBITDA margin reported expanding to ~19.6% from ~17.0% even as revenue fell ~13% YoY (aggregator/media coverage of company results, subsidiary RFSS cited as a contributor). One data point of margin resilience through a volume downturn -- suggestive of some pricing/cost discipline, but a single year is not proof of a durable structural cost edge over peers (Jindal Saw, Welspun Corp), and order intake is still visibly capex-cycle dependent."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 6,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 7,
+    "management_stability": 7,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 5,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 59.8,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Core revenue (carbon/stainless steel line pipe for oil & gas, city-gas distribution and process industries) tracks the domestic energy/industrial capex cycle -- FY26 consolidated revenue fell ~13% YoY on lower volumes and fixed-cost under-absorption per company/media reporting, a classic capex-cycle signature rather than structural share gain. A distinct, real but still small/early hydrogen-compliant-pipe sub-segment exists (India-first commercial production claim, Tata Steel MoU) that could plausibly represent an emergent adjacent category, but no revenue/order-book figure found attributes material sales to it yet -- so the company-wide phase call is MATURE, not INFLECTION, pending that evidence.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.5,
+    "horizon_years": 5,
+    "assumed_exit_pe": 30.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "FY26's margin uptick (17.0%->19.6%) is a single-year data point coincident with a revenue decline and a subsidiary-mix shift; not evidenced as a repeatable structural margin driver, so per the framework's own rule this is treated as unevidenced and set to zero rather than assumed forward."
+  },
+  "variant_perception": {
+    "market_belief": "At ~37x trailing EPS (well above the ~25-27x carried by peers Jindal Saw and Welspun Corp) despite a FY26 revenue decline, the market appears to be pricing Ratnamani as a quality/governance-premium compounder with clean-energy (hydrogen pipe) optionality layered on top of its core oil & gas / process-industry pipe business.",
+    "whats_wrong_with_belief": "No credible mispricing case could be built from the evidence gathered. The stock already trades at a premium to sector peers, is near the upper half of its 52-week range, and the hydrogen-pipe story -- while real (India-first claim, Tata Steel MoU, RINA/ROSEN testing) -- has no disclosed revenue or order-book contribution to show the market is under- or over-valuing it. Meanwhile the core business just posted a double-digit revenue decline on ordinary capex-cycle softness, which is a well-understood, not-neglected risk for an industrial pipe maker. There is no identified analytical gap between what the market believes and what the evidence shows -- the premium may simply be a fair, already-efficient price for a well-run but cyclical business.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DATA QUALITY: mostly Tier 3 (aggregator/media reporting of company results, e.g. Business Standard, MoneyControl-style coverage, mnclgroup, whalesbook, equitymaster) with a handful of Tier 5 (general knowledge / unverifiable-in-session) reconstructed years -- no Tier 1/2 (audited financials, direct BSE/NSE filings) were directly reachable from this environment. Well-sourced Tier-3 anchors, cross-checked for internal consistency this session: FY23 revenue Rs4,461Cr/PAT Rs512Cr and FY24 revenue Rs5,028Cr/PAT Rs625Cr (equitymaster); FY26 consolidated revenue Rs4,493.96Cr/PAT Rs534.47Cr, EBITDA margin 19.6% vs 17.0% prior year, order book Rs2,160Cr (as of 1-May-2026), Rs1,380Cr capex programme, Rs10/share dividend (multiple aggregator/media sources, mutually consistent); net worth Rs4,187Cr vs total debt Rs304Cr as of 31-Mar-2026 i.e. gearing ~0.07x (credit-rating-filing-sourced, BSE corporate filing listing); promoter holding 59.8%, stable through FY25-FY26 (trendlyne); India 10Y G-sec yield 7.10% (15-Sep-2026, tradingeconomics); peer PE Jindal Saw ~25.0x, Welspun Corp ~26.8x (icicidirect/wisesheets-style coverage); hydrogen-compliant line pipe first-mover claim and Tata Steel MoU (company channels + trade press, tubepipeindia.com / promfgmedia.com). RECONSTRUCTED/Tier-5: FY21-FY22 revenue and PAT (general-knowledge-based COVID-trough/recovery estimates, NOT independently verified via search this session); FY25 PAT of Rs427Cr was derived by working backward from a reported '~25% YoY consolidated PAT growth FY25->FY26' figure, and conflicts with a separately reported FY25 (likely standalone) PAT figure of ~Rs578Cr on ~Rs4,959Cr standalone revenue -- this standalone-vs-consolidated reconciliation could not be resolved from available sources and is flagged as a genuine earnings-quality/sourcing-clarity concern rather than papered over. All balance-sheet detail (net fixed assets, CWIP, net working capital, cash) beyond the FY26 net-worth/debt anchor is modelled from typical industrial capital-intensity assumptions, not sourced -- so period ROCE/ROIIC figures the engine computes from this series are illustrative of the ENGINE'S LOGIC on plausible-shaped data, not a reliable point-in-time ROCE for this company (externally reported ROCE for FY23/FY24 was ~18.0%/~17.3% per equitymaster, which does not exactly match what this reconstructed series implies). Sector median P/B (3.0x) and ADTV (Rs20Cr/day) are rough, unverified estimates (Tier 5) -- not found via search. JUDGEMENT CALLS: (1) moat rated no better than AMBER on all three sources -- the hydrogen-pipe capability is real and specific but commercially unproven at scale, the qualification-cycle switching-cost argument is industry-generic rather than Ratnamani-specific evidence, and the one-year margin resilience is a single data point set against a genuinely cyclical, capex-order-book-dependent revenue history (FY26 revenue -13% YoY); (2) industry phase set to MATURE rather than INFLECTION because no revenue/order-book evidence ties the hydrogen narrative to demonstrated financial impact yet; (3) variant_perception.answered is deliberately FALSE -- a stock already trading above peer multiples with a recently-declining topline does not present a credible 'market is wrong' case from the evidence found, and inventing one would misrepresent the research; (4) m5_protocol_complete set FALSE to honestly reflect that this was a single-session, search-tool-only pass without access to primary filings, not a completed adversarial M5 protocol."
+}

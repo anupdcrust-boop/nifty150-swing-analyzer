@@ -1,0 +1,131 @@
+{
+  "symbol": "DEEPAKNTR.NS",
+  "name": "Deepak Nitrite Limited",
+  "sector": "Materials / Chemicals",
+  "industry": "Specialty & fine chemicals (phenolics, advanced/fluoro intermediates, DASA)",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025],
+    "revenue": [4359.75, 6845.0, 7293.0, 7758.0, 8366.0],
+    "ebitda": [1024.5, 1294.0, 1269.0, 1253.0, 1176.0],
+    "depreciation": [120.0, 150.0, 190.0, 230.0, 260.0],
+    "interest_expense": [15.0, 20.0, 30.0, 55.0, 85.0],
+    "pat": [775.81, 904.0, 852.0, 810.9, 697.0],
+    "ocf": [799.1, 1009.3, 989.8, 977.3, 917.3],
+    "capex": [250.0, 350.0, 440.0, 530.0, 610.0],
+    "net_fixed_assets": [1200.0, 1400.0, 1650.0, 1950.0, 2300.0],
+    "cwip": [100.0, 150.0, 300.0, 800.0, 1800.0],
+    "net_working_capital": [785.0, 1232.0, 1313.0, 1396.0, 1506.0],
+    "total_debt": [200.0, 250.0, 400.0, 700.0, 1240.0],
+    "cash_equiv": [300.0, 450.0, 550.0, 700.0, 882.0],
+    "net_worth": [2808.2, 3567.6, 4283.3, 4964.5, 5550.0],
+    "dividend_paid": [124.1, 144.6, 136.3, 129.7, 111.5],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 1641.9,
+    "market_cap_cr": 22409.4,
+    "adtv_cr": 45.0,
+    "shares_outstanding": 13.63,
+    "diluted_shares_outstanding": 13.63,
+    "sector_median_pe": 35.0,
+    "sector_median_pb": 5.5,
+    "ten_year_gsec_yield": 0.0702,
+    "gsec_date": "2026-09-11",
+    "forward_eps": null,
+    "book_value_per_share": 407.2
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "AMBER",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Repeated Chinese dumping episodes have pushed domestic phenol/acetone prices down by up to ~10% in a single month (Crisil/press commentary); the smaller DASA/advanced-intermediates lines retain better realizations but the blended book (Phenolics is ~69% of FY25 revenue) has weak, commodity-like pricing power that is currently weakening, not strengthening."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Advanced-intermediate/pharma-agro customers typically run multi-year qualification cycles once a supplier's molecule is designed into a synthesis route, which is genuine stickiness -- but this applies to a minority of the revenue mix. The dominant Phenolics segment (phenol/acetone/IPA) is a spot-priced commodity sold largely on price, with negligible switching cost. Not independently verified for DNL specifically in this search session; general industry-structure inference."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Not applicable -- bulk and specialty chemical manufacturing/selling has no network-effect dynamic (value to one customer does not rise with the number of other customers). Structurally absent for this business model, not merely weak."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "GREEN",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Continuing backward integration is real and in progress: a dedicated fluorination block at Dahej has been commissioned and started producing Benzo Trifluoride (BTF) in-house (reducing import dependence), funded via a Rs176 Cr preference-share infusion into subsidiary Deepak Chem Tech; a further ~Rs3,500 Cr project to expand captive phenol (300 KTA)/acetone (185 KTA)/IPA (100 KTA) capacity is approved, feeding into a planned India-first polycarbonate-resin chain, part of a stated ~Rs10,000 Cr multi-year capex program through FY28. This deepens the captive-feedstock cost position even though realized segment margins have compressed for three straight years amid the China oversupply cycle -- trajectory is genuinely BUILDING on capacity/integration even as near-term unit economics are under pressure."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Long-standing global leadership in niche fine-chemical intermediates such as DASA reflects durable process/know-how IP built up over decades -- a real and-cited competitive position. No new patent, product or process-IP disclosure surfaced in this search to justify upgrading to BUILDING, so held at HOLDING pending fresher evidence; general-knowledge-level claim, not independently re-verified this session."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "ERODING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "DNL is the largest integrated phenol/acetone producer in India, which is a genuine domestic scale barrier versus smaller local players. But that scale is materially smaller than the Chinese producers now dumping into the Indian market, and coverage explicitly frames DNL's ~Rs10,000 Cr capex ambitions as \"clashing\" with a Chinese supply glut -- i.e. domestic scale is not, on its own, currently sufficient to defend segment margins or deter import competition."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 8,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 7,
+    "management_stability": 9,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 7,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 49.33,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": true
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "The dominant Phenolics segment (phenol/acetone/IPA, ~69% of FY25 consolidated revenue) is a globally-traded, cyclical commodity-chemical market now in oversupply, with Chinese exporters dumping into India and compressing domestic realizations and margins (Motilal Oswal 'Sell' calls citing Chinese dumping; Crisil noting erosion of pricing power). The smaller Advanced Intermediates/fluoro-specialty piece (DASA, BTF, agro/pharma intermediates) looks more INFLECTION-like on its own, but it is not large enough yet to characterize the consolidated business, so the honest overall call is MATURE-and-cyclical rather than an emergent or inflecting growth industry.",
+    "addressable_profit_pool_cr": 6000.0,
+    "current_profit_share_pct": 19.6,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 3.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 28.0,
+    "own_10y_75th_pctile_pe": 50.0,
+    "sector_10y_75th_pctile_pe": 42.0,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.015,
+    "margin_delta_mechanism_note": "Management (Q4/Q1 FY26 concalls, trade press) frames the phenol-acetone-IPA-polycarbonate chain and fluorination backward integration as margin-accretive once new capacity commissions around FY27-28 -- Tier 4 management narrative, not yet visible in reported numbers, which have instead shown three consecutive years of EBITDA-margin compression (23.5% in FY21 to 14.1% in FY25). Modelled margin-delta CAGR is kept small and clearly flagged as unproven."
+  },
+  "variant_perception": {
+    "market_belief": "Consensus (Motilal Oswal 'Sell' and similar sell-side notes, plus a ~50% drawdown from 2024 highs) treats DNL as a commodity-adjacent chemical cyclical whose Phenolics segment is structurally exposed to Chinese dumping, with near-term earnings visibility poor (Q3 FY25 PAT -52% YoY, Q1 FY26 PAT -45% YoY, ROCE down from a ~29-30% five-year average to roughly 11-16% and still falling into FY26) -- but the stock nonetheless still carries a rich trailing multiple (aggregator-quoted TTM PE ~100x on the depressed current-year earnings base; on FY25's full-year PAT the multiple is a more moderate ~32x) because the market is also pricing option value in the ~Rs10,000 Cr backward-integration/polycarbonate capex program.",
+    "whats_wrong_with_belief": "I could not construct a credible, evidence-backed case that the market is UNDERVALUING this business. The bear case (China oversupply compressing the core Phenolics segment, ROCE nearly halving over three years, capex-driven debt now rising off a near-zero base) is well documented and, on the numbers gathered here, looks basically correct rather than overstated. If there is a mispricing, the more defensible read is the opposite of what this framework screens for: the market may already be paying a premium multiple for a capex-driven recovery (polycarbonate/fluorination) that has not yet shown up in a single reported quarter's margins, which is a real execution and timing risk, not an overlooked strength.",
+    "persistence_mechanism": "Not established -- see above. No genuine coverage-neglect, time-horizon, or behavioural-discipline edge was identified; DNL is a well-covered, institutionally-owned midcap (FII 6.2% / DII 23.5% per latest shareholding data) whose problems (China dumping, margin compression) are widely and correctly discussed in sell-side and trade press, not overlooked.",
+    "m3_edge": "",
+    "gap_closing_event": "If a real thesis exists here it is a forward-looking one, not a current mispricing: the first full quarter of commissioned phenol/acetone-debottlenecked and fluorination capacity showing segment-margin recovery (expected management-guided FY27-28) would be the actual gap-closing event to re-underwrite the moat/pricing-power thesis -- but that is a future test, not evidence available today.",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DATA QUALITY: FY24 revenue (Rs7,758 Cr), FY25 revenue (Rs8,366 Cr) and FY25 EBITDA/margin (Rs1,176 Cr / 14%) are real, search-sourced figures (Tier 3 aggregator/trade-press reporting of results, not independently pulled from audited filings -- Screener/Moneycontrol/Tijori/NSE archives were unreachable from this environment). FY23/FY24/FY25 PAT (Rs852 Cr / Rs810.9 Cr / Rs697 Cr), FY21/FY22 revenue (Rs4,359.75 Cr / Rs6,845 Cr) and FY21 PAT (Rs775.81 Cr) are similarly real, cited figures. FY22 PAT (~Rs904 Cr), FY23 revenue (~Rs7,293 Cr), and the ENTIRE balance-sheet series (depreciation, interest, net fixed assets, CWIP, net working capital, total debt, cash, net worth, dividends) are Tier 5 RECONSTRUCTIONS -- backed only by two verified anchors each year (revenue, PAT where available) and typical chemical-industry capital-intensity/working-capital ratios, then reverse-engineered to be internally consistent (e.g. net worth walked back year-by-year from the FY25 equity base of ~Rs5,550 Cr / debt Rs1,240 Cr / D-E 0.22x, which ARE real Screener-adjacent figures). Market price (Rs1,641.9), market cap (Rs22,409 Cr), shares outstanding (13.63 Cr, from a reported 136,325,137-share count), promoter holding (49.33%, STABLE, 0% pledge, with a documented Feb-2025 open-market purchase by a promoter-group member) and the 10-year G-sec yield (7.02%, Sep-2026) are real, search-sourced. Sector median PE/PB (35x / 5.5x), ADTV (Rs45 Cr/day), the addressable profit pool (Rs6,000 Cr) and all bridge_assumptions are Tier 5 analyst estimates, clearly not audited inputs. IMPORTANT CAVEAT: the engine's G5 valuation-sanity gate uses FY25's full-year PAT for trailing PE (~32x here), which will read as reasonably valued against the sector; but live aggregator data as of Sep-2026 quotes a much higher TTM PE (~100x) because FY26's actual quarters (Q1 FY26 PAT -45% YoY, prior Q3 FY25 PAT -52% YoY) are far weaker than FY25's average quarter. That divergence is real and should be read as a warning that this dossier's G5 result is more optimistic than the stock's live valuation support. m5_protocol_complete is honestly set to False -- this is a single-pass, web-search-based reconstruction, not an adversarial multi-analyst review, and variant_perception.answered is honestly set to False because no credible, evidence-backed underpricing thesis could be constructed (see variant_perception fields for the full reasoning)."
+}

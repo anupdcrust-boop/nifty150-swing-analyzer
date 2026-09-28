@@ -1,0 +1,131 @@
+{
+  "symbol": "BALKRISIND.NS",
+  "name": "Balkrishna Industries Limited",
+  "sector": "Automobile & Auto Components",
+  "industry": "Off-highway specialty tyres (agricultural, construction, mining, industrial) -- export-led OHT manufacturer",
+  "financials": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "revenue": [8697.0, 9759.53, 9368.87, 10446.95, 10823.08],
+    "ebitda": [2252.51, 1961.67, 2323.48, 2682.0, 2423.0],
+    "depreciation": [430.51, 483.09, 463.76, 517.12, 535.74],
+    "interest_expense": [190.55, 213.83, 205.28, 228.89, 237.13],
+    "pat": [1411.0, 1057.40, 1471.49, 1654.96, 1243.10],
+    "ocf": [1576.76, 1373.17, 1626.44, 1877.40, 1696.10],
+    "capex": [600.0, 700.0, 900.0, 1600.0, 2800.0],
+    "net_fixed_assets": [4783.35, 5367.74, 5152.88, 5745.82, 5952.69],
+    "cwip": [434.85, 487.98, 749.51, 1567.04, 2164.62],
+    "net_working_capital": [2783.04, 3123.05, 2998.04, 3343.02, 3463.39],
+    "total_debt": [2722.16, 3054.73, 2932.46, 3269.90, 3387.62],
+    "cash_equiv": [1481.97, 1663.02, 1596.24, 1780.00, 1844.33],
+    "net_worth": [7070.80, 7969.59, 9146.78, 10388.00, 11295.46],
+    "dividend_paid": [211.65, 158.61, 294.30, 413.74, 335.64],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 2116.90,
+    "market_cap_cr": 44165.0,
+    "adtv_cr": 60.0,
+    "shares_outstanding": 20.863,
+    "diluted_shares_outstanding": 20.863,
+    "sector_median_pe": 21.4,
+    "sector_median_pb": 4.5,
+    "ten_year_gsec_yield": 0.069,
+    "gsec_date": "2026-09-01",
+    "forward_eps": null,
+    "book_value_per_share": 541.5
+  },
+  "moat_sources": [
+    {
+      "name": "cost_advantage",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Widely and repeatedly cited (buy-side write-ups, trade press) as one of the world's lowest-cost off-highway-tyre manufacturers on Indian labour and manufacturing-cost arbitrage vs European/US specialty-tyre peers (Titan International, Trelleborg/CGS, Mitas), which supports BKT's ~6-7% share of the ~$15bn global specialty-tyre market and #2 global revenue rank behind Titan International. Real and long-documented, but not immune to input-cost cycles: consolidated EBITDA margin has swung from 25.9% (FY22) to 20.1% (FY23) to 22.7% (FY26) as rubber/carbon-black and freight costs moved, so the cost edge is versus peers, not an insulation from commodity volatility -- rated HOLDING rather than BUILDING given no evidenced further widening of the gap this session."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "~200 distributors across 120+ countries and reach into 160 countries, built over three-plus decades, plus a stated FY26 push into consumer-facing brand awareness (+11% awareness growth cited in trade coverage) and 'hyperlocal dealer conversion'. Genuine and specific, but distribution relationships in tyre replacement markets are not exclusive or contractually locking -- dealers can and do carry multiple brands -- so this is a real but moderate switching-cost moat, evidenced mostly through company/trade-press channels (Tier 4-5) rather than independently verified data on dealer exclusivity or repeat-purchase economics."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Among the largest dedicated OHT (as opposed to diversified-tyre) manufacturers globally, with an active Rs6,800 Cr capacity-expansion programme through FY29 (Rs2,800 Cr spent in FY26 alone) underpinning a stated Rs23,000 Cr FY30 revenue target. Scale is real within the OHT niche, but the specialty-tyre market itself is fragmented across several credible global players (Titan International, Trelleborg, Mitas/CGS, Alliance/Yokohama), so this is a scale advantage within a niche, not an efficient-scale natural-monopoly dynamic; capex is management-guided (Tier 4) and not yet reflected in improved consolidated margins (FY26 EBITDA margin fell to 22.7% from 25.3% in FY25 even as the capex ramped)."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "The BKT brand carries real recognition in the global OHT replacement/aftermarket channel built over decades, but this is a trade/media-level, general-knowledge-adjacent claim (marketing case studies, not independently verified brand-premium pricing data or patent portfolio analysis in this pass)."
+    },
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Consolidated EBITDA margin has been volatile and recently compressing despite revenue growth: 25.9% (FY22) -> 20.1% (FY23) -> 24.8% (FY24) -> 25.3% (FY25) -> 22.7% (FY26); more granularly, quarterly operating margin fell from ~25.4% (Mar-2024) to ~21.4% (Sep-2025), a ~400bps erosion, and FY26 consolidated PAT fell ~25% YoY even as revenue grew ~3.6% YoY. This is the opposite signature of durable pricing power -- input-cost and freight swings are passing through to margin with a lag the company has not been able to fully offset, which argues against, not for, a pricing-power moat at this time."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Not applicable -- off-highway tyre manufacturing is a physical-product B2B/B2B2C business with no network-effect dynamic; excluded from the moat case rather than scored as a genuine weakness."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 6.0,
+    "board_audit_independence": 6.0,
+    "ownership_transparency": 8.0,
+    "capital_allocation_discipline": 6.0,
+    "management_stability": 8.0,
+    "leverage_pledge_legal": 9.0,
+    "earnings_quality": 6.0,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 58.3,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "Off-highway/specialty tyre demand tracks global agriculture, construction and mining capex/replacement cycles rather than a structural adoption curve. Recent data shows deceleration, not inflection: FY24 consolidated revenue fell ~4% YoY, FY26 revenue grew only ~3.6% YoY while consolidated PAT fell ~25% YoY on margin compression (25.3%->22.7% EBITDA margin), and management itself flagged near-term margin pressure alongside a 2030 growth target. A real geographic mix shift is underway -- Europe fell from ~45% of FY25 revenue toward India reportedly overtaking Europe in Q1 FY27 volumes for the first time -- but this reads as a defensive pivot away from a softening, tariff/anti-dumping-exposed European/US export market rather than evidenced share gain in a growing profit pool, so the phase is called MATURE rather than INFLECTION pending clearer evidence either way.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 1.8,
+    "horizon_years": 5,
+    "assumed_exit_pe": 25.0,
+    "own_10y_75th_pctile_pe": 35.0,
+    "sector_10y_75th_pctile_pe": 28.0,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "Management has guided a 23-25% 'sustained' EBITDA margin band alongside the Rs6,800 Cr FY26-29 capex programme and Rs23,000 Cr FY30 revenue target, but this is Tier 4 (management-narrative) guidance, not a demonstrated trend -- the realised trend over FY25->FY26 was margin COMPRESSION (25.3%->22.7%) during the early capex ramp. Per the framework's own rule, an unevidenced margin delta is set to zero and the bridge is run on revenue-driven growth only."
+  },
+  "variant_perception": {
+    "market_belief": "At ~31x trailing earnings versus a broader Indian tyre-sector median PE of roughly 21x, the market appears to be pricing BALKRISIND as a structural compounder -- a low-cost, scaled global leader in a niche (off-highway/specialty tyres) benefiting from India-based manufacturing cost advantages and a large multi-year capacity-expansion programme (Rs6,800 Cr through FY29, targeting Rs23,000 Cr revenue by FY30).",
+    "whats_wrong_with_belief": "No credible mispricing case in BALKRISIND's favour could be built from the evidence gathered this session. The premium multiple is being paid against a backdrop of deteriorating, not improving, near-term fundamentals: FY26 consolidated PAT fell ~25% YoY on margin compression even as the capex programme ramped, quarterly operating margins have eroded ~400bps over the past six quarters, Europe (historically ~45% of revenue) is described as softening and the company faces real U.S. tariff exposure, and the reported volume-mix shift toward India appears defensive rather than offensive. This is the profile of a well-regarded exporter facing genuine cyclical and trade-policy headwinds trading at a premium multiple on its track record and growth ambition -- not a case where the market is identifiably underestimating a durable, already-evidenced compounding mechanism. Inventing a persistence-mechanism/edge/catalyst here would not be honest to the evidence found.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": false,
+  "notes": "DATA PROVENANCE: live aggregator sites (Screener, Moneycontrol, Trendlyne, autocarpro, zennivesh substack) and the company's own investor-relations PDFs (bkt-tires.com, bseindia.com) were unreachable from this environment (egress-blocked); all figures below come from WebSearch-surfaced snippets of financial news/aggregator coverage (Business Standard, Equitymaster, MarketsMojo, ScanX, Whalesbook, Trendlyne search snippets, simplywall.st, companiesmarketcap, statista) -- treat as Tier 3 (aggregator) at best, much of it Tier 5 (media/general-knowledge) reconstruction. REAL/CROSS-CHECKED (Tier 3, >=1 independent source, several cross-checked across 2+ sources): consolidated revenue FY22-FY26 (8,697 / 9,759.53 / 9,368.87 / 10,446.95 / 10,823.08 Cr) and PAT (1,411 / 1,057.40 / 1,471.49 / 1,654.96 / 1,243.10 Cr) -- note FY25 PAT was reported as both Rs1,628 Cr and Rs1,654.96 Cr across different sources/search passes, an unreconciled ~1.6% discrepancy flagged rather than papered over; EBITDA margins FY22 25.9%, FY23 20.1%, FY24 24.8%, FY25 25.3%, FY26 22.7% (EBITDA FY25 Rs2,682 Cr and FY26 Rs2,423 Cr reported directly); Q1 FY27 (Jun-2026 quarter, most recent available) standalone revenue Rs3,445 Cr (+25% YoY) and PAT Rs432 Cr (+50% YoY) with EBITDA margin 21%, indicating the FY26 margin pressure has continued into the new fiscal year rather than reversing; current price Rs2,116.90 and market cap Rs44,165 Cr (~6-16 Sep 2026), trailing PE ~31.4x vs a tyre-sector median PE ~21.4x; promoter holding 58.3% with promoters/promoter group confirming NIL share encumbrance for FY26 (0% pledge); FY25 balance-sheet anchors -- total equity ~Rs10,388 Cr, total debt ~Rs3,270 Cr (D/E ~31.5%), cash & short-term investments ~Rs1,780 Cr (simplywall.st/tipranks-style aggregator data); FY25 revenue geography mix Europe ~45.1%, India ~28.6%, Americas ~15.2%, RoW ~11.1%, with India volumes reportedly overtaking Europe for the first time in Q1 FY27; global market position ~6-7% share of a ~$15bn specialty-tyre market, #2 by revenue globally behind Titan International, ~200 distributors in 120+ countries; Rs6,800 Cr capex programme through FY29 (Rs2,000 Cr incremental approved at Q4FY26) targeting Rs23,000 Cr FY30 revenue (2.2x, ~17% five-year CAGR), with management guiding a 23-25% sustained EBITDA margin band despite near-term pressure; BKT holds a longstanding (2017) US antidumping-duty exclusion specific to its own OHT exports (zero calculated dumping margin), though the company is separately described in 2026 trade coverage as facing steep general US tariff exposure and softening European demand -- these are two distinct trade-policy facts and should not be conflated. RECONSTRUCTED/Tier-5 (not independently sourced, modelled from the above anchors and typical tyre-industry capital-intensity ratios): depreciation, interest expense, net fixed assets, CWIP, net working capital and cash/debt for years other than the FY25 anchor point, OCF-to-EBITDA conversion (70%), dividend payout ratios (15%/15%/20%/25%/27% by year, though BKT's actual practice of multiple Rs4/share quarterly interims is real and Tier 3), tax rate (flat 25% assumed), ADTV (Rs60 Cr/day, unverified), sector median P/B (4.5x, unverified), 10Y G-sec yield (6.9%, taken from a nearby-dated cross-check on another name's dossier this session rather than sourced fresh for BALKRISIND specifically), and BALKRISIND's own/sector 10-year 75th-percentile PE bands (35x/28x). JUDGEMENT CALLS: (1) pricing_power rated RED/ERODING rather than AMBER -- the margin-compression evidence (FY26 PAT -25% YoY on flat-ish revenue growth, six-quarter operating-margin erosion continuing into Q1 FY27) is specific and recent enough that rating this GREEN or even AMBER-HOLDING would be dishonestly generous; (2) industry phase called MATURE not INFLECTION -- the India-over-Europe volume-mix shift is real but reads as defensive diversification away from a stressed export market (European demand softness, US tariff exposure) rather than demonstrated profit-pool share gain, and no addressable-profit-pool or 3-year sector-outgrowth evidence could be sourced to support INFLECTION; (3) variant_perception.answered is deliberately FALSE -- a stock trading at a ~50% premium to its sector median PE while posting a ~25% YoY consolidated PAT decline does not present a credible 'market underestimates this compounder' case from the evidence found, and the more obvious tension (rich multiple vs deteriorating near-term earnings) cuts the other way; inventing a bull-case persistence mechanism here would misrepresent the research, per the assignment's explicit instruction not to manufacture a case the evidence doesn't support; (4) governance pillar scores (6s and 8s) are analyst judgement calls based on general reputation (long-tenured founder-promoter family management, no known SEBI enforcement or major related-party scandal surfaced in this pass, 0% promoter pledge) rather than a line-by-line review of board composition, RPT disclosures or audit-committee minutes, which were not available in this session -- scored moderately rather than high to reflect that gap honestly; (5) m5_protocol_complete set FALSE to honestly reflect a single-session, search-tool-only pass without access to primary filings or annual reports (all blocked by egress), not a completed formal adversarial M5 review."
+}

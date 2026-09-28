@@ -1,0 +1,110 @@
+{
+  "symbol": "IPCALAB.NS",
+  "name": "IPCA Laboratories Limited",
+  "sector": "Pharmaceuticals",
+  "industry": "Domestic branded generics (pain, cardiac, anti-diabetic, anti-infective) plus integrated API manufacturing and anti-malarial institutional supply",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025],
+    "revenue": [5482.83, 5896.36, 6251.0, 7705.04, 8940.0],
+    "ebitda": [1069.15185, 1031.863, 906.395, 1288.282688, 1726.0],
+    "depreciation": [246.72735, 265.3362, 281.295, 346.7268, 402.3],
+    "interest_expense": [27.0, 126.0, 157.5, 135.0, 108.9],
+    "pat": [1140.01, 884.08, 471.0, 547.35, 785.0],
+    "ocf": [801.8638875, 773.89725, 679.79625, 966.212016, 1294.5],
+    "capex": [328.9698, 353.7816, 375.06, 462.3024, 536.4],
+    "net_fixed_assets": [2193.132, 2358.544, 2500.4, 3082.016, 3576.0],
+    "cwip": [274.1415, 294.818, 312.55, 385.252, 447.0],
+    "net_working_capital": [1754.5056, 1886.8352, 2000.32, 2465.6128, 2860.8],
+    "total_debt": [300.0, 1400.0, 1750.0, 1500.0, 1210.0],
+    "cash_equiv": [900.0, 500.0, 400.0, 700.0, 1100.0],
+    "net_worth": [6558.518, 7265.782, 7666.132, 8147.8, 8870.0],
+    "dividend_paid": [285.0025, 176.816, 70.65, 65.682, 62.8],
+    "tax_rate": [0.25, 0.25, 0.25, 0.25, 0.25]
+  },
+  "market": {
+    "price": 1937.3,
+    "market_cap_cr": 49124.7,
+    "adtv_cr": 80.0,
+    "shares_outstanding": 25.3664122,
+    "diluted_shares_outstanding": 25.3664122,
+    "sector_median_pe": 40.55,
+    "sector_median_pb": 4.91,
+    "ten_year_gsec_yield": 0.0706,
+    "gsec_date": "2026-09-18",
+    "forward_eps": null,
+    "book_value_per_share": 349.67
+  },
+  "moat_sources": [
+    {
+      "name": "intangible_assets",
+      "rating": "GREEN",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "~48% of FY25 revenue from domestic branded generics across long-established pain-management, cardiac, anti-diabetic and anti-infective franchises (300+ formulations), built up over decades of field-force/prescriber relationships (aggregator-reported segment mix, Tier 3). Real brand trust, but this is a replicable model any well-capitalized Indian generics peer runs -- rated HOLDING, not BUILDING, absent evidence of accelerating share gain."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Integrated API + formulation manufacturing scale (leadership in anti-malarial APIs -- chloroquine phosphate, hydroxychloroquine -- plus atenolol/furosemide) gives real cost efficiency, but the USFDA compliance record behind that manufacturing base is recurring, not resolved: Ratlam API plant + Pithampur/Piparia formulation plants under import alert 2015-2020 (data-integrity warning letter, Jan 2016); fresh Form-483s at Ratlam (11 observations) and Pithampur (8 observations) after June 2023 inspections; Ratlam and Piparia then cleared to VAI/EIR status by Oct 2023 (stock +7% on the news); a further Form-483 (3 observations) followed at the Tarapur API plant after a Dec 2025 inspection. Genuine multi-year improvement in severity, but a decade-plus pattern of recurring observations, not a clean run -- rated HOLDING, not BUILDING."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "ERODING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Multi-year API-buyer qualification cycles with a handful of MNC generic customers, plus institutional anti-malarial tender relationships (Global Fund/WHO), historically gave some customer stickiness. But the anti-malarial/institutional book has been shrinking structurally (management commentary cites the anti-malarial segment now at only ~1% of overall business, down sharply, with a further ~24% YoY decline noted in Q1 FY27) -- management-narrative level evidence only at this tier, and the trend is down, not up."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 7,
+    "ownership_transparency": 7,
+    "capital_allocation_discipline": 6,
+    "management_stability": 7,
+    "leverage_pledge_legal": 8,
+    "earnings_quality": 6,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 44.72,
+    "promoter_holding_3y_direction": "FALLING",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "IPCA's dominant revenue lines -- domestic branded generics (~48%) and export branded/generic formulations (~26%) -- sit in India's large, well-penetrated, fragmented domestic pharma market (IPM growth typically mid-to-high single digits to low double digits per year), a mature category rather than an emergent or inflecting one. The API segment (~20% of revenue) does have a genuine 'supply-chain diversification away from China' tailwind, but it is a minority of the consolidated business, so it does not carry the whole company into INFLECTION on the evidence available here.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.5,
+    "horizon_years": 5,
+    "assumed_exit_pe": 45.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.0,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "FY24->FY25 EBITDA margin already recovered sharply (16.7%->18.9%) as the Unichem-integration drag eased; no credible, evidenced mechanism for a further multi-year structural margin step-up beyond that already-realized recovery was found, so no additional margin-delta CAGR is assumed (kept at zero per the 6A default for unevidenced deltas)."
+  },
+  "variant_perception": {
+    "market_belief": "The market currently prices IPCA as a normalizing pharma compounder whose FY24->FY25 margin recovery (EBITDA margin 16.7%->18.9%, PAT +50% YoY) and improving (though not fully clean) USFDA compliance record justify a re-rating -- the stock is up ~50% over the past year to a 52-week high, trading around 60x+ trailing earnings, a real premium to an already-rich Nifty Pharma index (~40.5x).",
+    "whats_wrong_with_belief": "No credible mispricing case was found either way. The bull case (margin recovery, anti-malarial/API scale, large domestic franchise) looks largely already reflected in the price given the P/E premium to an expensive sector index. The bear case (recurring USFDA Form-483s as recently as Dec 2025, a promoter holding that has drifted down from ~46.3% to 44.7% over roughly three years, capital allocation criticized by sell-side analysts as expensive/dilutive at the time of the Unichem acquisition, a shrinking anti-malarial franchise) is real but not obviously under-priced either -- it reads as a name the market has already scrutinized rather than one that is neglected or systematically misread.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "DATA PROVENANCE: most aggregator sites that would carry Tier 1/2-adjacent detail (screener.in, moneycontrol, tijorifinance) were blocked by the egress proxy in this environment; all figures below come from WebSearch snippets of financial press, index-data sites and screener-style summaries reproducing company results -- Tier 3 (aggregator/media) at best, never Tier 1/2 audited-filing level. VERIFIED-VIA-SEARCH anchors (Tier 3): FY21/FY22/FY24 consolidated revenue and PAT, FY25 revenue/PAT/EBITDA (Rs8,940 Cr / Rs785 Cr / Rs1,726 Cr, EBITDA margin 18.94%), FY24 EBITDA margin (16.72%), FY25 ROCE (17.2%, 3yr avg 14.1%), FY25 D/E (~0.13-0.136, net worth ~Rs8,870 Cr, total debt ~Rs1,210 Cr), current price/market cap (Rs1,937.3 / Rs49,124.7 Cr, 16-Sep-2026), shares outstanding (~25.37 Cr), promoter holding (44.72% now vs 46.29% in Nov 2022), Nifty Pharma index PE/PB (40.55x / 4.91x, Sep 2026) used as the sector proxy, 10yr G-Sec yield (7.06%, 18-Sep-2026), USFDA inspection/import-alert timeline (2015-16 warning letter, 2020 partial exemption reversal, June 2023 Form-483s at Ratlam/Pithampur, Oct 2023 VAI/EIR clearance at Ratlam/Piparia, Dec 2025 Form-483 at Tarapur), and the Unichem Laboratories acquisition (2022-23, ~Rs1,542 Cr combined, sell-side-flagged as earnings-dilutive). FY23 revenue/PAT are DERIVED (not directly cited) by backing out FY24's reported YoY growth rates -- weaker than the other anchors, flagged separately. TIER 5 RECONSTRUCTED (my own modeling, not sourced): FY21-23 EBITDA margins, all depreciation/interest/capex/net-fixed-assets/CWIP/net-working-capital/cash/dividend line items and the FY21-24 net-worth backcast, built from typical Indian integrated-pharma capital-intensity ratios and calibrated so the FY25 endpoint matches the sourced D/E and net-worth anchors; ADTV is an unverified liquidity estimate for a stock this size, not itself confirmed. JUDGEMENT CALLS: (1) Promoter holding is coded FALLING because the multi-year trend is down (~46.3%->44.7%), most plausibly financing-related dilution around the Unichem acquisition rather than a promoter exit -- but the framework's Section 5f test has no room to distinguish the two from the holding-percentage series alone, so it is carried through honestly rather than smoothed over. (2) Moat sources are all rated HOLDING (none BUILDING at Tier 1-3), reflecting a genuine, real decade-long improvement in USFDA compliance severity that nonetheless still produced a fresh Form-483 as recently as Dec 2025 -- not evidence of a fully resolved or widening moat. (3) Industry phase is coded MATURE because the dominant domestic-branded-generics + export-formulations mix does not clear the bar for EMERGENT/INFLECTION on the evidence found, even though the minority API segment has a real 'China+1' tailwind. (4) N7 variant perception is marked unanswered (answered=false) because the already-large one-year re-rating and premium-to-sector P/E make it hard to construct a credible case that the market is currently mispricing this name in either direction -- deliberately not manufacturing a bull or bear thesis the evidence does not support."
+}

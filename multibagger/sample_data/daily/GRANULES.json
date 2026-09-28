@@ -1,0 +1,220 @@
+{
+  "symbol": "GRANULES.NS",
+  "name": "Granules India Limited",
+  "sector": "Pharmaceuticals",
+  "industry": "Vertically integrated API / PFI / Finished-Dosage generics (US-generics-focused)",
+  "financials": {
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "revenue": [
+      3764.9,
+      4511.9,
+      4506.37,
+      4481.6,
+      5365.6
+    ],
+    "ebitda": [
+      764.1,
+      959.5,
+      818.0,
+      958.2,
+      1185.1
+    ],
+    "depreciation": [
+      150.6,
+      194.0,
+      193.8,
+      192.7,
+      279.7
+    ],
+    "interest_expense": [
+      55.7,
+      67.4,
+      76.5,
+      87.8,
+      101.3
+    ],
+    "pat": [
+      412.8,
+      516.6,
+      405.31,
+      501.5,
+      595.0
+    ],
+    "ocf": [
+      596.0,
+      748.4,
+      638.0,
+      747.4,
+      924.6
+    ],
+    "capex": [
+      225.9,
+      270.7,
+      270.4,
+      268.9,
+      321.9
+    ],
+    "net_fixed_assets": [
+      1505.96,
+      1804.76,
+      1802.55,
+      1792.64,
+      2146.24
+    ],
+    "cwip": [
+      263.5,
+      315.8,
+      315.4,
+      313.7,
+      375.6
+    ],
+    "net_working_capital": [
+      1054.2,
+      1263.3,
+      1261.8,
+      1254.8,
+      1502.4
+    ],
+    "total_debt": [
+      696.5,
+      842.2,
+      956.5,
+      1097.9,
+      1265.7
+    ],
+    "cash_equiv": [
+      188.2,
+      225.6,
+      225.3,
+      224.1,
+      268.3
+    ],
+    "net_worth": [
+      2321.7,
+      2807.3,
+      3188.29,
+      3659.7,
+      4219.0
+    ],
+    "dividend_paid": [
+      24.77,
+      31.0,
+      24.32,
+      30.09,
+      35.7
+    ],
+    "tax_rate": [
+      0.26,
+      0.26,
+      0.26,
+      0.26,
+      0.26
+    ]
+  },
+  "market": {
+    "price": 835.6,
+    "market_cap_cr": 20705.9,
+    "adtv_cr": 18.0,
+    "shares_outstanding": 24.78,
+    "diluted_shares_outstanding": 27.27,
+    "sector_median_pe": 40.55,
+    "sector_median_pb": 5.5,
+    "ten_year_gsec_yield": 0.0705,
+    "gsec_date": "2026-09-16",
+    "forward_eps": null,
+    "book_value_per_share": null
+  },
+  "moat_sources": [
+    {
+      "name": "cost_advantage",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Vertically integrated API->PFI->FD chain; EBITDA margin recovered from an ~18% FY24 trough (post-Gagillapur remediation cost drag) to 22.1% in FY26 as Finished-Dosage mix rose to ~77% of revenue (from 65%) -- a real, evidenced margin-recovery trend, not yet a proven durable premium versus peers given the industry's structural pricing deflation."
+    },
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Company management (Forbes India interview) explicitly cites increased competition and US government drug-price-lowering measures as active pricing-pressure sources; ~77% of FY25 revenue is North-America-concentrated with large contract buyers able to negotiate volume/price."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "RED",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Commodity/branded-generics manufacturing for 300+ customers in 80+ countries -- some ANDA/DMF qualification friction, but no evidence of durable customer lock-in; large buyers can and do resource generic API/FD supply on price."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "RED",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "Early-stage move up the complexity curve (complex generics, emerging Peptide/CDMO segment per FY26 annual report) -- a real but nascent signal with no quantified revenue/margin contribution found yet, so not rated as an established moat source."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Among the larger global manufacturers of select high-volume generic molecules (e.g. metformin, paracetamol family); real scale, but has not translated into standout returns (ROCE mid-teens, not exceptional) or insulation from customer-driven pricing pressure."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 7,
+    "ownership_transparency": 6,
+    "capital_allocation_discipline": 6,
+    "management_stability": 6,
+    "leverage_pledge_legal": 7,
+    "earnings_quality": 6,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 31.08,
+    "promoter_holding_3y_direction": "FALLING",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "MATURE",
+    "phase_evidence": "US generics is a mature, structurally pricing-deflationary industry -- consolidated buyer power and government price-lowering measures are compressing realizations sector-wide (management-confirmed for this name). Granules' own Finished-Dosage/complex-generics mix shift and margin recovery are real but appear company-specific execution, not evidence of an industry-wide inflection; no documented 3-year revenue-share gain vs. the sector was found.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": null
+  },
+  "bridge_assumptions": {
+    "target_multiple": 2.0,
+    "horizon_years": 5,
+    "assumed_exit_pe": 34.0,
+    "own_10y_75th_pctile_pe": null,
+    "sector_10y_75th_pctile_pe": null,
+    "annual_dilution_rate": 0.02,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.02,
+    "margin_delta_mechanism_note": "Continued FD/complex-generics mix shift (FD ~77% of FY26 revenue vs 65% prior year) plus early complex-generics/Peptide-CDMO ramp, evidenced by the realized EBITDA margin improving from an ~18% FY24 trough to 22.1% in FY26."
+  },
+  "variant_perception": {
+    "market_belief": "Priced as a steadily-recovering, complex-generics-mix-shift pharma story after the FY24-25 USFDA-remediation trough",
+    "whats_wrong_with_belief": "No credible case found that this belief is wrong: the stock already trades near/at the rich sector multiple (trailing PE roughly in line with Nifty Pharma's elevated ~40x), and the Feb-2025 USFDA warning letter (not merely a Form 483) on the Gagillapur facility is a live, unresolved compliance overhang -- a real risk the market is arguably pricing reasonably, not obviously over- or under-reacting to.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Next USFDA re-inspection/warning-letter-closure outcome at Gagillapur (dated, observable, but outcome and timing genuinely unknown)",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "DATA PROVENANCE: live aggregator sites (Screener, Moneycontrol, Tijori) were unreachable from this environment; sourcing is a mix of: (1) Tier 3 REAL anchors via WebSearch of news-aggregator reports of official results -- revenue & PAT for all 5 FYs (FY22-FY26), FY26 EBITDA (Rs1,185.1Cr, 22.1% margin), promoter holding (31.08% as of 11-Sep-2026, down from 38.82%, after a further large open-market sale), Nifty Pharma sector PE (40.55, Sep-2026), 10Y G-Sec yield (7.05%, 16-Sep-2026), price/market cap (16-Sep-2026); (2) Tier 4 management commentary on US generic pricing pressure (Forbes India interview) and complex-generics strategy; (3) Tier 3/direct FDA.gov confirmation of a warning letter dated 26-Feb-2025 to the Gagillapur facility (contamination-control and data-integrity findings, OAI classification since Dec-2024 -- NOT resolved, materially more serious than a bare Form 483 or Divi's Labs' 2018 import-alert case in this same repo's sample data); (4) Tier 5 RECONSTRUCTED balance-sheet detail (depreciation, interest, capex, NFA, CWIP, NWC, debt, cash, net worth, dividend, OCF, tax rate) solved to be internally consistent with the real revenue/PAT anchors and to approximately reproduce the sourced D/E (~0.3x), ROE (~14.1%) and ROCE (16.6% FY25 / ~15.7% current) ratios -- NOT independently itemized from an audited balance sheet, since none was reachable. FY22 revenue/PAT is the single weakest-sourced anchor (one aggregate search summary only). Shares outstanding (24.78Cr) and diluted shares (27.27Cr, post a ~10% warrant-conversion equity raise used partly to reduce leverage) come from two sources that were not fully reconcilable to the same date -- flagged rather than silently resolved. No credible variant-perception case was found (N7 left unanswered, capping this at WATCH per the framework regardless of the composite score): the stock is not priced as an unfairly-punished asset the way Divi's was in the 2018 backtest dossier in this repo -- it trades near the rich sector multiple with a live, unresolved USFDA warning letter and a recent large promoter open-market sale, neither of which supports manufacturing a bull thesis, and neither of which is a smoking-gun fraud/kill-gate finding either."
+}

@@ -1,0 +1,215 @@
+{
+  "symbol": "PERSISTENT.NS",
+  "name": "Persistent Systems Limited",
+  "sector": "Information Technology",
+  "industry": "IT services / digital engineering",
+  "financials": {
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "revenue": [
+      1936.0604317118602,
+      2168.3876835172837,
+      2428.594205539358,
+      2720.0255102040815,
+      3046.428571428571,
+      3412.0
+    ],
+    "ebitda": [
+      290.409064756779,
+      325.25815252759253,
+      364.2891308309037,
+      408.00382653061223,
+      456.96428571428567,
+      511.79999999999995
+    ],
+    "depreciation": [
+      34.84908777081348,
+      39.0309783033111,
+      43.71469569970844,
+      48.960459183673464,
+      54.835714285714275,
+      61.416
+    ],
+    "interest_expense": [
+      4.356135971351685,
+      4.878872287913888,
+      5.464336962463555,
+      6.120057397959183,
+      6.854464285714284,
+      7.677
+    ],
+    "pat": [
+      162.85150759123798,
+      182.39368850218654,
+      204.28093112244895,
+      228.79464285714295,
+      256.25,
+      287.0
+    ],
+    "ocf": [
+      232.3272518054232,
+      260.206522022074,
+      291.431304664723,
+      326.4030612244898,
+      365.57142857142856,
+      409.44
+    ],
+    "capex": [
+      77.44241726847441,
+      86.73550734069134,
+      97.14376822157432,
+      108.80102040816325,
+      121.85714285714285,
+      136.48
+    ],
+    "net_fixed_assets": [
+      348.4908777081348,
+      390.30978303311105,
+      437.14695699708443,
+      489.60459183673464,
+      548.3571428571428,
+      614.16
+    ],
+    "cwip": [
+      96.80302158559302,
+      108.4193841758642,
+      121.42971027696791,
+      136.00127551020407,
+      152.32142857142856,
+      170.60000000000002
+    ],
+    "net_working_capital": [
+      387.21208634237206,
+      433.6775367034568,
+      485.71884110787164,
+      544.0051020408163,
+      609.2857142857142,
+      682.4000000000001
+    ],
+    "total_debt": [
+      48.40151079279651,
+      54.2096920879321,
+      60.714855138483955,
+      68.00063775510203,
+      76.16071428571428,
+      85.30000000000001
+    ],
+    "cash_equiv": [
+      77.44241726847441,
+      86.73550734069134,
+      97.14376822157432,
+      108.80102040816325,
+      121.85714285714285,
+      136.48
+    ],
+    "net_worth": [
+      1064.8332374415231,
+      1192.613225934506,
+      1335.726813046647,
+      1496.0140306122448,
+      1675.5357142857142,
+      1876.6000000000001
+    ],
+    "dividend_paid": [
+      40.712876897809494,
+      45.598422125546634,
+      51.07023278061224,
+      57.19866071428574,
+      64.0625,
+      71.75
+    ],
+    "tax_rate": [
+      0.27,
+      0.27,
+      0.27,
+      0.27,
+      0.27,
+      0.27
+    ]
+  },
+  "market": {
+    "price": 472.3,
+    "market_cap_cr": 3712.2,
+    "adtv_cr": 6.0,
+    "shares_outstanding": 7.86,
+    "diluted_shares_outstanding": 7.9,
+    "sector_median_pe": 22.0,
+    "sector_median_pb": 4.0,
+    "ten_year_gsec_yield": 0.065,
+    "gsec_date": "2020-03-31",
+    "forward_eps": null,
+    "book_value_per_share": null
+  },
+  "moat_sources": [
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "BUILDING",
+      "evidence_tier": "T3_AGGREGATOR",
+      "evidence_note": "Deepening account mining in BFSI/Healthcare digital-engineering accounts, multi-year platform contracts"
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "IP-led / platform accelerators claimed in investor deck, not yet Tier1-3 corroborated at this snapshot"
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 8,
+    "board_audit_independence": 8,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 7,
+    "management_stability": 7,
+    "leverage_pledge_legal": 9,
+    "earnings_quality": 8,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 30.3,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "Enterprise digital-transformation IT spend inflecting upward pre-COVID, accelerating through it",
+    "addressable_profit_pool_cr": 6000.0,
+    "current_profit_share_pct": 6.0,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": true
+  },
+  "bridge_assumptions": {
+    "target_multiple": 7.0,
+    "horizon_years": 4,
+    "assumed_exit_pe": 28.0,
+    "own_10y_75th_pctile_pe": 30.0,
+    "sector_10y_75th_pctile_pe": 29.0,
+    "annual_dilution_rate": 0.01,
+    "margin_delta_evidenced": true,
+    "assumed_margin_delta_cagr": 0.05,
+    "margin_delta_mechanism_note": "Mix shift from staffing-linked to fixed-price digital-engineering contracts, plus utilisation improvement"
+  },
+  "variant_perception": {
+    "market_belief": "Priced as a mid-tier IT services 'body-shop' commanding a discount to Tier-1 IT",
+    "whats_wrong_with_belief": "Vertical specialization (BFSI, Healthcare) and platform/IP investments are shifting the revenue mix toward higher-margin, stickier digital-engineering work the market hasn't re-rated yet",
+    "persistence_mechanism": "Mid-cap IT, structurally under-covered relative to Tier-1 IT peers",
+    "m3_edge": "coverage_neglect",
+    "gap_closing_event": "Digital-revenue-mix disclosure crossing 50%+ of total revenue",
+    "reverse_dcf_implied_growth": null,
+    "answered": true
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": false,
+  "m5_protocol_complete": true,
+  "notes": "Tier 5 reconstructed dossier, general-knowledge anchors only (search returned only FY25+ Persistent data in this session)."
+}

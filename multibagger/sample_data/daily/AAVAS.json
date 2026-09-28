@@ -1,0 +1,131 @@
+{
+  "symbol": "AAVAS.NS",
+  "name": "Aavas Financiers Limited",
+  "sector": "Financials",
+  "industry": "Housing finance company (HFC) -- affordable home loans, MSME loans and loan-against-property for low/middle-income, often informal-income, self-employed borrowers in semi-urban and rural India",
+  "financials": {
+    "years": [2021, 2022, 2023, 2024, 2025],
+    "revenue": [1091.97, 1310.95, 1636.25, 1999.60, 2358.42],
+    "ebitda": [541.87, 643.25, 784.05, 942.80, 1106.42],
+    "depreciation": [7.64, 9.18, 11.45, 14.00, 16.51],
+    "interest_expense": [550.10, 667.70, 852.20, 1056.80, 1252.00],
+    "pat": [290.3, 357.5, 428.3, 490.8, 574.1],
+    "ocf": [-1414.6, -1538.4, -2388.2, -2655.1, -2533.3],
+    "capex": [9.93, 11.93, 14.89, 18.20, 21.46],
+    "net_fixed_assets": [40.00, 42.75, 46.19, 50.39, 55.34],
+    "cwip": [4.00, 4.28, 4.62, 5.04, 5.53],
+    "net_working_capital": [4.00, 4.28, 4.62, 5.04, 5.53],
+    "total_debt": [7052.9, 8560.3, 10926.2, 13549.0, 16051.4],
+    "cash_equiv": [472.7, 567.5, 708.3, 865.6, 1021.0],
+    "net_worth": [2401.4, 2789.9, 3240.5, 3763.6, 4368.6],
+    "dividend_paid": [0.0, 0.0, 0.0, 0.0, 0.0],
+    "tax_rate": [0.252, 0.252, 0.252, 0.252, 0.252]
+  },
+  "market": {
+    "price": 1282.50,
+    "market_cap_cr": 10169.50,
+    "adtv_cr": 30.0,
+    "shares_outstanding": 7.93,
+    "diluted_shares_outstanding": 7.95,
+    "sector_median_pe": 20.11,
+    "sector_median_pb": 3.00,
+    "ten_year_gsec_yield": 0.0685,
+    "gsec_date": "2026-09-12",
+    "forward_eps": null,
+    "book_value_per_share": 550.9
+  },
+  "moat_sources": [
+    {
+      "name": "pricing_power",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Management itself has guided that spreads are compressing and likely to fall below 5% for the full year, with NIM under pressure through FY26-FY27 from intensifying competition (Aptus, Home First, Aadhar Housing, India Shelter, and now Bajaj Housing Finance and banks pushing down-market into the same informal-income segment). No evidence of sustained gross-margin/spread expansion through the cycle -- the opposite is being reported. Company earnings-call commentary (Tier 4) corroborated by multiple Tier 5 broker/media notes; no Tier 1-3 line-item spread data pulled directly from filings this session."
+    },
+    {
+      "name": "switching_costs",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "A 15-20 year secured mortgage relationship, sourced and serviced through Aavas's own branch network (not DSA-originated), does carry genuine borrower stickiness and high refinancing friction for informal-income customers. But this is partially offset by a known structural leakage specific to this segment: once a cash-flow-assessed, informal-income borrower builds a track record and becomes 'bankable', balance-transfer-out to lower-cost formal lenders (banks) is a recognised risk across the affordable-HFC industry, not unique to Aavas. Rated AMBER/HOLDING rather than GREEN/BUILDING -- a real but generic, industry-wide dynamic, not a demonstrated Aavas-specific strengthening moat."
+    },
+    {
+      "name": "network_effects",
+      "rating": "RED",
+      "trajectory": "NOT_RATED",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No platform/network dynamic -- secured mortgage lending does not become more valuable to one customer as more customers join. Structurally absent for this business model, as for any lender."
+    },
+    {
+      "name": "cost_advantage",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "Cost-to-income improved to ~43.7% in Q1 FY27 (down ~254bps YoY) but this is not demonstrated, with Tier 1-3 evidence, to be a durable >300bps advantage over best-in-class affordable-HFC peers -- Aptus Value Housing Finance in particular is widely reported to run a materially leaner cost structure and higher ROE (~18-20% vs Aavas's ~12.6-13.3%) on a comparable informal-income book. No credible basis found this session to call Aavas's cost structure an advantage rather than, at best, an average-and-improving one relative to the strongest peer in the same niche. Rated RED rather than AMBER/scale-only to avoid overstating an unverified claim."
+    },
+    {
+      "name": "intangible_assets",
+      "rating": "AMBER",
+      "trajectory": "HOLDING",
+      "evidence_tier": "T4_MANAGEMENT",
+      "evidence_note": "The core of the qualitative thesis for this name: an in-house, branch-led underwriting model for informal-income, self-employed borrowers that goes beyond formal income documents -- loan officers visiting the place of business, assessing footfall/inventory/cash-flow cycle, and accepting bank-statement cash deposits, local business registration and invoices in place of payslips/ITRs, reportedly using 100+ non-traditional data points. This is corroborated by genuinely low reported Gross/Net NPA (1.11%/0.71% as of Q1 FY27) despite serving a structurally higher-risk borrower base than a bank or prime HFC. However: (a) this same underwriting/cash-flow-assessment approach is now industry-standard practice among affordable-HFC peers (Aptus, Home First, Aadhar Housing all use comparable models), so it is not clearly Aavas-specific; (b) it is evidenced mainly through Tier 4 management narrative and Tier 5 media description, not independently Tier 1-3 verified this session; and (c) a live, unresolved National Housing Bank inspection into alleged loan-classification irregularities directly concerns the reliability of the very loan-category/asset-quality data this moat claim rests on (company disputes the allegations; unresolved as of this report). Capped at AMBER/HOLDING, not GREEN/BUILDING, for all three reasons."
+    },
+    {
+      "name": "efficient_scale",
+      "rating": "RED",
+      "trajectory": "ERODING",
+      "evidence_tier": "T5_MEDIA",
+      "evidence_note": "No duopoly/oligopoly -- affordable housing finance for informal-income borrowers has at least five well-funded, listed or soon-to-scale competitors (Aptus, Home First, Aadhar Housing, India Shelter, Bajaj Housing Finance) plus banks pushing down-market, all targeting the identical customer segment with comparable underwriting approaches. Entry barriers (an NHB/RBI licence) are industry-wide, not Aavas-specific, and well-capitalised entrants have shown they can enter and scale. Aavas's own AUM growth has decelerated from ~25% YoY (FY23) to ~15-16% YoY (Q1 FY26/FY27) while ROE has slipped from ~14.1% to ~12.6-13.3%, consistent with share/margin pressure from new entrants rather than incumbency benefiting Aavas specifically. Rated RED, not AMBER."
+    }
+  ],
+  "governance": {
+    "related_party_conduct": 7,
+    "board_audit_independence": 6,
+    "ownership_transparency": 8,
+    "capital_allocation_discipline": 7,
+    "management_stability": 3,
+    "leverage_pledge_legal": 5,
+    "earnings_quality": 5,
+    "kill_gate_fired": false,
+    "kill_gate_reason": "",
+    "section_20a_pattern_escalation": false,
+    "promoter_pledge_pct": 0.0,
+    "promoter_holding_pct": 48.88,
+    "promoter_holding_3y_direction": "STABLE",
+    "open_market_promoter_buying": false
+  },
+  "industry_context": {
+    "phase": "INFLECTION",
+    "phase_evidence": "India's mortgage-to-GDP ratio remains low (roughly low-teens percent vs 60%+ in developed markets), and formal housing-finance penetration among self-employed, informal-income borrowers in semi-urban/rural India remains structurally underpenetrated -- cited by multiple brokerages (e.g. Systematix's constructive 2026 sector-initiation note; Kotak naming Aadhar Housing and Aavas as preferred names) as a genuine long-run structural opportunity. But this is a crowded INFLECTION, not an EMERGENT market: at least five well-funded competitors (Aptus, Home First, Aadhar Housing, India Shelter, Bajaj Housing Finance) plus banks are pushing down-market into the identical informal-income segment. Aavas's own AUM growth has decelerated from ~25% YoY (FY23) to ~15-16% YoY (Q1 FY26/FY27) while ROE has slipped from ~14.1% to ~12.6-13.3% over the same window -- Aavas is a participant in an inflecting industry, not a documented share-gainer within it. share_gain_3y_vs_sector is therefore set false; the industry-phase gate is scored on the sector's own INFLECTION classification, not on a share-gain claim this dossier cannot support.",
+    "addressable_profit_pool_cr": null,
+    "current_profit_share_pct": null,
+    "is_consolidating_duopoly_leader": false,
+    "share_gain_3y_vs_sector": false
+  },
+  "bridge_assumptions": {
+    "target_multiple": 3.0,
+    "horizon_years": 7,
+    "assumed_exit_pe": 18.0,
+    "own_10y_75th_pctile_pe": 35.0,
+    "sector_10y_75th_pctile_pe": 32.0,
+    "annual_dilution_rate": 0.01,
+    "margin_delta_evidenced": false,
+    "assumed_margin_delta_cagr": 0.0,
+    "margin_delta_mechanism_note": "Management is guiding for spread/NIM COMPRESSION (spreads seen falling below 5%; cost-of-funds/competitive pricing pressure cited through FY26-FY27), not expansion. No positive, evidenced margin-delta mechanism exists, so per the Section 6A/5e cross-reference rule this is correctly left at zero and the bridge run on revenue-driven growth only."
+  },
+  "variant_perception": {
+    "market_belief": "Consensus (this is an actively covered name -- JM Financial, ICICI Securities, Kotak, Systematix, IDBI Capital and Motilal Oswal all publish target prices and quarterly notes) currently prices Aavas as a formerly premium-rated affordable-housing-finance compounder that has de-rated sharply (down roughly 40% from its 52-week high of ~Rs2,152 to ~Rs1,282) on a combination of: (a) a full promoter change from the original PE sponsors (Kedaara Capital, Partners Group) to CVC Capital via a 2024-2025 acquisition and open offer; (b) decelerating AUM growth (~25% -> ~15-16% YoY) and declining ROE (~14.1% -> ~12.6-13.3%); (c) management's own guidance for further NIM/spread compression from intensifying competition; and (d) a live, unresolved National Housing Bank inspection (reported by multiple outlets, denied by the company) into alleged loan-classification irregularities (~Rs400-500 Cr, concerning concessional SC/ST refinance eligibility and non-home-loans reclassified as home loans) that coincided with the MD/CEO's exit (April 2026) and the CFO's and CRO's resignations (announced June 2026, effective September 2026).",
+    "whats_wrong_with_belief": "I could not construct a credible, evidenced case that the market is currently mispricing this specific situation in either direction. The de-rating, the executive departures and the NHB-inspection reporting are all already widely covered by name-brand brokerages actively publishing and revising target prices -- the opposite of a quietly-neglected, under-covered situation the coverage-neglect edge requires. The bear case (intensifying competition compressing the very 'informal-income underwriting edge' a bull thesis would need to rest on, plus a genuine, currently open regulatory question mark over the reliability of the asset-quality numbers -- GNPA 1.11%, NNPA 0.71% -- that would otherwise support a moat argument) is at least as well-evidenced as any bull case available, and no specific, nameable reason consensus is wrong (rather than simply uncertain and actively repricing in real time) could be identified this session.",
+    "persistence_mechanism": "",
+    "m3_edge": "",
+    "gap_closing_event": "Not established with confidence. A confirmed resolution of the NHB inspection (clean vs. adverse finding) plus 2-3 clean quarters under the new MD/CEO (Manu Singh, appointed April 2026) and the interim CFO/CRO would be the observable events that could support a case in either direction, but neither has occurred as of this report (17 Sep 2026).",
+    "reverse_dcf_implied_growth": null,
+    "answered": false
+  },
+  "g3_state": "D",
+  "candidate_source": "systematic_screen",
+  "is_turnaround": false,
+  "is_regulated_utility_or_bfsi": true,
+  "m5_protocol_complete": false,
+  "notes": "BFSI name: is_regulated_utility_or_bfsi=true per the G1/Section 5e/6B BFSI carve-outs in FRAMEWORK_v2.2.md. G1 is therefore scored TEAL/informational only (not a discard test); the sector-appropriate leverage test (CAR 44.6% as of Q1 FY27 -- very high headroom vs the regulatory minimum -- GNPA 1.11%, NNPA 0.71%, both improving YoY, per Tier 3 aggregator/press sources cross-corroborated across multiple independent search results) is evidenced qualitatively here, not coded, since 'that replacement test is not yet specified by this suite' per the framework text. industry_context.addressable_profit_pool_cr is left null per the v2.2 Section 6B note (no product-market TAM concept for a lender); the Section 6B runway gate is not meaningfully scored for this name. G3_STATE CAVEAT (important, not a clean read): G3-D formally requires 'no investigation' -- that is not literally true here, since a National Housing Bank inspection into alleged loan-classification irregularities is reported as currently open (company denies adverse findings; no confirmed regulatory order or forensic-audit finding exists as of this report, so this does not meet the MQF kill-gate bar of 'forensic audit ordered by a regulator... in progress or with adverse findings' or 'conviction' or 'wilful defaulter' or 'SEBI debarment'). None of G3-A (siphoning/fraud), G3-B (pledge 10-25%/holding<15%) or G3-C (active SEBI PFUTP on sitting MD/CFO -- this is an NHB matter, not a SEBI PFUTP action) cleanly describes the situation either. G3-D was selected as the least-inaccurate available bucket, but the real substance of this concern is instead carried, deliberately and honestly, in the MQF governance pillar scores below (management_stability=3, leverage_pledge_legal=5, earnings_quality=5) rather than hidden by a clean G3 label. DATA QUALITY / SOURCE TIERS: AUM (FY21 Rs9,454.3 Cr, FY22 Rs11,350.2 Cr, FY23 Rs14,166.7 Cr, FY24 Rs17,312.6 Cr, FY25 Rs20,420 Cr), PAT (FY21 Rs290.3 Cr, FY22 Rs357.5 Cr, FY23 Rs428.3 Cr, FY24 Rs490.8 Cr, FY25 Rs574.1 Cr, Q1 FY27 Rs171.3 Cr +23% YoY), Q1 FY27 GNPA 1.11%/NNPA 0.71%, ROE 13.3% (+78bps YoY), ROA 3.19%, CAR 44.6%, FY25 book value per share Rs550.9, FY25 net worth (derived: BVPS x shares outstanding), current price (Rs1,282.50, 16 Sep 2026), market cap (Rs10,169.50 Cr), promoter holding (48.88%, foreign promoter = CVC Capital, 0% pledge), zero dividend history, and the CEO/CFO/CRO resignation dates are Tier 3 (aggregator/brokerage/press, cross-corroborated across multiple independent search results including company investor-relations-sourced figures relayed by aggregators) or Tier 2-adjacent (exchange-disclosed board/management changes relayed by press) but were NOT independently pulled from a primary NSE/BSE filing, NHB order or the FY25 audited annual report PDF in this session (several primary-source URLs, including screener.in, tickertape.in, aavas.in and idbicapital.com, were blocked by this session's network egress proxy and could not be fetched directly). The NHB-inspection/loan-classification allegation itself is Tier 5 (media reports, sourced to unnamed persons per some outlets) and is explicitly an ALLEGATION-MEDIA CLAIM per MQF Section 19 tagging, not a VERIFIED FACT -- the company has denied adverse findings and characterised some reporting as inaccurate; treat as DISCLOSED-UNRESOLVED at most. The ENTIRE non-interest balance-sheet series (depreciation, interest expense, net fixed assets, CWIP, 'net working capital', total debt/borrowings, cash equivalents, capex, OCF, and revenue/EBITDA for FY21-FY24) are Tier 5 RECONSTRUCTIONS built by applying assumed ratios (an ~11.55% of AUM total-income yield anchored to the one directly-reported FY25 total-income figure of Rs2,358.42 Cr / Rs2,35,841.50 lakh; a ~7.8% assumed cost of debt; total_debt approximated as AUM minus net worth; cash approximated at ~5% of AUM) and geometric interpolation of net worth between the FY21 Rs2,401.4 Cr anchor and the FY25 Rs4,368.6 Cr anchor -- NOT pulled line-by-line from audited statements this session. 'EBITDA' in the financials series is a rough NII + fee/other-income proxy (revenue minus interest_expense), not comparable to a non-financial company's EBITDA -- same convention used for the BAJFINANCE.json and SOUTHBANK.json reference dossiers in this repo. Sector median P/E (20.11, median of Aptus 14.82x / Aadhar 20.11x / Home First 25.04x) and P/B (3.00, median of 2.83x/3.00x/3.09x) are Tier 3 peer-aggregator figures, cross-corroborated but not independently recomputed from filings. The 10-year G-sec yield (6.85%, dated 2026-09-12) and ADTV (~Rs30 Cr/day, derived from a reported ~2.05 lakh-share 20-session average volume at the current price) and all bridge_assumptions (target multiple, horizon, exit P/E, 10-year percentile P/Es, dilution rate) are Tier 5 analyst estimates, not independently sourced. STRUCTURAL CAVEAT (not a data-quality issue): as already flagged for SOUTHBANK.json in this repo, Section 5e's ROIIC/reinvestment-rate formula (net fixed assets + CWIP + net working capital as 'invested capital') does not describe a lender's real economics -- a housing financier's actual growth capital is its loan book funded by borrowings and equity, not its small fixed-asset base. Because Aavas's fixed-asset base is tiny relative to its loan book and earnings, this dossier's computed ROIIC/reinvestment-rate/engine-growth figures are a known artefact of a near-zero denominator and should NOT be read as a genuine measure of this company's real compounding capacity in either direction. A genuine BFSI-specific Section 5e variant (incremental spread income / incremental AUM, book-value-per-share CAGR, credit-cost-adjusted ROE) does not yet exist in this framework (v2.2 denominator ledger: 'proposed, not yet specified, n=0'). MOAT: rated deliberately skeptically -- 0 GREEN, 2 AMBER (switching_costs, intangible_assets), 4 RED -- reflecting genuinely good, but not clearly durable or Aavas-specific, underwriting/asset-quality evidence in a segment now facing intensifying, well-capitalised competition and margin compression that management itself is guiding for. No source is rated BUILDING, so the Section 5b-T moat-trajectory gate (requires >=1 BUILDING source, Tier 1-3) does not clear. variant_perception.answered is honestly set to False: the de-rating, executive turnover and NHB-inspection reporting are all already widely and actively covered by multiple brokerages publishing target prices, which is the opposite of the coverage-neglect / structural-non-participation / time-horizon-mismatch conditions M3 requires, and no specific, evidenced reason consensus is wrong (versus simply uncertain and actively repricing) could be constructed. m5_protocol_complete is honestly False -- this is a single-pass, web-search-based reconstruction (with several primary-source domains blocked by the session's network proxy) rather than a completed adversarial (M5) review with a logged 48-hour cooling period."
+}
